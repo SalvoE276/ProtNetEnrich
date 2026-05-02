@@ -6,7 +6,7 @@ echo Colleting data from STRING-DB.org...
 python3 src/ppi_data_retrieval.py tests/query_proteins.txt tests/ppi_data.json -il 15
 # Step 2. Build PPI network using Networkx
 echo Building network...
-python3 src/network_generator.py tests/ppi_data.json tests
+python3 src/network_generator.py tests/ppi_data.json tests tests/query_proteins.txt
 # Step 3. PPI network Analysis
 echo Starting network analysis...
-python3 src/network_analysis.py tests/network.gml
+python3 src/network_analysis.py tests/network.gml tests --all_metrics

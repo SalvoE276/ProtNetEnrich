@@ -5,7 +5,6 @@ graph [
     ENS_id "ENSP00000338990"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 1
@@ -13,7 +12,6 @@ graph [
     ENS_id "ENSP00000432412"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 2
@@ -21,7 +19,6 @@ graph [
     ENS_id "ENSP00000283290"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 3
@@ -29,7 +26,6 @@ graph [
     ENS_id "ENSP00000384259"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 4
@@ -37,7 +33,6 @@ graph [
     ENS_id "ENSP00000355231"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 5
@@ -45,7 +40,6 @@ graph [
     ENS_id "ENSP00000357625"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 6
@@ -53,7 +47,6 @@ graph [
     ENS_id "ENSP00000370003"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 7
@@ -61,7 +54,6 @@ graph [
     ENS_id "ENSP00000482753"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 8
@@ -69,7 +61,6 @@ graph [
     ENS_id "ENSP00000398523"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 9
@@ -77,7 +68,6 @@ graph [
     ENS_id "ENSP00000339191"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 10
@@ -85,7 +75,6 @@ graph [
     ENS_id "ENSP00000329507"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 11
@@ -93,7 +82,6 @@ graph [
     ENS_id "ENSP00000392025"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 12
@@ -101,7 +89,6 @@ graph [
     ENS_id "ENSP00000367284"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 13
@@ -109,39 +96,34 @@ graph [
     ENS_id "ENSP00000296137"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 14
     label "GABARAP"
     ENS_id "ENSP00000306866"
     query_protein 0
-    color "red"
-    size 10
+    color "#b4cffb"
   ]
   node [
     id 15
     label "GABARAPL1"
     ENS_id "ENSP00000411256"
     query_protein 0
-    color "red"
-    size 10
+    color "#b4cffb"
   ]
   node [
     id 16
     label "GABARAPL2"
     ENS_id "ENSP00000037243"
     query_protein 0
-    color "red"
-    size 10
+    color "#b4cffb"
   ]
   node [
     id 17
     label "KEAP1"
     ENS_id "ENSP00000377245"
     query_protein 0
-    color "red"
-    size 10
+    color "#b4cffb"
   ]
   node [
     id 18
@@ -149,7 +131,6 @@ graph [
     ENS_id "ENSP00000477713"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 19
@@ -157,7 +138,6 @@ graph [
     ENS_id "ENSP00000498476"
     query_protein 1
     color "green"
-    size 10
   ]
   node [
     id 20
@@ -165,23 +145,20 @@ graph [
     ENS_id "ENSP00000354558"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 21
     label "NBR1"
     ENS_id "ENSP00000343479"
     query_protein 0
-    color "red"
-    size 10
+    color "#b4cffb"
   ]
   node [
     id 22
     label "OPTN"
     ENS_id "ENSP00000368022"
     query_protein 0
-    color "red"
-    size 10
+    color "#b4cffb"
   ]
   node [
     id 23
@@ -189,7 +166,6 @@ graph [
     ENS_id "ENSP00000367830"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 24
@@ -197,7 +173,6 @@ graph [
     ENS_id "ENSP00000267257"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 25
@@ -205,7 +180,6 @@ graph [
     ENS_id "ENSP00000387286"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 26
@@ -213,7 +187,6 @@ graph [
     ENS_id "ENSP00000025008"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 27
@@ -221,7 +194,6 @@ graph [
     ENS_id "ENSP00000272317"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 28
@@ -229,7 +201,6 @@ graph [
     ENS_id "ENSP00000307272"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 29
@@ -237,7 +208,6 @@ graph [
     ENS_id "ENSP00000253063"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 30
@@ -245,7 +215,6 @@ graph [
     ENS_id "ENSP00000385025"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 31
@@ -253,7 +222,6 @@ graph [
     ENS_id "ENSP00000374455"
     query_protein 1
     color "green"
-    size 10
   ]
   node [
     id 32
@@ -261,7 +229,6 @@ graph [
     ENS_id "ENSP00000386921"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 33
@@ -269,7 +236,6 @@ graph [
     ENS_id "ENSP00000365962"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 34
@@ -277,7 +243,6 @@ graph [
     ENS_id "ENSP00000433623"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 35
@@ -285,7 +250,6 @@ graph [
     ENS_id "ENSP00000441543"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 36
@@ -293,7 +257,6 @@ graph [
     ENS_id "ENSP00000324560"
     query_protein 1
     color "green"
-    size 10
   ]
   node [
     id 37
@@ -301,7 +264,6 @@ graph [
     ENS_id "ENSP00000378914"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 38
@@ -309,7 +271,6 @@ graph [
     ENS_id "ENSP00000378487"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   node [
     id 39
@@ -317,7 +278,6 @@ graph [
     ENS_id "ENSP00000295888"
     query_protein 0
     color "#b4cffb"
-    size 10
   ]
   edge [
     source 0
@@ -330,8 +290,6 @@ graph [
     escore 0.684
     dscore 0.9
     tscore 0.987
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 1
@@ -344,8 +302,6 @@ graph [
     escore 0.758
     dscore 0.8
     tscore 0.987
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 2
@@ -358,8 +314,6 @@ graph [
     escore 0.6950000000000001
     dscore 0.0
     tscore 0.378
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 3
@@ -372,8 +326,6 @@ graph [
     escore 0.964
     dscore 0.0
     tscore 0.154
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 4
@@ -386,8 +338,6 @@ graph [
     escore 0.766
     dscore 0.0
     tscore 0.84
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 5
@@ -400,8 +350,6 @@ graph [
     escore 0.323
     dscore 0.0
     tscore 0.734
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 6
@@ -414,8 +362,6 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.765
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 7
@@ -428,8 +374,6 @@ graph [
     escore 0.457
     dscore 0.9
     tscore 0.394
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 8
@@ -442,8 +386,6 @@ graph [
     escore 0.316
     dscore 0.0
     tscore 0.781
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 9
@@ -456,8 +398,6 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.868
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 10
@@ -470,8 +410,6 @@ graph [
     escore 0.0
     dscore 0.0
     tscore 0.922
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 11
@@ -484,8 +422,6 @@ graph [
     escore 0.457
     dscore 0.9
     tscore 0.355
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 12
@@ -498,8 +434,6 @@ graph [
     escore 0.9430000000000001
     dscore 0.7000000000000001
     tscore 0.979
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 13
@@ -512,8 +446,6 @@ graph [
     escore 0.9470000000000001
     dscore 0.0
     tscore 0.872
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 14
@@ -526,8 +458,6 @@ graph [
     escore 0.589
     dscore 0.0
     tscore 0.614
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 14
@@ -540,8 +470,6 @@ graph [
     escore 0.51
     dscore 0.9
     tscore 0.984
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 15
@@ -554,8 +482,6 @@ graph [
     escore 0.577
     dscore 0.0
     tscore 0.496
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 15
@@ -568,8 +494,6 @@ graph [
     escore 0.51
     dscore 0.9
     tscore 0.984
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 16
@@ -582,8 +506,6 @@ graph [
     escore 0.577
     dscore 0.0
     tscore 0.6920000000000001
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 16
@@ -596,8 +518,6 @@ graph [
     escore 0.639
     dscore 0.9
     tscore 0.984
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 17
@@ -610,8 +530,6 @@ graph [
     escore 0.724
     dscore 0.5
     tscore 0.982
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 17
@@ -624,8 +542,6 @@ graph [
     escore 0.42
     dscore 0.8
     tscore 0.0
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 18
@@ -638,8 +554,6 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.962
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 19
@@ -652,8 +566,6 @@ graph [
     escore 0.6960000000000001
     dscore 0.5
     tscore 0.983
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 19
@@ -666,8 +578,6 @@ graph [
     escore 0.96
     dscore 0.0
     tscore 0.8170000000000001
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 19
@@ -680,8 +590,6 @@ graph [
     escore 0.6950000000000001
     dscore 0.9
     tscore 0.764
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 19
@@ -694,8 +602,6 @@ graph [
     escore 0.0
     dscore 0.0
     tscore 0.8320000000000001
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 19
@@ -708,8 +614,6 @@ graph [
     escore 0.292
     dscore 0.5
     tscore 0.49
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 20
@@ -722,8 +626,6 @@ graph [
     escore 0.459
     dscore 0.5
     tscore 0.8140000000000001
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 21
@@ -736,8 +638,6 @@ graph [
     escore 0.457
     dscore 0.5
     tscore 0.974
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 22
@@ -750,8 +650,6 @@ graph [
     escore 0.438
     dscore 0.0
     tscore 0.936
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 23
@@ -764,8 +662,6 @@ graph [
     escore 0.615
     dscore 0.0
     tscore 0.92
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 25
@@ -778,8 +674,6 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.8280000000000001
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 26
@@ -792,8 +686,6 @@ graph [
     escore 0.751
     dscore 0.8
     tscore 0.987
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 27
@@ -806,8 +698,6 @@ graph [
     escore 0.55
     dscore 0.9
     tscore 0.20800000000000002
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 28
@@ -820,8 +710,6 @@ graph [
     escore 0.457
     dscore 0.5
     tscore 0.599
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 29
@@ -834,8 +722,6 @@ graph [
     escore 0.457
     dscore 0.72
     tscore 0.587
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 30
@@ -848,8 +734,6 @@ graph [
     escore 0.457
     dscore 0.72
     tscore 0.0
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 31
@@ -862,8 +746,6 @@ graph [
     escore 0.457
     dscore 0.9
     tscore 0.982
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 31
@@ -876,8 +758,6 @@ graph [
     escore 0.457
     dscore 0.8
     tscore 0.8130000000000001
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 31
@@ -890,8 +770,6 @@ graph [
     escore 0.619
     dscore 0.9
     tscore 0.209
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 31
@@ -904,8 +782,6 @@ graph [
     escore 0.457
     dscore 0.0
     tscore 0.933
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 32
@@ -918,8 +794,6 @@ graph [
     escore 0.292
     dscore 0.8
     tscore 0.0
-    color "#869BC4"
-    width 1
   ]
   edge [
     source 36
@@ -932,7 +806,5 @@ graph [
     escore 0.0
     dscore 0.9
     tscore 0.962
-    color "#869BC4"
-    width 1
   ]
 ]
