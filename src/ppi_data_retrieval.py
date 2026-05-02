@@ -24,7 +24,7 @@ if __name__=='__main__':
         source_file = sys.argv[1]
         output_file = sys.argv[2]
     except IndexError:
-        raise FileNotFoundError('Protein source/output file not specified')
+        raise FileNotFoundError('Protein source/output file not valid')
     
     # Optional params handling
     params = {
