@@ -2,14 +2,14 @@ import sys
 import requests as r
 
 
-def retrieve_STRING_ppi_data(proteins: list, interactors_limit: int = 30):
+def retrieve_STRING_ppi_data(proteins: list, interactors_limit: int = 30, taxon: int = 9606):
     if len(proteins) == 1:
         query = proteins[0]
     elif len(proteins) == 0:
         raise ValueError('Protein list is empty')
     else:
         query = "%0d".join(proteins)
-    url = f'https://string-db.org/api/json/interaction_partners?identifiers={query}&limit={interactors_limit}'
+    url = f'https://string-db.org/api/json/interaction_partners?identifiers={query}&limit={interactors_limit}&species={taxon}&network_type=physical'
     response = r.get(url)
     if not response.ok:
         raise ConnectionError('Error during connection to STRING.org')
