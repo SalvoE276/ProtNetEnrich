@@ -9,4 +9,5 @@ echo Building network...
 python3 src/network_generator.py tests/ppi_data.json tests tests/query_proteins.txt
 # Step 3. PPI network Analysis
 echo Starting network analysis...
-python3 src/network_analysis.py tests/network.gml tests --all_metrics
+python3 src/network_analysis.py tests/raw_network.gml tests -stds 2 --all_metrics
+# Step 4. Enrichment analysis
