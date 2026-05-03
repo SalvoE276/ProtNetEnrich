@@ -145,7 +145,7 @@ if __name__=='__main__':
     nx.set_node_attributes(net, {n:False for n in list(net.nodes) if n not in hubs}, name='candidate_hub')
 
     ### Visualization network ###
-    inet = Network(notebook=True, cdn_resources="in_line", select_menu=True)
+    inet = Network(height='90vh', width='100%', notebook=True, cdn_resources="in_line", select_menu=True) # do not use % in height argument
     nx.set_edge_attributes(net, {e:"#869BC4" for e in list(net.edges)}, name='color') # fix inconsistent edges color
     nx.set_edge_attributes(net, nx.get_edge_attributes(net, 'score'), name='value') # add edges width scaling based on STRING score
     inet.from_nx(net)
