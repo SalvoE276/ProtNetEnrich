@@ -1,9 +1,10 @@
 import networkx as nx
 from pyvis.network import Network
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import sys
+import sys, json, os, datetime
 
 def compute_candidate_proteins(data_dict: dict, query_proteins: list, n_stds: int = 2):
     data = data_dict.copy()
@@ -14,12 +15,36 @@ def compute_candidate_proteins(data_dict: dict, query_proteins: list, n_stds: in
 def compute_and_save_diagnostics(net: nx.classes.graph, ccoef: list, dc: list, cc: list, bc: list, n_stds: int = 2):
     global output_folder
 
+    # create plot output foder
+    try:
+        os.mkdir(output_folder+"/diagnostic_plots")
+    except:
+        print("diagnostic_plots folder already exists")
+
     metrics_dict = {
         "clustering_coefficients" : np.array(list(ccoef.values())),
         "degree_centralities" : np.array(list(dc.values())),
         "closeness_centralities" : np.array(list(cc.values())),
         "betweenness_centralities" : np.array(list(bc.values()))
     }
+
+    ### Plot STRING scores data ###
+    df_scores = pd.DataFrame([e[2] for e in list(net.edges(data=True))])
+    fig, axes = plt.subplots(nrows=2, ncols=4, figsize=(20, 11))
+    axes = axes.flatten()
+
+    for ax, col in zip(axes, df_scores.columns):
+        col_mean = df_scores[col].mean()
+        sns.histplot(data=df_scores, x=col, ax=ax, color="#4C72B0", alpha=0.6, edgecolor='black', bins=50)
+        ax.axvline(col_mean, color="black", linestyle='--', linewidth=1.8, label=f"Mean = {col_mean:.2f}") # add mean line
+        ax.set_title(col)
+        ax.set_xlabel("")
+
+    plt.suptitle("Distribution of STRING scores", fontsize=20, fontweight='bold')
+    plt.tight_layout()
+    plt.savefig(output_folder+"/diagnostic_plots/scores_distribution.png", dpi=150, bbox_inches="tight")
+    plt.clf()
+
 
     ### Compute degree distribution ###
     degrees = np.array([d for n, d in net.degree()])
@@ -29,7 +54,7 @@ def compute_and_save_diagnostics(net: nx.classes.graph, ccoef: list, dc: list, c
     plt.title("Degrees distribution", fontsize=20, fontweight='bold')
     plt.ylabel("Count")
     plt.xlabel("Degree")
-    plt.savefig(output_folder+"/degrees_distribution.png", dpi=150, bbox_inches="tight")
+    plt.savefig(output_folder+"/diagnostic_plots/degrees_distribution.png", dpi=150, bbox_inches="tight")
     plt.clf()
 
 
@@ -56,7 +81,7 @@ def compute_and_save_diagnostics(net: nx.classes.graph, ccoef: list, dc: list, c
 
     plt.suptitle("Topology metrics distributions", fontsize=15, fontweight="bold")
     plt.tight_layout()
-    plt.savefig(output_folder+"/topology_metrics_plots.png", dpi=150, bbox_inches="tight")
+    plt.savefig(output_folder+"/diagnostic_plots/topology_metrics_plots.png", dpi=150, bbox_inches="tight")
     plt.clf()
 
 
@@ -98,15 +123,18 @@ if __name__=='__main__':
 
 
     # Eval optional cli parameters
+    used_topology_metrics = []
     if '--all_metrics' not in sys.argv:
         hubs = []
         for metric in hubs_per_topology_metrics.keys():
             if f'-{metric}' in sys.argv:
                 hubs.extend(hubs_per_topology_metrics[metric])
+                used_topology_metrics.append(metric)
         hubs = list(set(hubs))
     else:
         hubs = [protein for v in hubs_per_topology_metrics.values() for protein in v]
         hubs = list(set(hubs))
+        used_topology_metrics.extend(list(hubs_per_topology_metrics.keys()))
     
 
     # Change color to candidate hubs
@@ -125,3 +153,10 @@ if __name__=='__main__':
 
     ### Save Network ###
     nx.write_gml(net, output_folder+"/network.gml")
+
+    ### Save candidate hub proteins ###
+    output_data = {'header':{'datetime':str(datetime.datetime.now()), 'topology_metrics':used_topology_metrics, 'std_threshold':params_values['n_stds'] if 'n_stds' in params_values.keys() else 2.0}, 
+                   'hubs':[{'gene_symbol':protein, 'id':net.nodes[protein]['ENS_id']} for protein in hubs]}
+
+    with open(output_folder+"/hubs.cand.json", "w") as jsonfile:
+        json.dump(output_data, jsonfile)
