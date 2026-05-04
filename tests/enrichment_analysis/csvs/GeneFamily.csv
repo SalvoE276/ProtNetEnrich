@@ -1,0 +1,5 @@
+ID,Name,PValue,QValueFDRBH,QValueFDRBY,QValueBonferroni,TotalGenes,GenesInTerm,GenesInQuery,GenesInTermInQuery,Source,URL,Genes
+1022,Autophagy related,5.5261241206278994e-08,2.2104496482511598e-07,4.6051034338565824e-07,2.2104496482511598e-07,18080,33,5,3,genenames.org,http://www.genenames.org/cgi-bin/genefamilies/set/1022,"['GABARAPL2', 'GABARAP', 'GABARAPL1']"
+91,Zinc fingers ZZ-type|Lysine acetyltransferases,0.00496852281998597,0.00993704563997194,0.020702178416608204,0.01987409127994388,18080,18,5,1,genenames.org,http://www.genenames.org/cgi-bin/genefamilies/set/91,['NBR1']
+617,Kelch like|BTB domain containing,0.011562478922416812,0.015416638563222416,0.03211799700671336,0.04624991568966725,18080,42,5,1,genenames.org,http://www.genenames.org/cgi-bin/genefamilies/set/617,['KEAP1']
+861,Basic leucine zipper proteins|BTB domain containing,0.036516254004482135,0.036516254004482135,0.07607552917600444,0.14606501601792854,18080,134,5,1,genenames.org,http://www.genenames.org/cgi-bin/genefamilies/set/861,['KEAP1']

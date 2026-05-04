@@ -91,7 +91,7 @@ if __name__=='__main__':
         network_path = sys.argv[1]
         output_folder = sys.argv[2]
     except IndexError:
-        raise FileNotFoundError("PPI file data is not valid. Only JSON files are accepted.")
+        raise FileNotFoundError("Wrong use of command line arguments.")
     
     # Optional params handling
     params = {

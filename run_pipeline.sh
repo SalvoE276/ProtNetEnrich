@@ -16,3 +16,6 @@ python3 src/network_generator.py $raw_interaction_data $working_dir $queryfile
 echo Starting network analysis...
 python3 src/network_analysis.py $working_dir/raw_network.gml $working_dir -stds 2 --all_metrics
 # Step 4. Enrichment analysis
+echo Starting hubs enrichment analysis...
+python3 src/enrichment_analysis.py $working_dir/hubs.cand.json $working_dir
+echo "*** Process completed ***"
