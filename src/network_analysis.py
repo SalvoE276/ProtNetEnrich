@@ -122,7 +122,7 @@ if __name__=='__main__':
     }
 
 
-    # Eval optional cli parameters
+    # Eval optional cli metric parameters
     used_topology_metrics = []
     if '--all_metrics' not in sys.argv:
         hubs = []
