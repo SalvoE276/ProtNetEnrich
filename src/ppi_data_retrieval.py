@@ -27,7 +27,7 @@ if __name__=='__main__':
     ### Collect cli args ###
     try:
         source_file = sys.argv[1]
-        output_file = sys.argv[2]
+        output_path = sys.argv[2]
     except IndexError:
         raise FileNotFoundError('Protein source/output file not valid')
     
@@ -44,5 +44,5 @@ if __name__=='__main__':
         proteins = file.readlines()
     
     data = retrieve_STRING_ppi_data(proteins, **params_values)
-    with open(output_file, 'w') as jsonfile:
+    with open(output_path+"/ppi_data.json", 'w') as jsonfile:
         json.dump(data, jsonfile)
