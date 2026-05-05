@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import sys, json, os, datetime
 
+
 def compute_candidate_proteins(data_dict: dict, query_proteins: list, n_stds: int = 2):
     data = data_dict.copy()
     for e in query_proteins:
@@ -14,19 +15,20 @@ def compute_candidate_proteins(data_dict: dict, query_proteins: list, n_stds: in
     candidates = [{'gene':node, 'value':v} for node, v in data.items() if v > np.mean(list(data.values()))+(n_stds*np.std(list(data.values())))] # values more than 2 std
     return [e['gene'] for e in sorted(candidates, key=lambda x: x['value'], reverse=True)]
 
-# Aggregation of rankings
-def borda_count(list_of_ranks):
-    scores = defaultdict(float)
-    for l in list_of_ranks:
-        n = len(l)
-        if n == 1:
-            scores[l[0]] += 1.0
-            continue
-        for i, e in enumerate(l):
-            scores[e] += (n - 1 - i) / (n - 1)  # top gets n-1 points
-    ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-    return [gene for gene, points in ranked]
+def borda_count_ranking(list_of_ranks):
+    if not list_of_ranks:
+        return []
 
+    scores = {}
+    n = len(list_of_ranks[0])
+    for rank in list_of_ranks:
+        for i, gene in enumerate(rank):
+            points = (n - 1) - i
+            scores[gene] = scores.get(gene, 0) + points
+            
+    # Sort genes by score in descending order
+    ranking = sorted(scores.items(), key=lambda item: item[1], reverse=True)
+    return [e[0] for e in ranking]
     
 
 def compute_and_save_diagnostics(net: nx.classes.graph, ccoef: list, dc: list, cc: list, bc: list, n_stds: int = 2):
@@ -125,19 +127,19 @@ if __name__=='__main__':
     degree_centralities = nx.degree_centrality(net)
     closeness_centralities = nx.closeness_centrality(net)
     betweenness_centralities = nx.betweenness_centrality(net)
+    topological_measures = {
+        'ccoef' : clustering_coeffs,
+        'dc' : degree_centralities,
+        'cc' : closeness_centralities,
+        'bc' : betweenness_centralities
+    }
 
     # Compute diagnostic plots
     compute_and_save_diagnostics(net, clustering_coeffs, degree_centralities, closeness_centralities, betweenness_centralities, **params_values)
 
 
     query_proteins = [p[0] for p in net.nodes(data='query_protein') if p[1]] # exctract original query proteins
-    hubs_per_topology_metrics = {
-        'ccoef' : compute_candidate_proteins(clustering_coeffs, query_proteins, **params_values),
-        'dc' : compute_candidate_proteins(degree_centralities, query_proteins, **params_values),
-        'cc' : compute_candidate_proteins(closeness_centralities, query_proteins, **params_values),
-        'bc' : compute_candidate_proteins(betweenness_centralities, query_proteins, **params_values)
-    }
-
+    hubs_per_topology_metrics = {k:compute_candidate_proteins(v, query_proteins, **params_values) for k,v in topological_measures.items()}
 
     # Eval optional cli metric parameters
     used_topology_metrics = []
@@ -151,9 +153,19 @@ if __name__=='__main__':
         metrics_cands = hubs_per_topology_metrics
         used_topology_metrics.extend(list(hubs_per_topology_metrics.keys()))
 
-    # Aggregation of ranks
-    hubs = borda_count(list(metrics_cands.values())) # ranked
+    # Get all candidate hubs
+    cand_hubs = list(set([e for k,v in metrics_cands.items() for e in v]))
+
+    # Get hubs topological measures
+    hubs_metrics = {hub:{metric:dict(topological_measures[metric])[hub] for metric in used_topology_metrics} for hub in cand_hubs}
+
+    # Eval full list of cand hubs for each used metric
+    full_rank = []
+    for metric in used_topology_metrics:
+        full_rank.append([gene for gene, vals in dict(sorted(hubs_metrics.items(), key=lambda item: item[1]['ccoef'], reverse=True)).items()])
     
+    # Aggregation of ranks
+    hubs = borda_count_ranking(full_rank)
 
     # Change color to candidate hubs
     nx.set_node_attributes(net, {p:"red" for p in hubs}, name='color')

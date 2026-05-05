@@ -18,5 +18,8 @@ python3 src/network_analysis.py $working_dir/raw_network.gml $working_dir -stds 
 # Step 4. Enrichment analysis
 echo Starting hubs enrichment analysis...
 python3 src/enrichment_analysis.py $working_dir/hubs.cand.json $working_dir
+# Step 5. GSEA of candidate hubs
+echo Starting hubs GSEA...
+python3 src/GSEA.py $working_dir/hubs.cand.json $working_dir
 
 echo "*** Process completed ***"
