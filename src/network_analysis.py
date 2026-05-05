@@ -2,6 +2,7 @@ import networkx as nx
 from pyvis.network import Network
 import numpy as np
 import pandas as pd
+from collections import defaultdict
 import matplotlib.pyplot as plt
 import seaborn as sns
 import sys, json, os, datetime
@@ -10,7 +11,23 @@ def compute_candidate_proteins(data_dict: dict, query_proteins: list, n_stds: in
     data = data_dict.copy()
     for e in query_proteins:
         data.pop(e)
-    return [node for node, v in data.items() if v > np.mean(list(data.values()))+(n_stds*np.std(list(data.values())))] # values more than 2 std
+    candidates = [{'gene':node, 'value':v} for node, v in data.items() if v > np.mean(list(data.values()))+(n_stds*np.std(list(data.values())))] # values more than 2 std
+    return [e['gene'] for e in sorted(candidates, key=lambda x: x['value'], reverse=True)]
+
+# Aggregation of rankings
+def borda_count(list_of_ranks):
+    scores = defaultdict(float)
+    for l in list_of_ranks:
+        n = len(l)
+        if n == 1:
+            scores[l[0]] += 1.0
+            continue
+        for i, e in enumerate(l):
+            scores[e] += (n - 1 - i) / (n - 1)  # top gets n-1 points
+    ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+    return [gene for gene, points in ranked]
+
+    
 
 def compute_and_save_diagnostics(net: nx.classes.graph, ccoef: list, dc: list, cc: list, bc: list, n_stds: int = 2):
     global output_folder
@@ -124,17 +141,18 @@ if __name__=='__main__':
 
     # Eval optional cli metric parameters
     used_topology_metrics = []
+    metrics_cands = {}
     if '--all_metrics' not in sys.argv:
-        hubs = []
         for metric in hubs_per_topology_metrics.keys():
             if f'-{metric}' in sys.argv:
-                hubs.extend(hubs_per_topology_metrics[metric])
+                metrics_cands[metric] = hubs_per_topology_metrics[metric]
                 used_topology_metrics.append(metric)
-        hubs = list(set(hubs))
     else:
-        hubs = [protein for v in hubs_per_topology_metrics.values() for protein in v]
-        hubs = list(set(hubs))
+        metrics_cands = hubs_per_topology_metrics
         used_topology_metrics.extend(list(hubs_per_topology_metrics.keys()))
+
+    # Aggregation of ranks
+    hubs = borda_count(list(metrics_cands.values())) # ranked
     
 
     # Change color to candidate hubs
@@ -162,7 +180,7 @@ if __name__=='__main__':
     nx.write_gml(net, output_folder+"/network.gml")
 
     ### Save candidate hub proteins ###
-    output_data = {'header':{'datetime':str(datetime.datetime.now()), 'topology_metrics':used_topology_metrics, 'std_threshold':params_values['n_stds'] if 'n_stds' in params_values.keys() else 2.0}, 
+    output_data = {'header':{'datetime':str(datetime.datetime.now()), 'topology_metrics':used_topology_metrics, 'std_threshold':params_values['n_stds'] if 'n_stds' in params_values.keys() else 2.0}, "Ranked":True,
                    'hubs':[{'gene_symbol':protein, 'id':net.nodes[protein]['ENS_id']} for protein in hubs]}
 
     with open(output_folder+"/hubs.cand.json", "w") as jsonfile:
