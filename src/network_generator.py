@@ -39,12 +39,6 @@ if __name__=="__main__":
     nx.set_node_attributes(net, {k:'green' for k in query_proteins}, name="color")
     nx.set_node_attributes(net, {k:False for k in list(net.nodes) if k not in query_proteins}, name="query_protein")
     nx.set_node_attributes(net, {k:'#b4cffb' for k in list(net.nodes) if k not in query_proteins}, name="color")
-
-    ### Draw network for visual inspection ###
-    plt.figure(figsize=(20, 11))
-    plt.axis('off')
-    nx.draw_networkx(net, with_labels=True, node_size=[(d+5)**3+1000 for e, d in net.degree()])
-    plt.savefig(output_folder+'/raw_network.png')
     
     ### Save Network ###
     nx.write_gml(net, output_folder+"/raw_network.gml")

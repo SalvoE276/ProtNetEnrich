@@ -370,6 +370,7 @@ graph [
     escore 0.684
     dscore 0.9
     tscore 0.987
+    distance 0.0010000000000000009
     color "#869BC4"
     value 0.999
     width 1
@@ -385,6 +386,7 @@ graph [
     escore 0.758
     dscore 0.8
     tscore 0.987
+    distance 0.0010000000000000009
     color "#869BC4"
     value 0.999
     width 1
@@ -400,6 +402,7 @@ graph [
     escore 0.6950000000000001
     dscore 0.0
     tscore 0.378
+    distance 0.19799999999999995
     color "#869BC4"
     value 0.802
     width 1
@@ -415,6 +418,7 @@ graph [
     escore 0.964
     dscore 0.0
     tscore 0.154
+    distance 0.031000000000000028
     color "#869BC4"
     value 0.969
     width 1
@@ -430,6 +434,7 @@ graph [
     escore 0.766
     dscore 0.0
     tscore 0.84
+    distance 0.040000000000000036
     color "#869BC4"
     value 0.96
     width 1
@@ -445,6 +450,7 @@ graph [
     escore 0.323
     dscore 0.0
     tscore 0.734
+    distance 0.18799999999999994
     color "#869BC4"
     value 0.812
     width 1
@@ -460,6 +466,7 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.765
+    distance 0.17399999999999993
     color "#869BC4"
     value 0.8260000000000001
     width 1
@@ -475,6 +482,7 @@ graph [
     escore 0.457
     dscore 0.9
     tscore 0.394
+    distance 0.03600000000000003
     color "#869BC4"
     value 0.964
     width 1
@@ -490,6 +498,7 @@ graph [
     escore 0.316
     dscore 0.0
     tscore 0.781
+    distance 0.15600000000000003
     color "#869BC4"
     value 0.844
     width 1
@@ -505,6 +514,7 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.868
+    distance 0.09799999999999998
     color "#869BC4"
     value 0.902
     width 1
@@ -520,6 +530,7 @@ graph [
     escore 0.0
     dscore 0.0
     tscore 0.922
+    distance 0.07799999999999996
     color "#869BC4"
     value 0.922
     width 1
@@ -535,6 +546,7 @@ graph [
     escore 0.457
     dscore 0.9
     tscore 0.355
+    distance 0.039000000000000035
     color "#869BC4"
     value 0.961
     width 1
@@ -550,6 +562,7 @@ graph [
     escore 0.9430000000000001
     dscore 0.7000000000000001
     tscore 0.979
+    distance 0.0010000000000000009
     color "#869BC4"
     value 0.999
     width 1
@@ -565,6 +578,7 @@ graph [
     escore 0.9470000000000001
     dscore 0.0
     tscore 0.872
+    distance 0.008000000000000007
     color "#869BC4"
     value 0.992
     width 1
@@ -580,6 +594,7 @@ graph [
     escore 0.589
     dscore 0.0
     tscore 0.614
+    distance 0.16600000000000004
     color "#869BC4"
     value 0.834
     width 1
@@ -595,6 +610,7 @@ graph [
     escore 0.51
     dscore 0.9
     tscore 0.984
+    distance 0.0010000000000000009
     color "#869BC4"
     value 0.999
     width 1
@@ -610,6 +626,7 @@ graph [
     escore 0.577
     dscore 0.0
     tscore 0.496
+    distance 0.22199999999999998
     color "#869BC4"
     value 0.778
     width 1
@@ -625,6 +642,7 @@ graph [
     escore 0.51
     dscore 0.9
     tscore 0.984
+    distance 0.0010000000000000009
     color "#869BC4"
     value 0.999
     width 1
@@ -640,6 +658,7 @@ graph [
     escore 0.577
     dscore 0.0
     tscore 0.6920000000000001
+    distance 0.136
     color "#869BC4"
     value 0.864
     width 1
@@ -655,6 +674,7 @@ graph [
     escore 0.639
     dscore 0.9
     tscore 0.984
+    distance 0.0010000000000000009
     color "#869BC4"
     value 0.999
     width 1
@@ -670,6 +690,7 @@ graph [
     escore 0.724
     dscore 0.5
     tscore 0.982
+    distance 0.0030000000000000027
     color "#869BC4"
     value 0.997
     width 1
@@ -685,6 +706,7 @@ graph [
     escore 0.42
     dscore 0.8
     tscore 0.0
+    distance 0.121
     color "#869BC4"
     value 0.879
     width 1
@@ -700,6 +722,7 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.962
+    distance 0.029000000000000026
     color "#869BC4"
     value 0.971
     width 1
@@ -715,6 +738,7 @@ graph [
     escore 0.6960000000000001
     dscore 0.5
     tscore 0.983
+    distance 0.0030000000000000027
     color "#869BC4"
     value 0.997
     width 1
@@ -730,6 +754,7 @@ graph [
     escore 0.96
     dscore 0.0
     tscore 0.8170000000000001
+    distance 0.008000000000000007
     color "#869BC4"
     value 0.992
     width 1
@@ -745,6 +770,7 @@ graph [
     escore 0.6950000000000001
     dscore 0.9
     tscore 0.764
+    distance 0.008000000000000007
     color "#869BC4"
     value 0.992
     width 1
@@ -760,6 +786,7 @@ graph [
     escore 0.0
     dscore 0.0
     tscore 0.8320000000000001
+    distance 0.16799999999999993
     color "#869BC4"
     value 0.8320000000000001
     width 1
@@ -775,6 +802,7 @@ graph [
     escore 0.292
     dscore 0.5
     tscore 0.49
+    distance 0.19699999999999995
     color "#869BC4"
     value 0.803
     width 1
@@ -790,6 +818,7 @@ graph [
     escore 0.459
     dscore 0.5
     tscore 0.8140000000000001
+    distance 0.05499999999999994
     color "#869BC4"
     value 0.9450000000000001
     width 1
@@ -805,6 +834,7 @@ graph [
     escore 0.457
     dscore 0.5
     tscore 0.974
+    distance 0.008000000000000007
     color "#869BC4"
     value 0.992
     width 1
@@ -820,6 +850,7 @@ graph [
     escore 0.438
     dscore 0.0
     tscore 0.936
+    distance 0.038000000000000034
     color "#869BC4"
     value 0.962
     width 1
@@ -835,6 +866,7 @@ graph [
     escore 0.615
     dscore 0.0
     tscore 0.92
+    distance 0.03200000000000003
     color "#869BC4"
     value 0.968
     width 1
@@ -850,6 +882,7 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.8280000000000001
+    distance 0.127
     color "#869BC4"
     value 0.873
     width 1
@@ -865,6 +898,7 @@ graph [
     escore 0.751
     dscore 0.8
     tscore 0.987
+    distance 0.0010000000000000009
     color "#869BC4"
     value 0.999
     width 1
@@ -880,6 +914,7 @@ graph [
     escore 0.55
     dscore 0.9
     tscore 0.20800000000000002
+    distance 0.039000000000000035
     color "#869BC4"
     value 0.961
     width 1
@@ -895,6 +930,7 @@ graph [
     escore 0.457
     dscore 0.5
     tscore 0.599
+    distance 0.119
     color "#869BC4"
     value 0.881
     width 1
@@ -910,6 +946,7 @@ graph [
     escore 0.457
     dscore 0.72
     tscore 0.587
+    distance 0.06899999999999995
     color "#869BC4"
     value 0.931
     width 1
@@ -925,6 +962,7 @@ graph [
     escore 0.457
     dscore 0.72
     tscore 0.0
+    distance 0.15900000000000003
     color "#869BC4"
     value 0.841
     width 1
@@ -940,6 +978,7 @@ graph [
     escore 0.457
     dscore 0.9
     tscore 0.982
+    distance 0.0020000000000000018
     color "#869BC4"
     value 0.998
     width 1
@@ -955,6 +994,7 @@ graph [
     escore 0.457
     dscore 0.8
     tscore 0.8130000000000001
+    distance 0.02300000000000002
     color "#869BC4"
     value 0.977
     width 1
@@ -970,6 +1010,7 @@ graph [
     escore 0.619
     dscore 0.9
     tscore 0.209
+    distance 0.03300000000000003
     color "#869BC4"
     value 0.967
     width 1
@@ -985,6 +1026,7 @@ graph [
     escore 0.457
     dscore 0.0
     tscore 0.933
+    distance 0.038000000000000034
     color "#869BC4"
     value 0.962
     width 1
@@ -1000,6 +1042,7 @@ graph [
     escore 0.292
     dscore 0.8
     tscore 0.0
+    distance 0.14800000000000002
     color "#869BC4"
     value 0.852
     width 1
@@ -1015,6 +1058,7 @@ graph [
     escore 0.0
     dscore 0.9
     tscore 0.962
+    distance 0.0040000000000000036
     color "#869BC4"
     value 0.996
     width 1
