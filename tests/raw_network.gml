@@ -290,7 +290,6 @@ graph [
     escore 0.684
     dscore 0.9
     tscore 0.987
-    distance 0.0010000000000000009
   ]
   edge [
     source 1
@@ -303,7 +302,6 @@ graph [
     escore 0.758
     dscore 0.8
     tscore 0.987
-    distance 0.0010000000000000009
   ]
   edge [
     source 2
@@ -316,7 +314,6 @@ graph [
     escore 0.6950000000000001
     dscore 0.0
     tscore 0.378
-    distance 0.19799999999999995
   ]
   edge [
     source 3
@@ -329,7 +326,6 @@ graph [
     escore 0.964
     dscore 0.0
     tscore 0.154
-    distance 0.031000000000000028
   ]
   edge [
     source 4
@@ -342,7 +338,6 @@ graph [
     escore 0.766
     dscore 0.0
     tscore 0.84
-    distance 0.040000000000000036
   ]
   edge [
     source 5
@@ -355,7 +350,6 @@ graph [
     escore 0.323
     dscore 0.0
     tscore 0.734
-    distance 0.18799999999999994
   ]
   edge [
     source 6
@@ -368,7 +362,6 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.765
-    distance 0.17399999999999993
   ]
   edge [
     source 7
@@ -381,7 +374,6 @@ graph [
     escore 0.457
     dscore 0.9
     tscore 0.394
-    distance 0.03600000000000003
   ]
   edge [
     source 8
@@ -394,7 +386,6 @@ graph [
     escore 0.316
     dscore 0.0
     tscore 0.781
-    distance 0.15600000000000003
   ]
   edge [
     source 9
@@ -407,7 +398,6 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.868
-    distance 0.09799999999999998
   ]
   edge [
     source 10
@@ -420,7 +410,6 @@ graph [
     escore 0.0
     dscore 0.0
     tscore 0.922
-    distance 0.07799999999999996
   ]
   edge [
     source 11
@@ -433,7 +422,6 @@ graph [
     escore 0.457
     dscore 0.9
     tscore 0.355
-    distance 0.039000000000000035
   ]
   edge [
     source 12
@@ -446,7 +434,6 @@ graph [
     escore 0.9430000000000001
     dscore 0.7000000000000001
     tscore 0.979
-    distance 0.0010000000000000009
   ]
   edge [
     source 13
@@ -459,7 +446,6 @@ graph [
     escore 0.9470000000000001
     dscore 0.0
     tscore 0.872
-    distance 0.008000000000000007
   ]
   edge [
     source 14
@@ -472,7 +458,6 @@ graph [
     escore 0.589
     dscore 0.0
     tscore 0.614
-    distance 0.16600000000000004
   ]
   edge [
     source 14
@@ -485,7 +470,6 @@ graph [
     escore 0.51
     dscore 0.9
     tscore 0.984
-    distance 0.0010000000000000009
   ]
   edge [
     source 15
@@ -498,7 +482,6 @@ graph [
     escore 0.577
     dscore 0.0
     tscore 0.496
-    distance 0.22199999999999998
   ]
   edge [
     source 15
@@ -511,7 +494,6 @@ graph [
     escore 0.51
     dscore 0.9
     tscore 0.984
-    distance 0.0010000000000000009
   ]
   edge [
     source 16
@@ -524,7 +506,6 @@ graph [
     escore 0.577
     dscore 0.0
     tscore 0.6920000000000001
-    distance 0.136
   ]
   edge [
     source 16
@@ -537,7 +518,6 @@ graph [
     escore 0.639
     dscore 0.9
     tscore 0.984
-    distance 0.0010000000000000009
   ]
   edge [
     source 17
@@ -550,7 +530,6 @@ graph [
     escore 0.724
     dscore 0.5
     tscore 0.982
-    distance 0.0030000000000000027
   ]
   edge [
     source 17
@@ -563,7 +542,6 @@ graph [
     escore 0.42
     dscore 0.8
     tscore 0.0
-    distance 0.121
   ]
   edge [
     source 18
@@ -576,7 +554,6 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.962
-    distance 0.029000000000000026
   ]
   edge [
     source 19
@@ -589,7 +566,6 @@ graph [
     escore 0.6960000000000001
     dscore 0.5
     tscore 0.983
-    distance 0.0030000000000000027
   ]
   edge [
     source 19
@@ -602,7 +578,6 @@ graph [
     escore 0.96
     dscore 0.0
     tscore 0.8170000000000001
-    distance 0.008000000000000007
   ]
   edge [
     source 19
@@ -615,7 +590,6 @@ graph [
     escore 0.6950000000000001
     dscore 0.9
     tscore 0.764
-    distance 0.008000000000000007
   ]
   edge [
     source 19
@@ -628,7 +602,6 @@ graph [
     escore 0.0
     dscore 0.0
     tscore 0.8320000000000001
-    distance 0.16799999999999993
   ]
   edge [
     source 19
@@ -641,7 +614,6 @@ graph [
     escore 0.292
     dscore 0.5
     tscore 0.49
-    distance 0.19699999999999995
   ]
   edge [
     source 20
@@ -654,7 +626,6 @@ graph [
     escore 0.459
     dscore 0.5
     tscore 0.8140000000000001
-    distance 0.05499999999999994
   ]
   edge [
     source 21
@@ -667,7 +638,6 @@ graph [
     escore 0.457
     dscore 0.5
     tscore 0.974
-    distance 0.008000000000000007
   ]
   edge [
     source 22
@@ -680,7 +650,6 @@ graph [
     escore 0.438
     dscore 0.0
     tscore 0.936
-    distance 0.038000000000000034
   ]
   edge [
     source 23
@@ -693,7 +662,6 @@ graph [
     escore 0.615
     dscore 0.0
     tscore 0.92
-    distance 0.03200000000000003
   ]
   edge [
     source 25
@@ -706,7 +674,6 @@ graph [
     escore 0.292
     dscore 0.0
     tscore 0.8280000000000001
-    distance 0.127
   ]
   edge [
     source 26
@@ -719,7 +686,6 @@ graph [
     escore 0.751
     dscore 0.8
     tscore 0.987
-    distance 0.0010000000000000009
   ]
   edge [
     source 27
@@ -732,7 +698,6 @@ graph [
     escore 0.55
     dscore 0.9
     tscore 0.20800000000000002
-    distance 0.039000000000000035
   ]
   edge [
     source 28
@@ -745,7 +710,6 @@ graph [
     escore 0.457
     dscore 0.5
     tscore 0.599
-    distance 0.119
   ]
   edge [
     source 29
@@ -758,7 +722,6 @@ graph [
     escore 0.457
     dscore 0.72
     tscore 0.587
-    distance 0.06899999999999995
   ]
   edge [
     source 30
@@ -771,7 +734,6 @@ graph [
     escore 0.457
     dscore 0.72
     tscore 0.0
-    distance 0.15900000000000003
   ]
   edge [
     source 31
@@ -784,7 +746,6 @@ graph [
     escore 0.457
     dscore 0.9
     tscore 0.982
-    distance 0.0020000000000000018
   ]
   edge [
     source 31
@@ -797,7 +758,6 @@ graph [
     escore 0.457
     dscore 0.8
     tscore 0.8130000000000001
-    distance 0.02300000000000002
   ]
   edge [
     source 31
@@ -810,7 +770,6 @@ graph [
     escore 0.619
     dscore 0.9
     tscore 0.209
-    distance 0.03300000000000003
   ]
   edge [
     source 31
@@ -823,7 +782,6 @@ graph [
     escore 0.457
     dscore 0.0
     tscore 0.933
-    distance 0.038000000000000034
   ]
   edge [
     source 32
@@ -836,7 +794,6 @@ graph [
     escore 0.292
     dscore 0.8
     tscore 0.0
-    distance 0.14800000000000002
   ]
   edge [
     source 36
@@ -849,6 +806,5 @@ graph [
     escore 0.0
     dscore 0.9
     tscore 0.962
-    distance 0.0040000000000000036
   ]
 ]

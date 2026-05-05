@@ -148,7 +148,14 @@ if __name__=='__main__':
     inet = Network(height='90vh', width='100%', notebook=True, cdn_resources="in_line", select_menu=True) # do not use % in height argument
     nx.set_edge_attributes(net, {e:"#869BC4" for e in list(net.edges)}, name='color') # fix inconsistent edges color
     nx.set_edge_attributes(net, nx.get_edge_attributes(net, 'score'), name='value') # add edges width scaling based on STRING score
-    inet.from_nx(net)
+
+    # Remove nodeds with degree == 1 for to remove visualization (if requested)
+    if '--remove_dead_ends' in sys.argv:
+        simplified_net = net.copy()
+        simplified_net.remove_nodes_from([n for n, d in dict(simplified_net.degree()).items() if d == 1])
+        inet.from_nx(simplified_net)
+    else:
+        inet.from_nx(net)
     inet.show(output_folder+"/interactive_network.html")
 
     ### Save Network ###
