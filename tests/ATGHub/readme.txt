@@ -1,1 +1,1 @@
-Only relevant protein coding genes from ATGHub are considered in this analysis
+Only protein coding genes with more than 2 occurrences from ATGHub are considered in this analysis.

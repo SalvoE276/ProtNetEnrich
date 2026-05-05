@@ -36,7 +36,16 @@ def load_ENS_ids(filepath: str):
 def from_ENSP_to_ENTREZ_id(ids: list):
     gp = GProfiler(return_dataframe=True)
     gp_df = gp.convert(organism='hsapiens', query=ids, target_namespace='ENTREZGENE_ACC')
-    return list(gp_df['converted'])
+    result = list(gp_df['converted'])
+    if 'None' in result:
+        wrong_conversion = [g for g, c in zip(ids, result) if c == 'None']
+        print("Some genes id where not converted: ")
+        for g in wrong_conversion:
+            print(g)
+        print("Skipping these genes in enrichment...")
+        return [id for id in result if id != 'None']
+    else:
+        return result
 
 
 
@@ -54,7 +63,7 @@ def run_enrichment(
 
     # Generation of POST request
     payload = {
-        "Genes": [int(g) for g in entrez_ids],
+        "Genes": [int(g) for g in entrez_ids if g != 'None'],
         "Categories": [
             {
                 "Type":       cat,
