@@ -23,7 +23,7 @@ if __name__=="__main__":
     all_proteins_df = pd.concat([df_input, df_interactors]).drop_duplicates().sort_values('gene_symbol').reset_index(drop=True)
     all_proteins_df['ENS_id'] = all_proteins_df['ENS_id'].str.replace(f"{taxon}.", "", regex=False)
 
-    ### Build network ###    
+    ### Build network ###
     net = nx.Graph()
     net.add_nodes_from((row.gene_symbol, {'ENS_id': row.ENS_id}) for row in all_proteins_df.itertuples())
 

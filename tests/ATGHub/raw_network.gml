@@ -52,8 +52,8 @@ graph [
     id 7
     label "ABL2"
     ENS_id "ENSP00000427562"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 8
@@ -66,8 +66,8 @@ graph [
     id 9
     label "ACBD5"
     ENS_id "ENSP00000365049"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 10
@@ -248,8 +248,8 @@ graph [
     id 35
     label "AKT1"
     ENS_id "ENSP00000451828"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 36
@@ -304,8 +304,8 @@ graph [
     id 43
     label "AMBRA1"
     ENS_id "ENSP00000431926"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 44
@@ -381,8 +381,8 @@ graph [
     id 54
     label "ANXA7"
     ENS_id "ENSP00000362010"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 55
@@ -542,15 +542,15 @@ graph [
     id 77
     label "APOL1"
     ENS_id "ENSP00000317674"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 78
     label "APP"
     ENS_id "ENSP00000284981"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 79
@@ -591,8 +591,8 @@ graph [
     id 84
     label "ARF6"
     ENS_id "ENSP00000298316"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 85
@@ -745,8 +745,8 @@ graph [
     id 106
     label "ATF4"
     ENS_id "ENSP00000336790"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 107
@@ -766,134 +766,134 @@ graph [
     id 109
     label "ATG10"
     ENS_id "ENSP00000282185"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 110
     label "ATG101"
     ENS_id "ENSP00000338990"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 111
     label "ATG12"
     ENS_id "ENSP00000425107"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 112
     label "ATG13"
     ENS_id "ENSP00000432412"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 113
     label "ATG14"
     ENS_id "ENSP00000247178"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 114
     label "ATG16L1"
     ENS_id "ENSP00000375873"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 115
     label "ATG16L2"
     ENS_id "ENSP00000326340"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 116
     label "ATG2A"
     ENS_id "ENSP00000366475"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 117
     label "ATG2B"
     ENS_id "ENSP00000353010"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 118
     label "ATG3"
     ENS_id "ENSP00000283290"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 119
     label "ATG4A"
     ENS_id "ENSP00000361306"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 120
     label "ATG4B"
     ENS_id "ENSP00000384259"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 121
     label "ATG4C"
     ENS_id "ENSP00000322159"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 122
     label "ATG4D"
     ENS_id "ENSP00000311318"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 123
     label "ATG5"
     ENS_id "ENSP00000358072"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 124
     label "ATG7"
     ENS_id "ENSP00000346437"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 125
     label "ATG9A"
     ENS_id "ENSP00000386710"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 126
     label "ATG9B"
     ENS_id "ENSP00000491504"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 127
     label "ATM"
     ENS_id "ENSP00000278616"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 128
@@ -906,8 +906,8 @@ graph [
     id 129
     label "ATP13A2"
     ENS_id "ENSP00000327214"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 130
@@ -1004,8 +1004,8 @@ graph [
     id 143
     label "AURKA"
     ENS_id "ENSP00000216911"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 144
@@ -1067,15 +1067,15 @@ graph [
     id 152
     label "BAD"
     ENS_id "ENSP00000378040"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 153
     label "BAG1"
     ENS_id "ENSP00000489189"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 154
@@ -1088,8 +1088,8 @@ graph [
     id 155
     label "BAG3"
     ENS_id "ENSP00000358081"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 156
@@ -1109,15 +1109,15 @@ graph [
     id 158
     label "BAK1"
     ENS_id "ENSP00000363591"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 159
     label "BAX"
     ENS_id "ENSP00000293288"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 160
@@ -1130,8 +1130,8 @@ graph [
     id 161
     label "BBC3"
     ENS_id "ENSP00000404503"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 162
@@ -1172,8 +1172,8 @@ graph [
     id 167
     label "BCL2"
     ENS_id "ENSP00000381185"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 168
@@ -1186,8 +1186,8 @@ graph [
     id 169
     label "BCL2L1"
     ENS_id "ENSP00000365230"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 170
@@ -1200,8 +1200,8 @@ graph [
     id 171
     label "BCL2L11"
     ENS_id "ENSP00000376943"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 172
@@ -1249,15 +1249,15 @@ graph [
     id 178
     label "BECN1"
     ENS_id "ENSP00000355231"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 179
     label "BECN2"
     ENS_id "ENSP00000488361"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 180
@@ -1305,8 +1305,8 @@ graph [
     id 186
     label "BIRC2"
     ENS_id "ENSP00000477613"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 187
@@ -1319,15 +1319,15 @@ graph [
     id 188
     label "BIRC5"
     ENS_id "ENSP00000301633"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 189
     label "BIRC6"
     ENS_id "ENSP00000393596"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 190
@@ -1382,29 +1382,29 @@ graph [
     id 197
     label "BNIP1"
     ENS_id "ENSP00000231668"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 198
     label "BNIP3"
     ENS_id "ENSP00000357625"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 199
     label "BNIP3L"
     ENS_id "ENSP00000370003"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 200
     label "BOK"
     ENS_id "ENSP00000314132"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 201
@@ -1473,8 +1473,8 @@ graph [
     id 210
     label "BSN"
     ENS_id "ENSP00000296452"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 211
@@ -1522,8 +1522,8 @@ graph [
     id 217
     label "C9orf72"
     ENS_id "ENSP00000482753"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 218
@@ -1564,8 +1564,8 @@ graph [
     id 223
     label "CALCOCO2"
     ENS_id "ENSP00000398523"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 224
@@ -1627,8 +1627,8 @@ graph [
     id 232
     label "CAMKK2"
     ENS_id "ENSP00000312741"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 233
@@ -1669,15 +1669,15 @@ graph [
     id 238
     label "CAPN1"
     ENS_id "ENSP00000431984"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 239
     label "CAPN2"
     ENS_id "ENSP00000295006"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 240
@@ -1690,8 +1690,8 @@ graph [
     id 241
     label "CAPNS1"
     ENS_id "ENSP00000464849"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 242
@@ -1760,8 +1760,8 @@ graph [
     id 251
     label "CASP3"
     ENS_id "ENSP00000311032"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 252
@@ -1795,8 +1795,8 @@ graph [
     id 256
     label "CASP8"
     ENS_id "ENSP00000351273"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 257
@@ -1907,8 +1907,8 @@ graph [
     id 272
     label "CCND1"
     ENS_id "ENSP00000227507"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 273
@@ -2222,8 +2222,8 @@ graph [
     id 317
     label "CDK5"
     ENS_id "ENSP00000419782"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 318
@@ -2271,8 +2271,8 @@ graph [
     id 324
     label "CDKN1B"
     ENS_id "ENSP00000228872"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 325
@@ -2285,8 +2285,8 @@ graph [
     id 326
     label "CDKN2A"
     ENS_id "ENSP00000418915"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 327
@@ -2460,43 +2460,43 @@ graph [
     id 351
     label "CHMP2A"
     ENS_id "ENSP00000469240"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 352
     label "CHMP2B"
     ENS_id "ENSP00000263780"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 353
     label "CHMP3"
     ENS_id "ENSP00000263856"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 354
     label "CHMP4A"
     ENS_id "ENSP00000476412"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 355
     label "CHMP4B"
     ENS_id "ENSP00000217402"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 356
     label "CHMP4C"
     ENS_id "ENSP00000297265"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 357
@@ -2509,8 +2509,8 @@ graph [
     id 358
     label "CHMP6"
     ENS_id "ENSP00000317468"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 359
@@ -2614,8 +2614,8 @@ graph [
     id 373
     label "CHRND"
     ENS_id "ENSP00000258385"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 374
@@ -2635,8 +2635,8 @@ graph [
     id 376
     label "CHUK"
     ENS_id "ENSP00000359424"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 377
@@ -2649,8 +2649,8 @@ graph [
     id 378
     label "CISD2"
     ENS_id "ENSP00000273986"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 379
@@ -2698,8 +2698,8 @@ graph [
     id 385
     label "CLEC16A"
     ENS_id "ENSP00000387122"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 386
@@ -2719,8 +2719,8 @@ graph [
     id 388
     label "CLN3"
     ENS_id "ENSP00000454229"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 389
@@ -2761,8 +2761,8 @@ graph [
     id 394
     label "CLU"
     ENS_id "ENSP00000315130"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 395
@@ -2936,8 +2936,8 @@ graph [
     id 419
     label "CSNK1A1"
     ENS_id "ENSP00000261798"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 420
@@ -2950,8 +2950,8 @@ graph [
     id 421
     label "CSNK2A1"
     ENS_id "ENSP00000217244"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 422
@@ -3006,8 +3006,8 @@ graph [
     id 429
     label "CTNNB1"
     ENS_id "ENSP00000495360"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 430
@@ -3069,8 +3069,8 @@ graph [
     id 438
     label "CUL1"
     ENS_id "ENSP00000326804"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 439
@@ -3195,29 +3195,29 @@ graph [
     id 456
     label "DAP"
     ENS_id "ENSP00000394163"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 457
     label "DAPK1"
     ENS_id "ENSP00000386135"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 458
     label "DAPK2"
     ENS_id "ENSP00000484390"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 459
     label "DAPK3"
     ENS_id "ENSP00000442973"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 460
@@ -3258,8 +3258,8 @@ graph [
     id 465
     label "DCN"
     ENS_id "ENSP00000052754"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 466
@@ -3293,8 +3293,8 @@ graph [
     id 470
     label "DDIT3"
     ENS_id "ENSP00000448665"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 471
@@ -3363,8 +3363,8 @@ graph [
     id 480
     label "DEPTOR"
     ENS_id "ENSP00000286234"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 481
@@ -3426,8 +3426,8 @@ graph [
     id 489
     label "DIRAS3"
     ENS_id "ENSP00000360020"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 490
@@ -3461,8 +3461,8 @@ graph [
     id 494
     label "DNAJB1"
     ENS_id "ENSP00000254322"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 495
@@ -3538,8 +3538,8 @@ graph [
     id 505
     label "DNM1L"
     ENS_id "ENSP00000449089"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 506
@@ -3580,15 +3580,15 @@ graph [
     id 511
     label "DRAM1"
     ENS_id "ENSP00000258534"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 512
     label "DRAM2"
     ENS_id "ENSP00000286692"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 513
@@ -3748,8 +3748,8 @@ graph [
     id 535
     label "E2F1"
     ENS_id "ENSP00000345571"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 536
@@ -3804,8 +3804,8 @@ graph [
     id 543
     label "EDEM1"
     ENS_id "ENSP00000256497"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 544
@@ -3846,8 +3846,8 @@ graph [
     id 549
     label "EEF2K"
     ENS_id "ENSP00000263026"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 550
@@ -3902,8 +3902,8 @@ graph [
     id 557
     label "EGFR"
     ENS_id "ENSP00000275493"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 558
@@ -3930,15 +3930,15 @@ graph [
     id 561
     label "EIF2AK2"
     ENS_id "ENSP00000233057"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 562
     label "EIF2AK3"
     ENS_id "ENSP00000307235"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 563
@@ -3979,8 +3979,8 @@ graph [
     id 568
     label "EIF2S1"
     ENS_id "ENSP00000256383"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 569
@@ -4119,15 +4119,15 @@ graph [
     id 588
     label "EIF4G1"
     ENS_id "ENSP00000416255"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 589
     label "EIF4G2"
     ENS_id "ENSP00000433664"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 590
@@ -4210,8 +4210,8 @@ graph [
     id 601
     label "ENG"
     ENS_id "ENSP00000362299"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 602
@@ -4245,8 +4245,8 @@ graph [
     id 606
     label "EP300"
     ENS_id "ENSP00000263253"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 607
@@ -4259,8 +4259,8 @@ graph [
     id 608
     label "EPAS1"
     ENS_id "ENSP00000263734"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 609
@@ -4315,8 +4315,8 @@ graph [
     id 616
     label "EPHB2"
     ENS_id "ENSP00000383053"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 617
@@ -4329,8 +4329,8 @@ graph [
     id 618
     label "EPM2A"
     ENS_id "ENSP00000356489"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 619
@@ -4350,8 +4350,8 @@ graph [
     id 621
     label "ERBB2"
     ENS_id "ENSP00000269571"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 622
@@ -4413,8 +4413,8 @@ graph [
     id 630
     label "ERN1"
     ENS_id "ENSP00000401445"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 631
@@ -4455,8 +4455,8 @@ graph [
     id 636
     label "EVA1A"
     ENS_id "ENSP00000377490"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 637
@@ -4483,8 +4483,8 @@ graph [
     id 640
     label "EXOC2"
     ENS_id "ENSP00000230449"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 641
@@ -4581,8 +4581,8 @@ graph [
     id 654
     label "FADD"
     ENS_id "ENSP00000301838"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 655
@@ -4651,8 +4651,8 @@ graph [
     id 664
     label "FAS"
     ENS_id "ENSP00000498466"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 665
@@ -4672,8 +4672,8 @@ graph [
     id 667
     label "FBXL20"
     ENS_id "ENSP00000264658"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 668
@@ -4693,8 +4693,8 @@ graph [
     id 670
     label "FBXO7"
     ENS_id "ENSP00000266087"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 671
@@ -4777,8 +4777,8 @@ graph [
     id 682
     label "FIS1"
     ENS_id "ENSP00000223136"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 683
@@ -4819,8 +4819,8 @@ graph [
     id 688
     label "FLCN"
     ENS_id "ENSP00000285071"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 689
@@ -4910,15 +4910,15 @@ graph [
     id 701
     label "FOXO1"
     ENS_id "ENSP00000368880"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 702
     label "FOXO3"
     ENS_id "ENSP00000339527"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 703
@@ -4966,8 +4966,8 @@ graph [
     id 709
     label "FUNDC1"
     ENS_id "ENSP00000367284"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 710
@@ -4987,8 +4987,8 @@ graph [
     id 712
     label "FYCO1"
     ENS_id "ENSP00000296137"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 713
@@ -5015,8 +5015,8 @@ graph [
     id 716
     label "GAA"
     ENS_id "ENSP00000305692"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 717
@@ -5036,22 +5036,22 @@ graph [
     id 719
     label "GABARAP"
     ENS_id "ENSP00000306866"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 720
     label "GABARAPL1"
     ENS_id "ENSP00000411256"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 721
     label "GABARAPL2"
     ENS_id "ENSP00000037243"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 722
@@ -5211,8 +5211,8 @@ graph [
     id 744
     label "GJA4"
     ENS_id "ENSP00000343676"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 745
@@ -5302,8 +5302,8 @@ graph [
     id 757
     label "GNAI3"
     ENS_id "ENSP00000358867"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 758
@@ -5386,8 +5386,8 @@ graph [
     id 769
     label "GOPC"
     ENS_id "ENSP00000357484"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 770
@@ -5414,8 +5414,8 @@ graph [
     id 773
     label "GPR37"
     ENS_id "ENSP00000306449"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 774
@@ -5498,8 +5498,8 @@ graph [
     id 785
     label "GRID2"
     ENS_id "ENSP00000282020"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 786
@@ -5575,8 +5575,8 @@ graph [
     id 796
     label "GSK3B"
     ENS_id "ENSP00000324806"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 797
@@ -5673,8 +5673,8 @@ graph [
     id 810
     label "HAX1"
     ENS_id "ENSP00000329002"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 811
@@ -5701,8 +5701,8 @@ graph [
     id 814
     label "HDAC1"
     ENS_id "ENSP00000362649"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 815
@@ -5722,8 +5722,8 @@ graph [
     id 817
     label "HDAC6"
     ENS_id "ENSP00000365804"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 818
@@ -5743,15 +5743,15 @@ graph [
     id 820
     label "HGS"
     ENS_id "ENSP00000331201"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 821
     label "HIF1A"
     ENS_id "ENSP00000437955"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 822
@@ -5813,8 +5813,8 @@ graph [
     id 830
     label "HMGB1"
     ENS_id "ENSP00000345347"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 831
@@ -5897,15 +5897,15 @@ graph [
     id 842
     label "HSF1"
     ENS_id "ENSP00000431512"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 843
     label "HSP90AA1"
     ENS_id "ENSP00000335153"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 844
@@ -5960,15 +5960,15 @@ graph [
     id 851
     label "HSPA5"
     ENS_id "ENSP00000324173"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 852
     label "HSPA8"
     ENS_id "ENSP00000437125"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 853
@@ -6051,8 +6051,8 @@ graph [
     id 864
     label "HTT"
     ENS_id "ENSP00000347184"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 865
@@ -6121,8 +6121,8 @@ graph [
     id 874
     label "IFNG"
     ENS_id "ENSP00000229135"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 875
@@ -6177,8 +6177,8 @@ graph [
     id 882
     label "IKBKB"
     ENS_id "ENSP00000430684"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 883
@@ -6191,8 +6191,8 @@ graph [
     id 884
     label "IKBKG"
     ENS_id "ENSP00000483825"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 885
@@ -6268,8 +6268,8 @@ graph [
     id 895
     label "IL24"
     ENS_id "ENSP00000375795"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 896
@@ -6373,8 +6373,8 @@ graph [
     id 910
     label "IRGM"
     ENS_id "ENSP00000428220"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 911
@@ -6457,8 +6457,8 @@ graph [
     id 922
     label "ITGB4"
     ENS_id "ENSP00000200181"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 923
@@ -6485,8 +6485,8 @@ graph [
     id 926
     label "ITPR1"
     ENS_id "ENSP00000306253"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 927
@@ -6583,15 +6583,15 @@ graph [
     id 940
     label "KAT5"
     ENS_id "ENSP00000340330"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 941
     label "KAT8"
     ENS_id "ENSP00000406037"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 942
@@ -6625,15 +6625,15 @@ graph [
     id 946
     label "KDR"
     ENS_id "ENSP00000263923"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 947
     label "KEAP1"
     ENS_id "ENSP00000377245"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 948
@@ -6758,8 +6758,8 @@ graph [
     id 965
     label "KRAS"
     ENS_id "ENSP00000256078"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 966
@@ -6800,15 +6800,15 @@ graph [
     id 971
     label "LAMP2"
     ENS_id "ENSP00000408411"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 972
     label "LAMTOR1"
     ENS_id "ENSP00000278671"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 973
@@ -6884,8 +6884,8 @@ graph [
     id 983
     label "LGALS8"
     ENS_id "ENSP00000435460"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 984
@@ -7003,8 +7003,8 @@ graph [
     id 1000
     label "LRRK2"
     ENS_id "ENSP00000298910"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1001
@@ -7143,36 +7143,36 @@ graph [
     id 1020
     label "MAP1LC3A"
     ENS_id "ENSP00000363970"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1021
     label "MAP1LC3B"
     ENS_id "ENSP00000498476"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1022
     label "MAP1LC3B2"
     ENS_id "ENSP00000450524"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1023
     label "MAP1LC3C"
     ENS_id "ENSP00000349785"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1024
     label "MAP1S"
     ENS_id "ENSP00000325313"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1025
@@ -7185,8 +7185,8 @@ graph [
     id 1026
     label "MAP2K2"
     ENS_id "ENSP00000262948"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1027
@@ -7241,36 +7241,36 @@ graph [
     id 1034
     label "MAPK1"
     ENS_id "ENSP00000215832"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1035
     label "MAPK14"
     ENS_id "ENSP00000229795"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1036
     label "MAPK15"
     ENS_id "ENSP00000337691"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1037
     label "MAPK3"
     ENS_id "ENSP00000263025"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1038
     label "MAPK8"
     ENS_id "ENSP00000378974"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1039
@@ -7346,8 +7346,8 @@ graph [
     id 1049
     label "MAPT"
     ENS_id "ENSP00000340820"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1050
@@ -7409,8 +7409,8 @@ graph [
     id 1058
     label "MCL1"
     ENS_id "ENSP00000358022"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1059
@@ -7430,8 +7430,8 @@ graph [
     id 1061
     label "MDM2"
     ENS_id "ENSP00000258149"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1062
@@ -7479,8 +7479,8 @@ graph [
     id 1068
     label "MEFV"
     ENS_id "ENSP00000219596"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1069
@@ -7521,8 +7521,8 @@ graph [
     id 1074
     label "MFN2"
     ENS_id "ENSP00000416338"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1075
@@ -7584,8 +7584,8 @@ graph [
     id 1083
     label "MITF"
     ENS_id "ENSP00000391803"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1084
@@ -7612,8 +7612,8 @@ graph [
     id 1087
     label "MLST8"
     ENS_id "ENSP00000457870"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1088
@@ -7717,8 +7717,8 @@ graph [
     id 1102
     label "MTDH"
     ENS_id "ENSP00000338235"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1103
@@ -7738,8 +7738,8 @@ graph [
     id 1105
     label "MTMR3"
     ENS_id "ENSP00000384651"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1106
@@ -7752,8 +7752,8 @@ graph [
     id 1107
     label "MTOR"
     ENS_id "ENSP00000354558"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1108
@@ -7773,8 +7773,8 @@ graph [
     id 1110
     label "MUL1"
     ENS_id "ENSP00000264198"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1111
@@ -7801,8 +7801,8 @@ graph [
     id 1114
     label "MYC"
     ENS_id "ENSP00000478887"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1115
@@ -7892,8 +7892,8 @@ graph [
     id 1127
     label "NBR1"
     ENS_id "ENSP00000343479"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1128
@@ -8011,8 +8011,8 @@ graph [
     id 1144
     label "NEDD4"
     ENS_id "ENSP00000424827"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1145
@@ -8067,8 +8067,8 @@ graph [
     id 1152
     label "NFE2L2"
     ENS_id "ENSP00000380252"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1153
@@ -8151,8 +8151,8 @@ graph [
     id 1164
     label "NIPSNAP2"
     ENS_id "ENSP00000313050"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1165
@@ -8186,8 +8186,8 @@ graph [
     id 1169
     label "NLRP3"
     ENS_id "ENSP00000337383"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1170
@@ -8235,8 +8235,8 @@ graph [
     id 1176
     label "NOD2"
     ENS_id "ENSP00000300589"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1177
@@ -8270,8 +8270,8 @@ graph [
     id 1181
     label "NPC1"
     ENS_id "ENSP00000269228"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1182
@@ -8340,8 +8340,8 @@ graph [
     id 1191
     label "NRBF2"
     ENS_id "ENSP00000277746"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1192
@@ -8480,8 +8480,8 @@ graph [
     id 1211
     label "NUPR1"
     ENS_id "ENSP00000379003"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1212
@@ -8529,8 +8529,8 @@ graph [
     id 1218
     label "OPTN"
     ENS_id "ENSP00000368022"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1219
@@ -8690,8 +8690,8 @@ graph [
     id 1241
     label "PARP1"
     ENS_id "ENSP00000355759"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1242
@@ -8732,8 +8732,8 @@ graph [
     id 1247
     label "PCGF1"
     ENS_id "ENSP00000233630"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1248
@@ -8865,8 +8865,8 @@ graph [
     id 1266
     label "PDK1"
     ENS_id "ENSP00000376352"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1267
@@ -8900,8 +8900,8 @@ graph [
     id 1271
     label "PDPK1"
     ENS_id "ENSP00000344220"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1272
@@ -8984,8 +8984,8 @@ graph [
     id 1283
     label "PEX5"
     ENS_id "ENSP00000391601"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1284
@@ -9033,8 +9033,8 @@ graph [
     id 1290
     label "PGK1"
     ENS_id "ENSP00000362413"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1291
@@ -9061,8 +9061,8 @@ graph [
     id 1294
     label "PHB2"
     ENS_id "ENSP00000441875"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1295
@@ -9180,8 +9180,8 @@ graph [
     id 1311
     label "PIK3C2A"
     ENS_id "ENSP00000265970"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1312
@@ -9201,15 +9201,15 @@ graph [
     id 1314
     label "PIK3C3"
     ENS_id "ENSP00000262039"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1315
     label "PIK3CA"
     ENS_id "ENSP00000263967"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1316
@@ -9243,8 +9243,8 @@ graph [
     id 1320
     label "PIK3R2"
     ENS_id "ENSP00000222254"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1321
@@ -9257,8 +9257,8 @@ graph [
     id 1322
     label "PIK3R4"
     ENS_id "ENSP00000349205"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1323
@@ -9292,15 +9292,15 @@ graph [
     id 1327
     label "PINK1"
     ENS_id "ENSP00000364204"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1328
     label "PIP4K2A"
     ENS_id "ENSP00000365757"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1329
@@ -9390,8 +9390,8 @@ graph [
     id 1341
     label "PLEKHM1"
     ENS_id "ENSP00000389913"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1342
@@ -9684,22 +9684,22 @@ graph [
     id 1383
     label "PRKAA1"
     ENS_id "ENSP00000346148"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1384
     label "PRKAA2"
     ENS_id "ENSP00000360290"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1385
     label "PRKAB1"
     ENS_id "ENSP00000441369"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1386
@@ -9782,8 +9782,8 @@ graph [
     id 1397
     label "PRKCD"
     ENS_id "ENSP00000331602"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1398
@@ -9817,15 +9817,15 @@ graph [
     id 1402
     label "PRKDC"
     ENS_id "ENSP00000313420"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1403
     label "PRKN"
     ENS_id "ENSP00000355865"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1404
@@ -9901,8 +9901,8 @@ graph [
     id 1414
     label "PSEN1"
     ENS_id "ENSP00000326366"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1415
@@ -10111,8 +10111,8 @@ graph [
     id 1444
     label "PTEN"
     ENS_id "ENSP00000361021"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1445
@@ -10230,8 +10230,8 @@ graph [
     id 1461
     label "RAB11A"
     ENS_id "ENSP00000261890"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1462
@@ -10279,8 +10279,8 @@ graph [
     id 1468
     label "RAB1A"
     ENS_id "ENSP00000387286"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1469
@@ -10293,8 +10293,8 @@ graph [
     id 1470
     label "RAB23"
     ENS_id "ENSP00000417610"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1471
@@ -10328,8 +10328,8 @@ graph [
     id 1475
     label "RAB33B"
     ENS_id "ENSP00000306496"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1476
@@ -10370,8 +10370,8 @@ graph [
     id 1481
     label "RAB5A"
     ENS_id "ENSP00000273047"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1482
@@ -10391,8 +10391,8 @@ graph [
     id 1484
     label "RAB7A"
     ENS_id "ENSP00000265062"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1485
@@ -10405,8 +10405,8 @@ graph [
     id 1486
     label "RAB8A"
     ENS_id "ENSP00000300935"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1487
@@ -10419,8 +10419,8 @@ graph [
     id 1488
     label "RAB9A"
     ENS_id "ENSP00000420127"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1489
@@ -10524,8 +10524,8 @@ graph [
     id 1503
     label "RAF1"
     ENS_id "ENSP00000401888"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1504
@@ -10601,8 +10601,8 @@ graph [
     id 1514
     label "RB1CC1"
     ENS_id "ENSP00000025008"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1515
@@ -10685,8 +10685,8 @@ graph [
     id 1526
     label "RELA"
     ENS_id "ENSP00000384273"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1527
@@ -10699,15 +10699,15 @@ graph [
     id 1528
     label "RETREG1"
     ENS_id "ENSP00000304642"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1529
     label "RETREG3"
     ENS_id "ENSP00000309432"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1530
@@ -10727,8 +10727,8 @@ graph [
     id 1532
     label "RGS19"
     ENS_id "ENSP00000378483"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1533
@@ -10755,8 +10755,8 @@ graph [
     id 1536
     label "RHEB"
     ENS_id "ENSP00000262187"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1537
@@ -11168,8 +11168,8 @@ graph [
     id 1595
     label "RPS6KB1"
     ENS_id "ENSP00000225577"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1596
@@ -11182,15 +11182,15 @@ graph [
     id 1597
     label "RPTOR"
     ENS_id "ENSP00000307272"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1598
     label "RRAGA"
     ENS_id "ENSP00000369899"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1599
@@ -11203,8 +11203,8 @@ graph [
     id 1600
     label "RRAGC"
     ENS_id "ENSP00000362092"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1601
@@ -11259,15 +11259,15 @@ graph [
     id 1608
     label "RUBCN"
     ENS_id "ENSP00000296343"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1609
     label "RUBCNL"
     ENS_id "ENSP00000396935"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1610
@@ -11280,8 +11280,8 @@ graph [
     id 1611
     label "RUFY4"
     ENS_id "ENSP00000363270"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1612
@@ -11357,15 +11357,15 @@ graph [
     id 1622
     label "S100A8"
     ENS_id "ENSP00000357721"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1623
     label "S100A9"
     ENS_id "ENSP00000357727"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1624
@@ -11448,8 +11448,8 @@ graph [
     id 1635
     label "SCOC"
     ENS_id "ENSP00000477352"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1636
@@ -11483,8 +11483,8 @@ graph [
     id 1640
     label "SEC16A"
     ENS_id "ENSP00000325827"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1641
@@ -11595,8 +11595,8 @@ graph [
     id 1656
     label "SERPINA1"
     ENS_id "ENSP00000416066"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1657
@@ -11609,15 +11609,15 @@ graph [
     id 1658
     label "SESN1"
     ENS_id "ENSP00000393762"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1659
     label "SESN2"
     ENS_id "ENSP00000253063"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1660
@@ -11728,8 +11728,8 @@ graph [
     id 1675
     label "SH3GLB1"
     ENS_id "ENSP00000479919"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1676
@@ -11742,8 +11742,8 @@ graph [
     id 1677
     label "SHC1"
     ENS_id "ENSP00000401303"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1678
@@ -11784,15 +11784,15 @@ graph [
     id 1683
     label "SIRT1"
     ENS_id "ENSP00000212015"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1684
     label "SIRT2"
     ENS_id "ENSP00000249396"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1685
@@ -11805,8 +11805,8 @@ graph [
     id 1686
     label "SIRT6"
     ENS_id "ENSP00000337332"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1687
@@ -11966,8 +11966,8 @@ graph [
     id 1709
     label "SMAD4"
     ENS_id "ENSP00000341551"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1710
@@ -12015,8 +12015,8 @@ graph [
     id 1716
     label "SMCR8"
     ENS_id "ENSP00000385025"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1717
@@ -12036,8 +12036,8 @@ graph [
     id 1719
     label "SMURF1"
     ENS_id "ENSP00000354621"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1720
@@ -12064,8 +12064,8 @@ graph [
     id 1723
     label "SNAP29"
     ENS_id "ENSP00000215730"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1724
@@ -12078,8 +12078,8 @@ graph [
     id 1725
     label "SNCA"
     ENS_id "ENSP00000500990"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1726
@@ -12099,8 +12099,8 @@ graph [
     id 1728
     label "SNF8"
     ENS_id "ENSP00000421380"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1729
@@ -12155,8 +12155,8 @@ graph [
     id 1736
     label "SNRPE"
     ENS_id "ENSP00000400591"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1737
@@ -12232,8 +12232,8 @@ graph [
     id 1747
     label "SOD1"
     ENS_id "ENSP00000270142"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1748
@@ -12316,8 +12316,8 @@ graph [
     id 1759
     label "SPHK1"
     ENS_id "ENSP00000313681"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1760
@@ -12344,8 +12344,8 @@ graph [
     id 1763
     label "SPNS1"
     ENS_id "ENSP00000309945"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1764
@@ -12372,8 +12372,8 @@ graph [
     id 1767
     label "SQSTM1"
     ENS_id "ENSP00000374455"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1768
@@ -12477,8 +12477,8 @@ graph [
     id 1782
     label "STAT3"
     ENS_id "ENSP00000264657"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1783
@@ -12512,8 +12512,8 @@ graph [
     id 1787
     label "STBD1"
     ENS_id "ENSP00000237642"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1788
@@ -12526,8 +12526,8 @@ graph [
     id 1789
     label "STIM1"
     ENS_id "ENSP00000478059"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1790
@@ -12540,8 +12540,8 @@ graph [
     id 1791
     label "STING1"
     ENS_id "ENSP00000498596"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1792
@@ -12554,8 +12554,8 @@ graph [
     id 1793
     label "STK11"
     ENS_id "ENSP00000324856"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1794
@@ -12652,8 +12652,8 @@ graph [
     id 1807
     label "STX17"
     ENS_id "ENSP00000259400"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1808
@@ -12743,8 +12743,8 @@ graph [
     id 1820
     label "SUPT20H"
     ENS_id "ENSP00000417510"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1821
@@ -12820,15 +12820,15 @@ graph [
     id 1831
     label "TAB2"
     ENS_id "ENSP00000356426"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1832
     label "TAB3"
     ENS_id "ENSP00000368215"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1833
@@ -12939,8 +12939,8 @@ graph [
     id 1848
     label "TAX1BP1"
     ENS_id "ENSP00000379612"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1849
@@ -12953,8 +12953,8 @@ graph [
     id 1850
     label "TBC1D14"
     ENS_id "ENSP00000386921"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1851
@@ -12988,22 +12988,22 @@ graph [
     id 1855
     label "TBC1D5"
     ENS_id "ENSP00000402935"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1856
     label "TBC1D7"
     ENS_id "ENSP00000475727"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1857
     label "TBK1"
     ENS_id "ENSP00000329967"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1858
@@ -13058,15 +13058,15 @@ graph [
     id 1865
     label "TECPR1"
     ENS_id "ENSP00000404923"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1866
     label "TECPR2"
     ENS_id "ENSP00000352510"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1867
@@ -13100,8 +13100,8 @@ graph [
     id 1871
     label "TEX264"
     ENS_id "ENSP00000396628"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1872
@@ -13128,8 +13128,8 @@ graph [
     id 1875
     label "TFEB"
     ENS_id "ENSP00000351742"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1876
@@ -13156,8 +13156,8 @@ graph [
     id 1879
     label "TGFB1"
     ENS_id "ENSP00000221930"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1880
@@ -13331,15 +13331,15 @@ graph [
     id 1904
     label "TMEM41B"
     ENS_id "ENSP00000433126"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1905
     label "TMEM74"
     ENS_id "ENSP00000297459"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1906
@@ -13359,8 +13359,8 @@ graph [
     id 1908
     label "TNF"
     ENS_id "ENSP00000398698"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1909
@@ -13443,8 +13443,8 @@ graph [
     id 1920
     label "TNFSF10"
     ENS_id "ENSP00000241261"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1921
@@ -13506,8 +13506,8 @@ graph [
     id 1929
     label "TP53"
     ENS_id "ENSP00000269305"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1930
@@ -13527,29 +13527,29 @@ graph [
     id 1932
     label "TP53INP1"
     ENS_id "ENSP00000344215"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1933
     label "TP53INP2"
     ENS_id "ENSP00000363943"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1934
     label "TP63"
     ENS_id "ENSP00000264731"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1935
     label "TP73"
     ENS_id "ENSP00000367545"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1936
@@ -13632,8 +13632,8 @@ graph [
     id 1947
     label "TRAF6"
     ENS_id "ENSP00000433623"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1948
@@ -13758,15 +13758,15 @@ graph [
     id 1965
     label "TRIM13"
     ENS_id "ENSP00000348299"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1966
     label "TRIM16"
     ENS_id "ENSP00000497185"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1967
@@ -13779,15 +13779,15 @@ graph [
     id 1968
     label "TRIM17"
     ENS_id "ENSP00000355658"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1969
     label "TRIM21"
     ENS_id "ENSP00000254436"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1970
@@ -13814,8 +13814,8 @@ graph [
     id 1973
     label "TRIM32"
     ENS_id "ENSP00000408292"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1974
@@ -13842,8 +13842,8 @@ graph [
     id 1977
     label "TRIM5"
     ENS_id "ENSP00000369373"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1978
@@ -13926,8 +13926,8 @@ graph [
     id 1989
     label "TSC2"
     ENS_id "ENSP00000219476"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1990
@@ -13940,8 +13940,8 @@ graph [
     id 1991
     label "TSG101"
     ENS_id "ENSP00000251968"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1992
@@ -13968,8 +13968,8 @@ graph [
     id 1995
     label "TTR"
     ENS_id "ENSP00000237014"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 1996
@@ -14010,8 +14010,8 @@ graph [
     id 2001
     label "UBA5"
     ENS_id "ENSP00000348565"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2002
@@ -14157,8 +14157,8 @@ graph [
     id 2022
     label "UBE3C"
     ENS_id "ENSP00000309198"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2023
@@ -14178,22 +14178,22 @@ graph [
     id 2025
     label "UBQLN1"
     ENS_id "ENSP00000365576"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2026
     label "UBQLN2"
     ENS_id "ENSP00000345195"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2027
     label "UBQLN4"
     ENS_id "ENSP00000357292"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2028
@@ -14248,8 +14248,8 @@ graph [
     id 2035
     label "UFL1"
     ENS_id "ENSP00000358283"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2036
@@ -14269,22 +14269,22 @@ graph [
     id 2038
     label "ULK1"
     ENS_id "ENSP00000324560"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2039
     label "ULK2"
     ENS_id "ENSP00000378914"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2040
     label "ULK3"
     ENS_id "ENSP00000400312"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2041
@@ -14332,8 +14332,8 @@ graph [
     id 2047
     label "USP10"
     ENS_id "ENSP00000457411"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2048
@@ -14367,22 +14367,22 @@ graph [
     id 2052
     label "USP19"
     ENS_id "ENSP00000401197"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2053
     label "USP30"
     ENS_id "ENSP00000257548"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2054
     label "USP33"
     ENS_id "ENSP00000359829"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2055
@@ -14430,8 +14430,8 @@ graph [
     id 2061
     label "UVRAG"
     ENS_id "ENSP00000348455"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2062
@@ -14472,8 +14472,8 @@ graph [
     id 2067
     label "VAMP8"
     ENS_id "ENSP00000263864"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2068
@@ -14507,8 +14507,8 @@ graph [
     id 2072
     label "VCP"
     ENS_id "ENSP00000351777"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2073
@@ -14521,8 +14521,8 @@ graph [
     id 2074
     label "VDAC1"
     ENS_id "ENSP00000378487"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2075
@@ -14605,29 +14605,29 @@ graph [
     id 2086
     label "VMP1"
     ENS_id "ENSP00000262291"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2087
     label "VPS11"
     ENS_id "ENSP00000481126"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2088
     label "VPS13A"
     ENS_id "ENSP00000353422"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2089
     label "VPS16"
     ENS_id "ENSP00000369810"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2090
@@ -14682,15 +14682,15 @@ graph [
     id 2097
     label "VPS33A"
     ENS_id "ENSP00000267199"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2098
     label "VPS33B"
     ENS_id "ENSP00000327650"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2099
@@ -14738,8 +14738,8 @@ graph [
     id 2105
     label "VPS39"
     ENS_id "ENSP00000335193"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2106
@@ -14780,8 +14780,8 @@ graph [
     id 2111
     label "VPS51"
     ENS_id "ENSP00000279281"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2112
@@ -14815,15 +14815,15 @@ graph [
     id 2116
     label "VTI1A"
     ENS_id "ENSP00000376792"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2117
     label "VTI1B"
     ENS_id "ENSP00000450731"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2118
@@ -14864,8 +14864,8 @@ graph [
     id 2123
     label "WDFY3"
     ENS_id "ENSP00000295888"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2124
@@ -14878,15 +14878,15 @@ graph [
     id 2125
     label "WDR41"
     ENS_id "ENSP00000296679"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2126
     label "WDR45"
     ENS_id "ENSP00000348848"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2127
@@ -14920,8 +14920,8 @@ graph [
     id 2131
     label "WDR81"
     ENS_id "ENSP00000386609"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2132
@@ -14955,15 +14955,15 @@ graph [
     id 2136
     label "WIPI1"
     ENS_id "ENSP00000262139"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2137
     label "WIPI2"
     ENS_id "ENSP00000288828"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2138
@@ -14983,8 +14983,8 @@ graph [
     id 2140
     label "XBP1"
     ENS_id "ENSP00000216037"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2141
@@ -15011,8 +15011,8 @@ graph [
     id 2144
     label "XPO1"
     ENS_id "ENSP00000384863"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2145
@@ -15165,8 +15165,8 @@ graph [
     id 2166
     label "YWHAQ"
     ENS_id "ENSP00000371267"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2167
@@ -15221,8 +15221,8 @@ graph [
     id 2174
     label "ZFYVE1"
     ENS_id "ENSP00000450742"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2175
@@ -15235,8 +15235,8 @@ graph [
     id 2176
     label "ZKSCAN3"
     ENS_id "ENSP00000366465"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2177
@@ -15326,8 +15326,8 @@ graph [
     id 2189
     label "ZRANB1"
     ENS_id "ENSP00000352676"
-    query_protein 0
-    color "#b4cffb"
+    query_protein 1
+    color "green"
   ]
   node [
     id 2190
