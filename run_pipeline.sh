@@ -1,6 +1,6 @@
 #!/bin/bash
 
-working_dir=tests
+working_dir=tests/small_network
 
 queryfile=$working_dir/query_proteins.txt
 raw_interaction_data=$working_dir/ppi_data.json
