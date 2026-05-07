@@ -20,22 +20,32 @@ if __name__=='__main__':
 
     # Run pre-ranked GSEA
     gsea = gp.prerank(
-        rnk=ranked_hubs,               # Your ranked Series or DataFrame
-        gene_sets='KEGG_2021_Human',    # Gene set database (see options below)
-        outdir=output_folder+'/GSEA/',          # Output directory
-        permutation_num=1000,           # Number of permutations (≥1000 for publication)
-        min_size=5,                    # Min genes in a gene set to test
-        max_size=500,                   # Max genes in a gene set to test
-        threads=20,
+        rnk=ranked_hubs,
+        gene_sets='KEGG_2021_Human',
+        outdir=output_folder+'/GSEA/',
+        permutation_num=1000,
+        min_size=5,     # Min genes in tested gene set
+        max_size=500,   # Max genes in tested gene set
+        threads=os.cpu_count(),
         seed=478536,
-        verbose=False
+        verbose=False,
+        no_plot=True
     )
 
-    # Access results
-    results_df = gsea.res2d
-    results_df = results_df.sort_values(by='NES', ascending=False)
-    terms = list(results_df['Term'])
+    # Print and save results
+    results_df = gsea.res2d.sort_values(by='NES', ascending=False)
+    terms = results_df['Term']
+    print("### GSEA dataframe results ###")
     print(results_df)
-    axs = gsea.plot(terms=terms[0])
-    axs.set_size_inches(20, 11)
-    axs.savefig('test.png')
+
+    if "--save_plots" in sys.argv:
+        print("Saving GSEA plots...")
+        try:
+            os.mkdir(output_folder+"/GSEA/plots")
+        except:
+            pass
+
+        for t in terms:
+            fig = gsea.plot(terms=t)
+            fig.set_size_inches(20, 11)
+            fig.savefig(f'{output_folder}/GSEA/plots/{t}.png')
