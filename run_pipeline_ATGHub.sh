@@ -20,6 +20,8 @@ echo Starting hubs enrichment analysis...
 python3 src/enrichment_analysis.py $working_dir/hubs.cand.json $working_dir
 # Step 5. GSEA of candidate hubs
 echo Starting hubs GSEA...
-python3 src/GSEA.py $working_dir/hubs.cand.json $working_dir
+python3 src/GSEA.py $working_dir/borda_ranking.json $working_dir
+echo Removing redundant gseapy logging data...
+rm $working_dir/GSEA/*.log
 
 echo "*** Process completed ***"

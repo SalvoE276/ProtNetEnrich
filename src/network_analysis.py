@@ -2,33 +2,39 @@ import networkx as nx
 from pyvis.network import Network
 import numpy as np
 import pandas as pd
-from collections import defaultdict
 import matplotlib.pyplot as plt
 import seaborn as sns
-import sys, json, os, datetime
+import sys, json, os, datetime, random
 
 
 def compute_candidate_proteins(data_dict: dict, query_proteins: list, n_stds: int = 2):
     data = data_dict.copy()
     for e in query_proteins:
         data.pop(e)
-    candidates = [{'gene':node, 'value':v} for node, v in data.items() if v > np.mean(list(data.values()))+(n_stds*np.std(list(data.values())))] # values more than 2 std
+    data_mean = np.mean(list(data.values()))
+    data_std = np.std(list(data.values()))
+    candidates = [{'gene':node, 'value':v} for node, v in data.items() if v > data_mean+(n_stds*data_std)] # values more than 2 std
     return [e['gene'] for e in sorted(candidates, key=lambda x: x['value'], reverse=True)]
 
 def borda_count_ranking(list_of_ranks):
+    random.seed(284957) # for consistency
+
+    # Set scrambled (unbiased) list of gene
+    scrambled_reference_list = list_of_ranks[0].copy()
+    random.shuffle(scrambled_reference_list)
+
     if not list_of_ranks:
         return []
-
-    scores = {}
+    scores = {g:0 for g in scrambled_reference_list}
     n = len(list_of_ranks[0])
     for rank in list_of_ranks:
         for i, gene in enumerate(rank):
             points = (n - 1) - i
-            scores[gene] = scores.get(gene, 0) + points
+            scores[gene] = scores[gene] + points
             
     # Sort genes by score in descending order
     ranking = sorted(scores.items(), key=lambda item: item[1], reverse=True)
-    return [e[0] for e in ranking]
+    return ranking
     
 
 def compute_and_save_diagnostics(net: nx.classes.graph, ccoef: list, dc: list, cc: list, bc: list, n_stds: int = 2):
@@ -154,7 +160,7 @@ if __name__=='__main__':
         used_topology_metrics.extend(list(hubs_per_topology_metrics.keys()))
 
     # Get all candidate hubs
-    cand_hubs = list(set([e for k,v in metrics_cands.items() for e in v]))
+    cand_hubs = sorted(set([e for k,v in metrics_cands.items() for e in v]))
 
     # Get hubs topological measures
     hubs_metrics = {hub:{metric:dict(topological_measures[metric])[hub] for metric in used_topology_metrics} for hub in cand_hubs}
@@ -162,10 +168,17 @@ if __name__=='__main__':
     # Eval full list of cand hubs for each used metric
     full_rank = []
     for metric in used_topology_metrics:
-        full_rank.append([gene for gene, vals in dict(sorted(hubs_metrics.items(), key=lambda item: item[1]['ccoef'], reverse=True)).items()])
-    
+        full_rank.append([gene for gene, vals in dict(sorted(hubs_metrics.items(), key=lambda item: item[1][metric], reverse=True)).items()])
+
     # Aggregation of ranks
-    hubs = borda_count_ranking(full_rank)
+    ranking = borda_count_ranking(full_rank)
+    hubs = [e[0] for e in ranking] # extract only ranked_gene symbols
+
+    # Save Borda ranking data
+    with open(output_folder+"/borda_ranking.json", 'w') as jsonfile:
+        json.dump(ranking, jsonfile)
+
+
 
     # Change color to candidate hubs
     nx.set_node_attributes(net, {p:"red" for p in hubs}, name='color')
