@@ -3,6 +3,33 @@ import requests as r
 
 
 def retrieve_STRING_ppi_data(proteins: list, interactors_limit: int = 30, taxon: int = 9606):
+    """Retrieves protein-protein interaction (PPI) data from the STRING-DB API.
+
+    This function queries the STRING-DB web service to find physical interaction 
+    partners for a given list of protein identifiers. It handles the formatting 
+    of the API request and manages potential API limitations regarding query size.
+
+    Args:
+        proteins (list): A list of protein (only HGNC symbols accepted) to query.
+        interactors_limit (int, optional): The maximum number of interaction partners 
+            to retrieve per protein. Defaults to 30.
+        taxon (int, optional): The NCBI taxonomy ID representing the species to be 
+            queried. Defaults to 9606 (Homo sapiens).
+
+    Returns:
+        list[dict]: A list of dictionaries containing the retrieved interaction partner 
+            data in JSON format, as provided by the STRING-DB API.
+
+    Raises:
+        ValueError: If the `proteins` list is empty.
+        ConnectionError: If the API returns a 400 error (invalid query) or 
+            if there is a failure in communicating with the STRING-DB server.
+
+    Note:
+        The function enforces a limit of 600 proteins per request to comply 
+        with STRING-DB's API constraints. If the input list exceeds this, 
+        the function will truncate the list and print a warning.
+    """
     max_proteins = 600 # Max single request GET STRING-DB.org
     if len(proteins) == 1:
         query = proteins[0]

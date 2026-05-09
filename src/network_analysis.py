@@ -8,6 +8,26 @@ import sys, json, os, datetime, random
 
 
 def compute_candidate_proteins(data_dict: dict, query_proteins: list, n_stds: int = 2):
+    """
+    Identifies candidate hub proteins.
+
+    Calculates the mean and standard deviation of metrics for all proteins 
+    excluding the provided query proteins. A protein is considered a 
+    candidate if its metric value exceeds the threshold: 
+    mean + (n_stds * standard_deviation).
+
+    Args:
+        data_dict (dict): A dictionary where keys are protein names (str) 
+            and values are numerical topology metrics (float).
+        query_proteins (list): A list of protein names (str) to be excluded 
+            from the statistical baseline calculation.
+        n_stds (int, optional): The number of standard deviations above the 
+            mean to use as the threshold. Defaults to 2.
+
+    Returns:
+        list: A list of protein names (strings) that meet the outlier criteria, 
+            sorted by their metric value in descending order.
+    """
     data = data_dict.copy()
     for e in query_proteins:
         data.pop(e)
@@ -16,7 +36,19 @@ def compute_candidate_proteins(data_dict: dict, query_proteins: list, n_stds: in
     candidates = [{'gene':node, 'value':v} for node, v in data.items() if v > data_mean+(n_stds*data_std)] # values more than 2 std
     return [e['gene'] for e in sorted(candidates, key=lambda x: x['value'], reverse=True)]
 
-def borda_count_ranking(list_of_ranks):
+def borda_count_ranking(list_of_ranks: list[list]):
+    """
+    Performs Borda count aggregation on multiple ranked lists.
+
+    Args:
+        list_of_ranks (list[list]): A list containing multiple ranked lists, 
+            where each sub-list represents the order of elements from 
+            highest to lowest preference/score.
+
+    Returns:
+        list: A list of tuples containing (element, aggregated_score), 
+            sorted by the aggregated score.
+    """
     random.seed(284957) # for consistency
 
     # Set scrambled (unbiased) list of gene
@@ -38,6 +70,41 @@ def borda_count_ranking(list_of_ranks):
     
 
 def compute_and_save_diagnostics(net: nx.classes.graph, ccoef: list, dc: list, cc: list, bc: list, n_stds: int = 2):
+    """
+    Generates and saves diagnostic visualization plots for network topology and edge scores.
+
+    This function creates a 'diagnostic_plots' subdirectory within the global 
+    `output_folder` and generates three specific types of plots:
+    1. Distribution of STRING scores (based on edge attributes).
+    2. Degree distribution of the network nodes.
+    3. Distribution of topological metrics (clustering, degree, closeness, 
+       and betweenness centralities) with mean and threshold lines.
+
+    Args:
+        net (nx.Graph): A NetworkX graph object containing edge data (e.g., STRING scores).
+        ccoef (dict): A dictionary mapping node identifiers to their clustering 
+            coefficients.
+        dc (dict): A dictionary mapping node identifiers to their degree 
+            centralities.
+        cc (dict): A dictionary mapping node identifiers to their closeness 
+            centralities.
+        bc (dict): A dictionary mapping node identifiers to their betweenness 
+            centralities.
+        n_stds (int, optional): The selected number of standard deviations
+            to compute the thresholds. Defaults to 2.
+
+    Returns:
+        None
+
+    Note:
+        - Creates a directory named 'diagnostic_plots' inside `output_folder` 
+          if it does not already exist.
+        - Saves 'scores_distribution.png' to the diagnostic folder.
+        - Saves 'degrees_distribution.png' to the diagnostic folder.
+        - Saves 'topology_metrics_plots.png' to the diagnostic folder.
+        - Relies on the existence of a global variable `output_folder` 
+          defining the base path.
+    """
     global output_folder
 
     # create plot output foder

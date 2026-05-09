@@ -29,13 +29,37 @@ ALL_CATEGORIES = [
 
 
 def load_ENS_ids(filepath: str):
+    """
+    Loads Ensembl IDs from a hubs.cands.json file.
+
+    Args:
+        filepath (str): The file path to the JSON file containing hub data.
+
+    Returns:
+        list[str]: A list of Ensembl IDs extracted from the 'hubs' field in the JSON.
+    """
     with open(filepath, 'r') as hubfile:
         cand_hubs_file = json.load(hubfile)
     return [e['id'] for e in cand_hubs_file['hubs']]
 
-def from_ENSP_to_ENTREZ_id(ids: list):
+def from_ENSP_to_ENTREZ_id(ids: list, organism: str = 'hsapiens'):
+    """
+    Converts a list of Ensembl IDs to Entrez Gene IDs using gProfiler.
+
+    This function queries the gProfiler API for the specified organism. 
+    If any IDs fail to convert (resulting in 'None'), it prints a warning 
+    and filters them out of the returned list.
+
+    Args:
+        ids (list): A list of Ensembl identifiers to be converted.
+        organism (str) : The selected organism for the conversion. 
+            Default to 'hsapiens'.
+
+    Returns:
+        list: A list of converted Entrez Gene IDs.
+    """
     gp = GProfiler(return_dataframe=True)
-    gp_df = gp.convert(organism='hsapiens', query=ids, target_namespace='ENTREZGENE_ACC')
+    gp_df = gp.convert(organism=organism, query=ids, target_namespace='ENTREZGENE_ACC')
     result = list(gp_df['converted'])
     if 'None' in result:
         wrong_conversion = [g for g, c in zip(ids, result) if c == 'None']
@@ -58,6 +82,26 @@ def run_enrichment(
     max_genes: int = 1500,
     max_results: int = 50,
     correction: str = "FDR"):
+    """
+    Performs gene enrichment analysis using the ToppGene API.
+
+    Args:
+        entrez_ids (list[int]): A list of Entrez Gene IDs to analyze.
+        categories (list[str]): A list of ToppGene category strings to query.
+        p_value_cutoff (float): The p-value threshold for significance. Defaults to 0.05.
+        min_genes (int): The minimum number of genes required in a term. Defaults to 1.
+        max_genes (int): The maximum number of genes to consider in a term. Defaults to 1500.
+        max_results (int): The maximum number of enrichment results to return per category. Defaults to 50.
+        correction (str): The multiple testing correction method (e.g., 'FDR', 'Bonferroni'). Defaults to "FDR".
+
+    Returns:
+        dict[str, pd.DataFrame]: A dictionary where keys are the category names and 
+            values are Pandas DataFrames containing the parsed enrichment results, 
+            sorted by the FDR-corrected p-value.
+
+    Raises:
+        requests.exceptions.HTTPError: If the API request fails.
+    """
 
     ENRICH_URL = "https://toppgene.cchmc.org/API/enrich"
 
@@ -118,6 +162,20 @@ def run_enrichment(
 
 # Accepts only dictionary of pd.Dataframe [see run_enrichment()]
 def print_summary(results: dict[str, pd.DataFrame], top_n: int = 5):
+    """Prints a formatted summary of the enrichment results to the console.
+
+    Iterates through the provided dictionary of results, displaying the top 
+    rows for each category. It specifically looks for columns related to 
+    term names, p-values, and gene lists.
+
+    Args:
+        results (dict[str, pd.Dataframe]): A dictionary where keys are 
+            category names and values are pandas DataFrames containing 
+            the enrichment data.
+
+    Returns:
+        None
+    """
     for cat in results.keys():
         df = results[cat]
         if df is None or df.empty:
@@ -128,7 +186,31 @@ def print_summary(results: dict[str, pd.DataFrame], top_n: int = 5):
 
 
 # Accepts only dictionary of pd.Dataframe [see run_enrichment()]
-def save_results(results: dict[str, pd.DataFrame], output_folder):
+def save_results(results: dict[str, pd.DataFrame], output_folder: str):
+    """Saves the enrichment results to the local file system.
+
+    Creates an 'enrichment_analysis' subdirectory within the specified 
+    output folder. The function saves a single consolidated Excel file 
+    containing all categories as separate sheets, and a collection of 
+    individual CSV files (one for each category).
+
+    Args:
+        results (dict[str, pd.Dataframe]): A dictionary where keys are 
+            category names and values are pandas DataFrames containing 
+            the enrichment data.
+        output_folder (str): The base directory path where the results 
+            folder will be created and files will be stored.
+
+    Raises:
+        OSError: If the directory cannot be created or files cannot be written.
+
+    Note:
+        The directory structure created will be:
+        output_folder/
+        └── enrichment_analysis/
+            ├── [category_name].csv
+            └── enrichment_analysis.xlsx
+    """
     ### Generation of output folder ###
     savepath = f"{output_folder}/enrichment_analysis"
     try:
