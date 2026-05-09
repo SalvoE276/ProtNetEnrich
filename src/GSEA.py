@@ -10,18 +10,36 @@ if __name__=='__main__':
     try:
         borda_ranking_path = sys.argv[1]
         output_folder = sys.argv[2]
+        selected_gene_set = sys.argv[3]
     except IndexError:
-        raise FileNotFoundError("Wrong use of command line arguments.")
+        raise ValueError("Wrong use of command line arguments.")
     
     with open(borda_ranking_path, 'r') as jsonfile:
         ranked_hubs = json.load(jsonfile)
         ranked_hubs = pd.DataFrame(ranked_hubs)
+
+    ### Default gene sets ###
+    default_gene_sets = {
+        'GO_26' : ['GO_Biological_Process_2026', 'GO_Cellular_Component_2026', 'GO_Molecular_Function_2026'],
+        'KEGG_26' : 'KEGG_2026',
+        'Disease' : ['OMIM_Expanded', 'Orphanet_Augmented_2021']
+    }
+    if selected_gene_set not in default_gene_sets.keys() and selected_gene_set == '--custom_set':
+        try:
+            custom_gene_set = sys.argv[4]
+        except IndexError:
+            raise IndexError("Missing custom gene set specification")
+        gene_set = custom_gene_set
+    elif selected_gene_set not in default_gene_sets and selected_gene_set != '--custom_set':
+        raise ValueError("Wrong use of command line arguments.")
+    elif selected_gene_set in default_gene_sets.keys():
+        gene_set = default_gene_sets[selected_gene_set]
     
 
     # Run pre-ranked GSEA
     gsea = gp.prerank(
         rnk=ranked_hubs,
-        gene_sets='KEGG_2021_Human',
+        gene_sets=gene_set,
         outdir=output_folder+'/GSEA/',
         permutation_num=1000,
         min_size=5,     # Min genes in tested gene set
