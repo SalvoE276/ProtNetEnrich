@@ -49,12 +49,16 @@ if __name__=='__main__':
         verbose=False,
         no_plot=True
     )
+ 
 
-    # Print and save results
-    results_df = gsea.res2d.sort_values(by='NES', ascending=False)
+    # Generation of GSEA report
+    results_df = gsea.res2d.sort_values(by=['FDR q-val', 'NES'], ascending=[True, False])
     terms = results_df['Term']
-    print("### GSEA dataframe results ###")
-    print(results_df)
+
+    results_df = results_df[results_df['FDR q-val'] < 0.25]
+    results_df = results_df.drop(columns=['Name'])
+    results_df.to_csv(output_folder+'/GSEA/GSEA_report.csv', index=False)
+
 
     if "--save_plots" in sys.argv:
         print("Saving GSEA plots...")

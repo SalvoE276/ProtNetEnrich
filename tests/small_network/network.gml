@@ -1,8 +1,8 @@
 graph [
   node [
     id 0
-    label "ATG101"
-    ENS_id "ENSP00000338990"
+    label "ABCB9"
+    ENS_id "ENSP00000440288"
     query_protein 0
     color "#b4cffb"
     candidate_hub 0
@@ -10,6 +10,123 @@ graph [
   ]
   node [
     id 1
+    label "ACER1"
+    ENS_id "ENSP00000301452"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 2
+    label "ACER2"
+    ENS_id "ENSP00000342609"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 3
+    label "ACER3"
+    ENS_id "ENSP00000434480"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 4
+    label "AMBRA1"
+    ENS_id "ENSP00000431926"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 5
+    label "ANK2"
+    ENS_id "ENSP00000349588"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 6
+    label "ANK3"
+    ENS_id "ENSP00000280772"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 7
+    label "ARL13B"
+    ENS_id "ENSP00000377769"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 8
+    label "ARNTL"
+    ENS_id "ENSP00000384517"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 9
+    label "ASAH1"
+    ENS_id "ENSP00000371152"
+    query_protein 1
+    color "green"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 10
+    label "ASAH2"
+    ENS_id "ENSP00000378897"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 11
+    label "ATG10"
+    ENS_id "ENSP00000282185"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 12
+    label "ATG101"
+    ENS_id "ENSP00000338990"
+    query_protein 0
+    color "red"
+    candidate_hub 1
+    size 10
+  ]
+  node [
+    id 13
+    label "ATG12"
+    ENS_id "ENSP00000425107"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 14
     label "ATG13"
     ENS_id "ENSP00000432412"
     query_protein 0
@@ -18,7 +135,25 @@ graph [
     size 10
   ]
   node [
-    id 2
+    id 15
+    label "ATG14"
+    ENS_id "ENSP00000247178"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 16
+    label "ATG16L1"
+    ENS_id "ENSP00000375873"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 17
     label "ATG3"
     ENS_id "ENSP00000283290"
     query_protein 0
@@ -27,7 +162,7 @@ graph [
     size 10
   ]
   node [
-    id 3
+    id 18
     label "ATG4B"
     ENS_id "ENSP00000384259"
     query_protein 0
@@ -36,16 +171,70 @@ graph [
     size 10
   ]
   node [
-    id 4
-    label "BECN1"
-    ENS_id "ENSP00000355231"
+    id 19
+    label "ATG4D"
+    ENS_id "ENSP00000311318"
     query_protein 0
     color "#b4cffb"
     candidate_hub 0
     size 10
   ]
   node [
-    id 5
+    id 20
+    label "ATG5"
+    ENS_id "ENSP00000358072"
+    query_protein 0
+    color "red"
+    candidate_hub 1
+    size 10
+  ]
+  node [
+    id 21
+    label "ATG7"
+    ENS_id "ENSP00000346437"
+    query_protein 1
+    color "green"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 22
+    label "BCL2"
+    ENS_id "ENSP00000381185"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 23
+    label "BCL2L1"
+    ENS_id "ENSP00000365230"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 24
+    label "BCL2L13"
+    ENS_id "ENSP00000480836"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 25
+    label "BECN1"
+    ENS_id "ENSP00000355231"
+    query_protein 1
+    color "green"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 26
     label "BNIP3"
     ENS_id "ENSP00000357625"
     query_protein 0
@@ -54,7 +243,7 @@ graph [
     size 10
   ]
   node [
-    id 6
+    id 27
     label "BNIP3L"
     ENS_id "ENSP00000370003"
     query_protein 0
@@ -63,16 +252,16 @@ graph [
     size 10
   ]
   node [
-    id 7
+    id 28
     label "C9orf72"
     ENS_id "ENSP00000482753"
     query_protein 0
-    color "#b4cffb"
-    candidate_hub 0
+    color "red"
+    candidate_hub 1
     size 10
   ]
   node [
-    id 8
+    id 29
     label "CALCOCO2"
     ENS_id "ENSP00000398523"
     query_protein 0
@@ -81,7 +270,7 @@ graph [
     size 10
   ]
   node [
-    id 9
+    id 30
     label "CAV1"
     ENS_id "ENSP00000339191"
     query_protein 0
@@ -90,7 +279,25 @@ graph [
     size 10
   ]
   node [
-    id 10
+    id 31
+    label "CCAR2"
+    ENS_id "ENSP00000310670"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 32
+    label "CCPG1"
+    ENS_id "ENSP00000403400"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 33
     label "CD300C"
     ENS_id "ENSP00000329507"
     query_protein 0
@@ -99,7 +306,88 @@ graph [
     size 10
   ]
   node [
-    id 11
+    id 34
+    label "CD63"
+    ENS_id "ENSP00000447730"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 35
+    label "CDC14A"
+    ENS_id "ENSP00000354916"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 36
+    label "CERS2"
+    ENS_id "ENSP00000271688"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 37
+    label "CERS3"
+    ENS_id "ENSP00000284382"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 38
+    label "CERS4"
+    ENS_id "ENSP00000251363"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 39
+    label "CERS5"
+    ENS_id "ENSP00000325485"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 40
+    label "CERS6"
+    ENS_id "ENSP00000376453"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 41
+    label "CGAS"
+    ENS_id "ENSP00000359339"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 42
+    label "CLOCK"
+    ENS_id "ENSP00000426983"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 43
     label "CYLD"
     ENS_id "ENSP00000392025"
     query_protein 0
@@ -108,7 +396,25 @@ graph [
     size 10
   ]
   node [
-    id 12
+    id 44
+    label "FKBP8"
+    ENS_id "ENSP00000471700"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 45
+    label "FOXO1"
+    ENS_id "ENSP00000368880"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 46
     label "FUNDC1"
     ENS_id "ENSP00000367284"
     query_protein 0
@@ -117,7 +423,7 @@ graph [
     size 10
   ]
   node [
-    id 13
+    id 47
     label "FYCO1"
     ENS_id "ENSP00000296137"
     query_protein 0
@@ -126,16 +432,16 @@ graph [
     size 10
   ]
   node [
-    id 14
+    id 48
     label "GABARAP"
     ENS_id "ENSP00000306866"
-    query_protein 0
-    color "red"
-    candidate_hub 1
+    query_protein 1
+    color "green"
+    candidate_hub 0
     size 10
   ]
   node [
-    id 15
+    id 49
     label "GABARAPL1"
     ENS_id "ENSP00000411256"
     query_protein 0
@@ -144,7 +450,7 @@ graph [
     size 10
   ]
   node [
-    id 16
+    id 50
     label "GABARAPL2"
     ENS_id "ENSP00000037243"
     query_protein 0
@@ -153,7 +459,61 @@ graph [
     size 10
   ]
   node [
-    id 17
+    id 51
+    label "HDAC1"
+    ENS_id "ENSP00000362649"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 52
+    label "HMGB1"
+    ENS_id "ENSP00000345347"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 53
+    label "HSP90AA1"
+    ENS_id "ENSP00000335153"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 54
+    label "HSP90AB1"
+    ENS_id "ENSP00000360609"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 55
+    label "HSPA4"
+    ENS_id "ENSP00000302961"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 56
+    label "HSPA8"
+    ENS_id "ENSP00000437125"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 57
     label "KEAP1"
     ENS_id "ENSP00000377245"
     query_protein 0
@@ -162,7 +522,70 @@ graph [
     size 10
   ]
   node [
-    id 18
+    id 58
+    label "LAMP1"
+    ENS_id "ENSP00000333298"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 59
+    label "LAMP2"
+    ENS_id "ENSP00000408411"
+    query_protein 1
+    color "green"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 60
+    label "LAMTOR1"
+    ENS_id "ENSP00000278671"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 61
+    label "LAMTOR2"
+    ENS_id "ENSP00000357288"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 62
+    label "LAMTOR3"
+    ENS_id "ENSP00000424183"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 63
+    label "LAMTOR4"
+    ENS_id "ENSP00000343118"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 64
+    label "LAMTOR5"
+    ENS_id "ENSP00000256644"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 65
     label "LCK"
     ENS_id "ENSP00000477713"
     query_protein 0
@@ -171,7 +594,25 @@ graph [
     size 10
   ]
   node [
-    id 19
+    id 66
+    label "LGALS3"
+    ENS_id "ENSP00000254301"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 67
+    label "MAP1LC3A"
+    ENS_id "ENSP00000363970"
+    query_protein 1
+    color "green"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 68
     label "MAP1LC3B"
     ENS_id "ENSP00000498476"
     query_protein 1
@@ -180,25 +621,115 @@ graph [
     size 10
   ]
   node [
-    id 20
-    label "MTOR"
-    ENS_id "ENSP00000354558"
+    id 69
+    label "MAP1LC3C"
+    ENS_id "ENSP00000349785"
     query_protein 0
     color "#b4cffb"
     candidate_hub 0
     size 10
   ]
   node [
-    id 21
-    label "NBR1"
-    ENS_id "ENSP00000343479"
+    id 70
+    label "MAP1S"
+    ENS_id "ENSP00000325313"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 71
+    label "MAP3K5"
+    ENS_id "ENSP00000351908"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 72
+    label "MCL1"
+    ENS_id "ENSP00000358022"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 73
+    label "MITF"
+    ENS_id "ENSP00000391803"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 74
+    label "MLST8"
+    ENS_id "ENSP00000457870"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 75
+    label "MTOR"
+    ENS_id "ENSP00000354558"
     query_protein 0
     color "red"
     candidate_hub 1
     size 10
   ]
   node [
-    id 22
+    id 76
+    label "MYD88"
+    ENS_id "ENSP00000498321"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 77
+    label "NBR1"
+    ENS_id "ENSP00000343479"
+    query_protein 1
+    color "green"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 78
+    label "NCOR1"
+    ENS_id "ENSP00000268712"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 79
+    label "NR5A1"
+    ENS_id "ENSP00000362690"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 80
+    label "NRBF2"
+    ENS_id "ENSP00000277746"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 81
     label "OPTN"
     ENS_id "ENSP00000368022"
     query_protein 0
@@ -207,7 +738,70 @@ graph [
     size 10
   ]
   node [
-    id 23
+    id 82
+    label "PCNT"
+    ENS_id "ENSP00000352572"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 83
+    label "PEX5"
+    ENS_id "ENSP00000391601"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 84
+    label "PIK3C3"
+    ENS_id "ENSP00000262039"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 85
+    label "PIK3R4"
+    ENS_id "ENSP00000349205"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 86
+    label "PLIN3"
+    ENS_id "ENSP00000221957"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 87
+    label "PPARG"
+    ENS_id "ENSP00000287820"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 88
+    label "PPARGC1A"
+    ENS_id "ENSP00000264867"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 89
     label "PRKCZ"
     ENS_id "ENSP00000367830"
     query_protein 0
@@ -216,7 +810,25 @@ graph [
     size 10
   ]
   node [
-    id 24
+    id 90
+    label "PTK2"
+    ENS_id "ENSP00000341189"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 91
+    label "PTK2B"
+    ENS_id "ENSP00000380638"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 92
     label "PXN"
     ENS_id "ENSP00000267257"
     query_protein 0
@@ -225,7 +837,7 @@ graph [
     size 10
   ]
   node [
-    id 25
+    id 93
     label "RAB1A"
     ENS_id "ENSP00000387286"
     query_protein 0
@@ -234,34 +846,88 @@ graph [
     size 10
   ]
   node [
-    id 26
+    id 94
     label "RB1CC1"
     ENS_id "ENSP00000025008"
+    query_protein 1
+    color "green"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 95
+    label "RETREG1"
+    ENS_id "ENSP00000304642"
     query_protein 0
     color "#b4cffb"
     candidate_hub 0
     size 10
   ]
   node [
-    id 27
+    id 96
+    label "RNASE1"
+    ENS_id "ENSP00000381057"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 97
     label "RPS27A"
     ENS_id "ENSP00000272317"
     query_protein 0
-    color "#b4cffb"
-    candidate_hub 0
+    color "red"
+    candidate_hub 1
     size 10
   ]
   node [
-    id 28
+    id 98
     label "RPTOR"
     ENS_id "ENSP00000307272"
+    query_protein 0
+    color "red"
+    candidate_hub 1
+    size 10
+  ]
+  node [
+    id 99
+    label "RRAGA"
+    ENS_id "ENSP00000369899"
     query_protein 0
     color "#b4cffb"
     candidate_hub 0
     size 10
   ]
   node [
-    id 29
+    id 100
+    label "RRAGC"
+    ENS_id "ENSP00000362092"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 101
+    label "RRP8"
+    ENS_id "ENSP00000254605"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 102
+    label "RUBCN"
+    ENS_id "ENSP00000296343"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 103
     label "SESN2"
     ENS_id "ENSP00000253063"
     query_protein 0
@@ -270,7 +936,25 @@ graph [
     size 10
   ]
   node [
-    id 30
+    id 104
+    label "SH3GLB1"
+    ENS_id "ENSP00000479919"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 105
+    label "SIRT1"
+    ENS_id "ENSP00000212015"
+    query_protein 1
+    color "green"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 106
     label "SMCR8"
     ENS_id "ENSP00000385025"
     query_protein 0
@@ -279,7 +963,25 @@ graph [
     size 10
   ]
   node [
-    id 31
+    id 107
+    label "SNCA"
+    ENS_id "ENSP00000500990"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 108
+    label "SPRED2"
+    ENS_id "ENSP00000348753"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 109
     label "SQSTM1"
     ENS_id "ENSP00000374455"
     query_protein 1
@@ -288,7 +990,25 @@ graph [
     size 10
   ]
   node [
-    id 32
+    id 110
+    label "SUV39H1"
+    ENS_id "ENSP00000337976"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 111
+    label "TAX1BP1"
+    ENS_id "ENSP00000379612"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 112
     label "TBC1D14"
     ENS_id "ENSP00000386921"
     query_protein 0
@@ -297,7 +1017,7 @@ graph [
     size 10
   ]
   node [
-    id 33
+    id 113
     label "TBC1D25"
     ENS_id "ENSP00000365962"
     query_protein 0
@@ -306,7 +1026,34 @@ graph [
     size 10
   ]
   node [
-    id 34
+    id 114
+    label "TFE3"
+    ENS_id "ENSP00000314129"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 115
+    label "TFEB"
+    ENS_id "ENSP00000351742"
+    query_protein 1
+    color "green"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 116
+    label "TP53"
+    ENS_id "ENSP00000269305"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 117
     label "TRAF6"
     ENS_id "ENSP00000433623"
     query_protein 0
@@ -315,16 +1062,52 @@ graph [
     size 10
   ]
   node [
-    id 35
-    label "UBC"
-    ENS_id "ENSP00000441543"
+    id 118
+    label "TTN"
+    ENS_id "ENSP00000467141"
     query_protein 0
     color "#b4cffb"
     candidate_hub 0
     size 10
   ]
   node [
-    id 36
+    id 119
+    label "UBA52"
+    ENS_id "ENSP00000388107"
+    query_protein 0
+    color "red"
+    candidate_hub 1
+    size 10
+  ]
+  node [
+    id 120
+    label "UBB"
+    ENS_id "ENSP00000478771"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 121
+    label "UBC"
+    ENS_id "ENSP00000441543"
+    query_protein 0
+    color "red"
+    candidate_hub 1
+    size 10
+  ]
+  node [
+    id 122
+    label "UCHL1"
+    ENS_id "ENSP00000284440"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 123
     label "ULK1"
     ENS_id "ENSP00000324560"
     query_protein 1
@@ -333,16 +1116,25 @@ graph [
     size 10
   ]
   node [
-    id 37
+    id 124
     label "ULK2"
     ENS_id "ENSP00000378914"
+    query_protein 0
+    color "red"
+    candidate_hub 1
+    size 10
+  ]
+  node [
+    id 125
+    label "UVRAG"
+    ENS_id "ENSP00000348455"
     query_protein 0
     color "#b4cffb"
     candidate_hub 0
     size 10
   ]
   node [
-    id 38
+    id 126
     label "VDAC1"
     ENS_id "ENSP00000378487"
     query_protein 0
@@ -351,9 +1143,45 @@ graph [
     size 10
   ]
   node [
-    id 39
+    id 127
+    label "VMP1"
+    ENS_id "ENSP00000262291"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 128
     label "WDFY3"
     ENS_id "ENSP00000295888"
+    query_protein 0
+    color "red"
+    candidate_hub 1
+    size 10
+  ]
+  node [
+    id 129
+    label "YWHAE"
+    ENS_id "ENSP00000264335"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 130
+    label "YWHAG"
+    ENS_id "ENSP00000306330"
+    query_protein 0
+    color "#b4cffb"
+    candidate_hub 0
+    size 10
+  ]
+  node [
+    id 131
+    label "YWHAQ"
+    ENS_id "ENSP00000371267"
     query_protein 0
     color "#b4cffb"
     candidate_hub 0
@@ -361,7 +1189,277 @@ graph [
   ]
   edge [
     source 0
+    target 59
+    score 0.603
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.603
+    color "#869BC4"
+    value 0.603
+    width 1
+  ]
+  edge [
+    source 1
+    target 9
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 2
+    target 9
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 3
+    target 9
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 4
+    target 25
+    score 0.996
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.483
+    dscore 0.5
+    tscore 0.987
+    color "#869BC4"
+    value 0.996
+    width 1
+  ]
+  edge [
+    source 5
+    target 48
+    score 0.9470000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9460000000000001
+    dscore 0.0
+    tscore 0.049
+    color "#869BC4"
+    value 0.9470000000000001
+    width 1
+  ]
+  edge [
+    source 6
+    target 48
+    score 0.973
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.926
+    dscore 0.0
+    tscore 0.653
+    color "#869BC4"
+    value 0.973
+    width 1
+  ]
+  edge [
+    source 7
+    target 59
+    score 0.517
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.074
+    dscore 0.5
+    tscore 0.0
+    color "#869BC4"
+    value 0.517
+    width 1
+  ]
+  edge [
+    source 8
+    target 105
+    score 0.963
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.9500000000000001
+    color "#869BC4"
+    value 0.963
+    width 1
+  ]
+  edge [
+    source 9
+    target 10
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 9
+    target 40
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 9
+    target 37
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 9
+    target 39
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 9
+    target 38
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 9
     target 36
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 9
+    target 79
+    score 0.483
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.30000000000000004
+    color "#869BC4"
+    value 0.483
+    width 1
+  ]
+  edge [
+    source 11
+    target 21
+    score 0.995
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.395
+    dscore 0.5
+    tscore 0.984
+    color "#869BC4"
+    value 0.995
+    width 1
+  ]
+  edge [
+    source 12
+    target 94
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.67
+    dscore 0.8
+    tscore 0.984
+    color "#869BC4"
+    value 0.998
+    width 1
+  ]
+  edge [
+    source 12
+    target 123
     score 0.999
     nscore 0
     fscore 0
@@ -375,8 +1473,68 @@ graph [
     width 1
   ]
   edge [
-    source 1
-    target 36
+    source 13
+    target 94
+    score 0.93
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.454
+    dscore 0.0
+    tscore 0.878
+    color "#869BC4"
+    value 0.93
+    width 1
+  ]
+  edge [
+    source 13
+    target 21
+    score 0.997
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.601
+    dscore 0.7000000000000001
+    tscore 0.98
+    color "#869BC4"
+    value 0.997
+    width 1
+  ]
+  edge [
+    source 13
+    target 67
+    score 0.663
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.133
+    dscore 0.5
+    tscore 0.28500000000000003
+    color "#869BC4"
+    value 0.663
+    width 1
+  ]
+  edge [
+    source 14
+    target 94
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.528
+    dscore 0.8
+    tscore 0.984
+    color "#869BC4"
+    value 0.998
+    width 1
+  ]
+  edge [
+    source 14
+    target 123
     score 0.999
     nscore 0
     fscore 0
@@ -390,8 +1548,98 @@ graph [
     width 1
   ]
   edge [
-    source 2
-    target 19
+    source 14
+    target 67
+    score 0.8160000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.549
+    dscore 0.0
+    tscore 0.609
+    color "#869BC4"
+    value 0.8160000000000001
+    width 1
+  ]
+  edge [
+    source 15
+    target 25
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.734
+    dscore 0.9
+    tscore 0.987
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 16
+    target 94
+    score 0.962
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.526
+    dscore 0.0
+    tscore 0.924
+    color "#869BC4"
+    value 0.962
+    width 1
+  ]
+  edge [
+    source 16
+    target 21
+    score 0.8270000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.8270000000000001
+    color "#869BC4"
+    value 0.8270000000000001
+    width 1
+  ]
+  edge [
+    source 17
+    target 21
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.868
+    dscore 0.9
+    tscore 0.984
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 17
+    target 67
+    score 0.796
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.614
+    dscore 0.0
+    tscore 0.492
+    color "#869BC4"
+    value 0.796
+    width 1
+  ]
+  edge [
+    source 17
+    target 68
     score 0.802
     nscore 0
     fscore 0
@@ -405,8 +1653,38 @@ graph [
     width 1
   ]
   edge [
-    source 3
-    target 19
+    source 18
+    target 21
+    score 0.787
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.787
+    color "#869BC4"
+    value 0.787
+    width 1
+  ]
+  edge [
+    source 18
+    target 67
+    score 0.6920000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.663
+    dscore 0.0
+    tscore 0.126
+    color "#869BC4"
+    value 0.6920000000000001
+    width 1
+  ]
+  edge [
+    source 18
+    target 68
     score 0.969
     nscore 0
     fscore 0
@@ -420,8 +1698,218 @@ graph [
     width 1
   ]
   edge [
-    source 4
-    target 36
+    source 19
+    target 21
+    score 0.711
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.711
+    color "#869BC4"
+    value 0.711
+    width 1
+  ]
+  edge [
+    source 20
+    target 105
+    score 0.982
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.975
+    color "#869BC4"
+    value 0.982
+    width 1
+  ]
+  edge [
+    source 20
+    target 21
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.981
+    color "#869BC4"
+    value 0.998
+    width 1
+  ]
+  edge [
+    source 21
+    target 105
+    score 0.981
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.968
+    color "#869BC4"
+    value 0.981
+    width 1
+  ]
+  edge [
+    source 21
+    target 50
+    score 0.995
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.728
+    dscore 0.0
+    tscore 0.982
+    color "#869BC4"
+    value 0.995
+    width 1
+  ]
+  edge [
+    source 21
+    target 49
+    score 0.993
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.634
+    dscore 0.0
+    tscore 0.982
+    color "#869BC4"
+    value 0.993
+    width 1
+  ]
+  edge [
+    source 21
+    target 45
+    score 0.989
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.982
+    color "#869BC4"
+    value 0.989
+    width 1
+  ]
+  edge [
+    source 21
+    target 48
+    score 0.879
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.728
+    dscore 0.0
+    tscore 0.5720000000000001
+    color "#869BC4"
+    value 0.879
+    width 1
+  ]
+  edge [
+    source 21
+    target 67
+    score 0.8160000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.634
+    dscore 0.0
+    tscore 0.518
+    color "#869BC4"
+    value 0.8160000000000001
+    width 1
+  ]
+  edge [
+    source 21
+    target 68
+    score 0.771
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.71
+    dscore 0.0
+    tscore 0.241
+    color "#869BC4"
+    value 0.771
+    width 1
+  ]
+  edge [
+    source 21
+    target 116
+    score 0.764
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.681
+    color "#869BC4"
+    value 0.764
+    width 1
+  ]
+  edge [
+    source 22
+    target 25
+    score 0.996
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.6910000000000001
+    dscore 0.0
+    tscore 0.987
+    color "#869BC4"
+    value 0.996
+    width 1
+  ]
+  edge [
+    source 23
+    target 25
+    score 0.996
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.733
+    dscore 0.0
+    tscore 0.985
+    color "#869BC4"
+    value 0.996
+    width 1
+  ]
+  edge [
+    source 24
+    target 48
+    score 0.986
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.874
+    color "#869BC4"
+    value 0.986
+    width 1
+  ]
+  edge [
+    source 25
+    target 123
     score 0.96
     nscore 0
     fscore 0
@@ -435,8 +1923,203 @@ graph [
     width 1
   ]
   edge [
-    source 5
-    target 19
+    source 25
+    target 85
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.969
+    dscore 0.9
+    tscore 0.987
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 25
+    target 125
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9410000000000001
+    dscore 0.8
+    tscore 0.987
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 25
+    target 80
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.734
+    dscore 0.8
+    tscore 0.986
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 25
+    target 84
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.97
+    dscore 0.9
+    tscore 0.987
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 25
+    target 102
+    score 0.993
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.622
+    dscore 0.0
+    tscore 0.983
+    color "#869BC4"
+    value 0.993
+    width 1
+  ]
+  edge [
+    source 25
+    target 72
+    score 0.992
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.5740000000000001
+    dscore 0.0
+    tscore 0.983
+    color "#869BC4"
+    value 0.992
+    width 1
+  ]
+  edge [
+    source 25
+    target 104
+    score 0.987
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.33
+    dscore 0.0
+    tscore 0.982
+    color "#869BC4"
+    value 0.987
+    width 1
+  ]
+  edge [
+    source 25
+    target 52
+    score 0.984
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.973
+    color "#869BC4"
+    value 0.984
+    width 1
+  ]
+  edge [
+    source 25
+    target 127
+    score 0.984
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.979
+    color "#869BC4"
+    value 0.984
+    width 1
+  ]
+  edge [
+    source 25
+    target 76
+    score 0.982
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.982
+    color "#869BC4"
+    value 0.982
+    width 1
+  ]
+  edge [
+    source 25
+    target 41
+    score 0.98
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.98
+    color "#869BC4"
+    value 0.98
+    width 1
+  ]
+  edge [
+    source 26
+    target 48
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.982
+    color "#869BC4"
+    value 0.998
+    width 1
+  ]
+  edge [
+    source 26
+    target 67
+    score 0.6960000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.31
+    dscore 0.0
+    tscore 0.578
+    color "#869BC4"
+    value 0.6960000000000001
+    width 1
+  ]
+  edge [
+    source 26
+    target 68
     score 0.812
     nscore 0
     fscore 0
@@ -450,8 +2133,23 @@ graph [
     width 1
   ]
   edge [
-    source 6
-    target 19
+    source 27
+    target 48
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.9
+    tscore 0.983
+    color "#869BC4"
+    value 0.998
+    width 1
+  ]
+  edge [
+    source 27
+    target 68
     score 0.8260000000000001
     nscore 0
     fscore 0
@@ -465,8 +2163,23 @@ graph [
     width 1
   ]
   edge [
-    source 7
-    target 36
+    source 28
+    target 94
+    score 0.964
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.9
+    tscore 0.40700000000000003
+    color "#869BC4"
+    value 0.964
+    width 1
+  ]
+  edge [
+    source 28
+    target 123
     score 0.964
     nscore 0
     fscore 0
@@ -480,8 +2193,53 @@ graph [
     width 1
   ]
   edge [
-    source 8
-    target 19
+    source 29
+    target 94
+    score 0.995
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.857
+    dscore 0.0
+    tscore 0.969
+    color "#869BC4"
+    value 0.995
+    width 1
+  ]
+  edge [
+    source 29
+    target 48
+    score 0.977
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.333
+    dscore 0.0
+    tscore 0.968
+    color "#869BC4"
+    value 0.977
+    width 1
+  ]
+  edge [
+    source 29
+    target 67
+    score 0.666
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.459
+    dscore 0.0
+    tscore 0.40800000000000003
+    color "#869BC4"
+    value 0.666
+    width 1
+  ]
+  edge [
+    source 29
+    target 68
     score 0.844
     nscore 0
     fscore 0
@@ -495,8 +2253,8 @@ graph [
     width 1
   ]
   edge [
-    source 9
-    target 19
+    source 30
+    target 68
     score 0.902
     nscore 0
     fscore 0
@@ -510,8 +2268,68 @@ graph [
     width 1
   ]
   edge [
-    source 10
-    target 19
+    source 31
+    target 105
+    score 0.992
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.9
+    tscore 0.879
+    color "#869BC4"
+    value 0.992
+    width 1
+  ]
+  edge [
+    source 32
+    target 94
+    score 0.997
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.91
+    dscore 0.0
+    tscore 0.974
+    color "#869BC4"
+    value 0.997
+    width 1
+  ]
+  edge [
+    source 33
+    target 48
+    score 0.9420000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.9420000000000001
+    color "#869BC4"
+    value 0.9420000000000001
+    width 1
+  ]
+  edge [
+    source 33
+    target 67
+    score 0.734
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.734
+    color "#869BC4"
+    value 0.734
+    width 1
+  ]
+  edge [
+    source 33
+    target 68
     score 0.922
     nscore 0
     fscore 0
@@ -525,8 +2343,53 @@ graph [
     width 1
   ]
   edge [
-    source 11
-    target 31
+    source 34
+    target 59
+    score 0.874
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.874
+    color "#869BC4"
+    value 0.874
+    width 1
+  ]
+  edge [
+    source 35
+    target 105
+    score 0.985
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.048
+    dscore 0.0
+    tscore 0.984
+    color "#869BC4"
+    value 0.985
+    width 1
+  ]
+  edge [
+    source 42
+    target 105
+    score 0.986
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.981
+    color "#869BC4"
+    value 0.986
+    width 1
+  ]
+  edge [
+    source 43
+    target 109
     score 0.961
     nscore 0
     fscore 0
@@ -540,8 +2403,53 @@ graph [
     width 1
   ]
   edge [
-    source 12
-    target 19
+    source 44
+    target 67
+    score 0.98
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.98
+    color "#869BC4"
+    value 0.98
+    width 1
+  ]
+  edge [
+    source 46
+    target 48
+    score 0.997
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.98
+    color "#869BC4"
+    value 0.997
+    width 1
+  ]
+  edge [
+    source 46
+    target 67
+    score 0.926
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.17300000000000001
+    dscore 0.7000000000000001
+    tscore 0.728
+    color "#869BC4"
+    value 0.926
+    width 1
+  ]
+  edge [
+    source 46
+    target 68
     score 0.999
     nscore 0
     fscore 0
@@ -555,8 +2463,23 @@ graph [
     width 1
   ]
   edge [
-    source 13
-    target 19
+    source 47
+    target 67
+    score 0.8240000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.584
+    dscore 0.0
+    tscore 0.595
+    color "#869BC4"
+    value 0.8240000000000001
+    width 1
+  ]
+  edge [
+    source 47
+    target 68
     score 0.992
     nscore 0
     fscore 0
@@ -570,8 +2493,128 @@ graph [
     width 1
   ]
   edge [
-    source 14
-    target 36
+    source 48
+    target 94
+    score 0.8310000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.459
+    dscore 0.0
+    tscore 0.7000000000000001
+    color "#869BC4"
+    value 0.8310000000000001
+    width 1
+  ]
+  edge [
+    source 48
+    target 109
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.51
+    dscore 0.9
+    tscore 0.984
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 48
+    target 77
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.6950000000000001
+    dscore 0.9
+    tscore 0.986
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 48
+    target 81
+    score 0.997
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.9
+    tscore 0.966
+    color "#869BC4"
+    value 0.997
+    width 1
+  ]
+  edge [
+    source 48
+    target 95
+    score 0.994
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.96
+    dscore 0.0
+    tscore 0.878
+    color "#869BC4"
+    value 0.994
+    width 1
+  ]
+  edge [
+    source 48
+    target 49
+    score 0.982
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.166
+    dscore 0.9
+    tscore 0.804
+    color "#869BC4"
+    value 0.982
+    width 1
+  ]
+  edge [
+    source 48
+    target 111
+    score 0.972
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.295
+    dscore 0.9
+    tscore 0.645
+    color "#869BC4"
+    value 0.972
+    width 1
+  ]
+  edge [
+    source 48
+    target 128
+    score 0.968
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9510000000000001
+    dscore 0.0
+    tscore 0.369
+    color "#869BC4"
+    value 0.968
+    width 1
+  ]
+  edge [
+    source 48
+    target 123
     score 0.834
     nscore 0
     fscore 0
@@ -585,23 +2628,23 @@ graph [
     width 1
   ]
   edge [
-    source 14
-    target 31
-    score 0.999
+    source 49
+    target 105
+    score 0.978
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.51
-    dscore 0.9
-    tscore 0.984
+    escore 0.292
+    dscore 0.0
+    tscore 0.97
     color "#869BC4"
-    value 0.999
+    value 0.978
     width 1
   ]
   edge [
-    source 15
-    target 36
+    source 49
+    target 123
     score 0.778
     nscore 0
     fscore 0
@@ -615,8 +2658,23 @@ graph [
     width 1
   ]
   edge [
-    source 15
-    target 31
+    source 49
+    target 77
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.64
+    dscore 0.9
+    tscore 0.986
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 49
+    target 109
     score 0.999
     nscore 0
     fscore 0
@@ -630,8 +2688,23 @@ graph [
     width 1
   ]
   edge [
-    source 16
-    target 36
+    source 50
+    target 105
+    score 0.9500000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.9500000000000001
+    color "#869BC4"
+    value 0.9500000000000001
+    width 1
+  ]
+  edge [
+    source 50
+    target 123
     score 0.864
     nscore 0
     fscore 0
@@ -645,8 +2718,23 @@ graph [
     width 1
   ]
   edge [
-    source 16
-    target 31
+    source 50
+    target 77
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.675
+    dscore 0.9
+    tscore 0.986
+    color "#869BC4"
+    value 0.999
+    width 1
+  ]
+  edge [
+    source 50
+    target 109
     score 0.999
     nscore 0
     fscore 0
@@ -660,8 +2748,83 @@ graph [
     width 1
   ]
   edge [
-    source 17
-    target 31
+    source 51
+    target 105
+    score 0.9390000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.387
+    dscore 0.0
+    tscore 0.905
+    color "#869BC4"
+    value 0.9390000000000001
+    width 1
+  ]
+  edge [
+    source 53
+    target 59
+    score 0.763
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.7000000000000001
+    tscore 0.245
+    color "#869BC4"
+    value 0.763
+    width 1
+  ]
+  edge [
+    source 54
+    target 59
+    score 0.763
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.7000000000000001
+    tscore 0.245
+    color "#869BC4"
+    value 0.763
+    width 1
+  ]
+  edge [
+    source 55
+    target 59
+    score 0.685
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.685
+    color "#869BC4"
+    value 0.685
+    width 1
+  ]
+  edge [
+    source 56
+    target 59
+    score 0.795
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.5
+    tscore 0.306
+    color "#869BC4"
+    value 0.795
+    width 1
+  ]
+  edge [
+    source 57
+    target 109
     score 0.997
     nscore 0
     fscore 0
@@ -675,8 +2838,8 @@ graph [
     width 1
   ]
   edge [
-    source 17
-    target 19
+    source 57
+    target 68
     score 0.879
     nscore 0
     fscore 0
@@ -690,8 +2853,203 @@ graph [
     width 1
   ]
   edge [
-    source 18
-    target 31
+    source 58
+    target 59
+    score 0.968
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.734
+    dscore 0.0
+    tscore 0.888
+    color "#869BC4"
+    value 0.968
+    width 1
+  ]
+  edge [
+    source 59
+    target 122
+    score 0.633
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.352
+    color "#869BC4"
+    value 0.633
+    width 1
+  ]
+  edge [
+    source 59
+    target 66
+    score 0.545
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.384
+    color "#869BC4"
+    value 0.545
+    width 1
+  ]
+  edge [
+    source 59
+    target 107
+    score 0.53
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.309
+    dscore 0.0
+    tscore 0.34800000000000003
+    color "#869BC4"
+    value 0.53
+    width 1
+  ]
+  edge [
+    source 59
+    target 86
+    score 0.516
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.073
+    dscore 0.5
+    tscore 0.0
+    color "#869BC4"
+    value 0.516
+    width 1
+  ]
+  edge [
+    source 59
+    target 82
+    score 0.499
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.5
+    tscore 0.0
+    color "#869BC4"
+    value 0.499
+    width 1
+  ]
+  edge [
+    source 59
+    target 96
+    score 0.499
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.5
+    tscore 0.0
+    color "#869BC4"
+    value 0.499
+    width 1
+  ]
+  edge [
+    source 59
+    target 119
+    score 0.499
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.5
+    tscore 0.0
+    color "#869BC4"
+    value 0.499
+    width 1
+  ]
+  edge [
+    source 60
+    target 115
+    score 0.8
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.8
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.8
+    width 1
+  ]
+  edge [
+    source 61
+    target 115
+    score 0.8
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.8
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.8
+    width 1
+  ]
+  edge [
+    source 62
+    target 115
+    score 0.8
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.8
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.8
+    width 1
+  ]
+  edge [
+    source 63
+    target 115
+    score 0.8
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.8
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.8
+    width 1
+  ]
+  edge [
+    source 64
+    target 115
+    score 0.8
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.8
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.8
+    width 1
+  ]
+  edge [
+    source 65
+    target 109
     score 0.971
     nscore 0
     fscore 0
@@ -705,38 +3063,68 @@ graph [
     width 1
   ]
   edge [
-    source 19
-    target 31
-    score 0.997
+    source 67
+    target 77
+    score 0.782
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.6960000000000001
-    dscore 0.5
-    tscore 0.983
-    color "#869BC4"
-    value 0.997
-    width 1
-  ]
-  edge [
-    source 19
-    target 22
-    score 0.992
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.96
+    escore 0.6950000000000001
     dscore 0.0
-    tscore 0.8170000000000001
+    tscore 0.316
     color "#869BC4"
-    value 0.992
+    value 0.782
     width 1
   ]
   edge [
-    source 19
-    target 21
+    source 67
+    target 109
+    score 0.9490000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.677
+    dscore 0.5
+    tscore 0.711
+    color "#869BC4"
+    value 0.9490000000000001
+    width 1
+  ]
+  edge [
+    source 67
+    target 70
+    score 0.673
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.421
+    dscore 0.0
+    tscore 0.458
+    color "#869BC4"
+    value 0.673
+    width 1
+  ]
+  edge [
+    source 67
+    target 95
+    score 0.635
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.312
+    dscore 0.0
+    tscore 0.491
+    color "#869BC4"
+    value 0.635
+    width 1
+  ]
+  edge [
+    source 68
+    target 77
     score 0.992
     nscore 0
     fscore 0
@@ -750,8 +3138,38 @@ graph [
     width 1
   ]
   edge [
-    source 19
-    target 24
+    source 68
+    target 109
+    score 0.997
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.6960000000000001
+    dscore 0.5
+    tscore 0.983
+    color "#869BC4"
+    value 0.997
+    width 1
+  ]
+  edge [
+    source 68
+    target 81
+    score 0.992
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.96
+    dscore 0.0
+    tscore 0.8170000000000001
+    color "#869BC4"
+    value 0.992
+    width 1
+  ]
+  edge [
+    source 68
+    target 92
     score 0.8320000000000001
     nscore 0
     fscore 0
@@ -765,8 +3183,8 @@ graph [
     width 1
   ]
   edge [
-    source 19
-    target 33
+    source 68
+    target 113
     score 0.803
     nscore 0
     fscore 0
@@ -780,8 +3198,68 @@ graph [
     width 1
   ]
   edge [
-    source 20
-    target 36
+    source 69
+    target 77
+    score 0.747
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.656
+    dscore 0.0
+    tscore 0.297
+    color "#869BC4"
+    value 0.747
+    width 1
+  ]
+  edge [
+    source 71
+    target 94
+    score 0.893
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.855
+    color "#869BC4"
+    value 0.893
+    width 1
+  ]
+  edge [
+    source 73
+    target 115
+    score 0.9430000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.671
+    dscore 0.8
+    tscore 0.21
+    color "#869BC4"
+    value 0.9430000000000001
+    width 1
+  ]
+  edge [
+    source 74
+    target 115
+    score 0.8
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.8
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.8
+    width 1
+  ]
+  edge [
+    source 75
+    target 123
     score 0.9450000000000001
     nscore 0
     fscore 0
@@ -795,8 +3273,23 @@ graph [
     width 1
   ]
   edge [
-    source 21
-    target 31
+    source 75
+    target 115
+    score 0.919
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9
+    dscore 0.0
+    tscore 0.228
+    color "#869BC4"
+    value 0.919
+    width 1
+  ]
+  edge [
+    source 77
+    target 109
     score 0.992
     nscore 0
     fscore 0
@@ -810,8 +3303,158 @@ graph [
     width 1
   ]
   edge [
-    source 22
-    target 31
+    source 77
+    target 121
+    score 0.964
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.964
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.964
+    width 1
+  ]
+  edge [
+    source 77
+    target 97
+    score 0.9490000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9490000000000001
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.9490000000000001
+    width 1
+  ]
+  edge [
+    source 77
+    target 118
+    score 0.9460000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.313
+    dscore 0.0
+    tscore 0.926
+    color "#869BC4"
+    value 0.9460000000000001
+    width 1
+  ]
+  edge [
+    source 77
+    target 120
+    score 0.932
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.91
+    dscore 0.0
+    tscore 0.28
+    color "#869BC4"
+    value 0.932
+    width 1
+  ]
+  edge [
+    source 77
+    target 119
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 77
+    target 83
+    score 0.856
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.5
+    tscore 0.725
+    color "#869BC4"
+    value 0.856
+    width 1
+  ]
+  edge [
+    source 77
+    target 108
+    score 0.726
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.517
+    color "#869BC4"
+    value 0.726
+    width 1
+  ]
+  edge [
+    source 77
+    target 81
+    score 0.722
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.07
+    dscore 0.0
+    tscore 0.714
+    color "#869BC4"
+    value 0.722
+    width 1
+  ]
+  edge [
+    source 78
+    target 105
+    score 0.988
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.481
+    dscore 0.0
+    tscore 0.978
+    color "#869BC4"
+    value 0.988
+    width 1
+  ]
+  edge [
+    source 81
+    target 94
+    score 0.926
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.926
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.926
+    width 1
+  ]
+  edge [
+    source 81
+    target 109
     score 0.962
     nscore 0
     fscore 0
@@ -825,8 +3468,38 @@ graph [
     width 1
   ]
   edge [
-    source 23
-    target 31
+    source 87
+    target 105
+    score 0.9400000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.92
+    color "#869BC4"
+    value 0.9400000000000001
+    width 1
+  ]
+  edge [
+    source 88
+    target 105
+    score 0.988
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.979
+    color "#869BC4"
+    value 0.988
+    width 1
+  ]
+  edge [
+    source 89
+    target 109
     score 0.968
     nscore 0
     fscore 0
@@ -840,8 +3513,38 @@ graph [
     width 1
   ]
   edge [
-    source 25
-    target 36
+    source 90
+    target 94
+    score 0.99
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.986
+    color "#869BC4"
+    value 0.99
+    width 1
+  ]
+  edge [
+    source 91
+    target 94
+    score 0.971
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.961
+    color "#869BC4"
+    value 0.971
+    width 1
+  ]
+  edge [
+    source 93
+    target 123
     score 0.873
     nscore 0
     fscore 0
@@ -855,8 +3558,8 @@ graph [
     width 1
   ]
   edge [
-    source 26
-    target 36
+    source 94
+    target 123
     score 0.999
     nscore 0
     fscore 0
@@ -870,8 +3573,38 @@ graph [
     width 1
   ]
   edge [
-    source 27
-    target 31
+    source 94
+    target 124
+    score 0.997
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.22
+    dscore 0.8
+    tscore 0.987
+    color "#869BC4"
+    value 0.997
+    width 1
+  ]
+  edge [
+    source 94
+    target 116
+    score 0.969
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.9460000000000001
+    color "#869BC4"
+    value 0.969
+    width 1
+  ]
+  edge [
+    source 97
+    target 109
     score 0.961
     nscore 0
     fscore 0
@@ -885,8 +3618,8 @@ graph [
     width 1
   ]
   edge [
-    source 28
-    target 36
+    source 98
+    target 123
     score 0.881
     nscore 0
     fscore 0
@@ -900,8 +3633,68 @@ graph [
     width 1
   ]
   edge [
-    source 29
-    target 36
+    source 98
+    target 115
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.9
+    width 1
+  ]
+  edge [
+    source 99
+    target 115
+    score 0.903
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9
+    dscore 0.0
+    tscore 0.07
+    color "#869BC4"
+    value 0.903
+    width 1
+  ]
+  edge [
+    source 100
+    target 115
+    score 0.904
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9
+    dscore 0.0
+    tscore 0.085
+    color "#869BC4"
+    value 0.904
+    width 1
+  ]
+  edge [
+    source 101
+    target 105
+    score 0.995
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.9
+    tscore 0.9470000000000001
+    color "#869BC4"
+    value 0.995
+    width 1
+  ]
+  edge [
+    source 103
+    target 123
     score 0.931
     nscore 0
     fscore 0
@@ -915,8 +3708,38 @@ graph [
     width 1
   ]
   edge [
-    source 30
-    target 36
+    source 105
+    target 110
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.9
+    tscore 0.97
+    color "#869BC4"
+    value 0.998
+    width 1
+  ]
+  edge [
+    source 105
+    target 116
+    score 0.9500000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.913
+    color "#869BC4"
+    value 0.9500000000000001
+    width 1
+  ]
+  edge [
+    source 106
+    target 123
     score 0.841
     nscore 0
     fscore 0
@@ -930,8 +3753,8 @@ graph [
     width 1
   ]
   edge [
-    source 31
-    target 34
+    source 109
+    target 117
     score 0.998
     nscore 0
     fscore 0
@@ -945,8 +3768,8 @@ graph [
     width 1
   ]
   edge [
-    source 31
-    target 38
+    source 109
+    target 126
     score 0.977
     nscore 0
     fscore 0
@@ -960,8 +3783,8 @@ graph [
     width 1
   ]
   edge [
-    source 31
-    target 35
+    source 109
+    target 121
     score 0.967
     nscore 0
     fscore 0
@@ -975,8 +3798,8 @@ graph [
     width 1
   ]
   edge [
-    source 31
-    target 39
+    source 109
+    target 128
     score 0.962
     nscore 0
     fscore 0
@@ -990,8 +3813,8 @@ graph [
     width 1
   ]
   edge [
-    source 32
-    target 36
+    source 112
+    target 123
     score 0.852
     nscore 0
     fscore 0
@@ -1005,8 +3828,68 @@ graph [
     width 1
   ]
   edge [
-    source 36
-    target 37
+    source 114
+    target 115
+    score 0.934
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.671
+    dscore 0.8
+    tscore 0.078
+    color "#869BC4"
+    value 0.934
+    width 1
+  ]
+  edge [
+    source 115
+    target 130
+    score 0.922
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.922
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.922
+    width 1
+  ]
+  edge [
+    source 115
+    target 129
+    score 0.621
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.621
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.621
+    width 1
+  ]
+  edge [
+    source 115
+    target 131
+    score 0.582
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.582
+    dscore 0.0
+    tscore 0.0
+    color "#869BC4"
+    value 0.582
+    width 1
+  ]
+  edge [
+    source 123
+    target 124
     score 0.996
     nscore 0
     fscore 0

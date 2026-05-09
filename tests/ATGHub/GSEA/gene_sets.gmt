@@ -1,387 +1,168 @@
-adenocarcinoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-adenoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-adrenoleukodystrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-aids	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-albinism	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-alopecia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-alzheimer disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	APOE	AXIN2	IQGAP1
-amelogenesis imperfecta	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-amyloidosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-aneurysm	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-anomalies	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-arrhythmogenic right ventricular dysplasia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	TGFB3	AXIN2	IQGAP1
-arthrogryposis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-asperger syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-asthma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-atopy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-atrial fibrillation	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-attention-deficit hyperactivity disorder	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-autism	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-autoimmune disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-bardet-biedl syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-bare lymphocyte syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-bartter syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-blood	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-body mass index	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-bone mineral density	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-brachydactyly	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-breast cancer	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-cardiomyopathy	OMIM_Expanded	PRKAG2	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-cardiomyopathy, dilated	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-cardiomyopathy, hypertrophic	OMIM_Expanded	PRKAG2	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-cataract	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-cdeficiency	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-celiac disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-central hypoventilation syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-ceroid-lipofuscinosis, neuronal	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-charcot-marie-tooth disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HSPB8	HDAC2	AXIN2	IQGAP1
-cholestasis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-cholesterol level	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-chondrodysplasia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-ciliary dyskinesia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-coloboma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-colon cancer	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1	SRC
-colorectal cancer	OMIM_Expanded	CAV1	TLR4	CREBBP	IGF1R	GNAI2	ARNT	MSH6	HDAC2	AXIN2	IQGAP1
-complex i	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-cone dystrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-cone-rod dystrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-convulsions	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-corneal dystrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-coronary artery disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	PON1	AXIN2	IQGAP1
-coronary heart disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-cutis laxa	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	ATP7A	AXIN2	IQGAP1
-dementia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-dermatitis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-diabetes mellitus, type 1	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ITPR3	ARNT	HDAC2	AXIN2	IQGAP1
-diabetes mellitus, type 2	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-diamond-blackfan anemia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-disorder of glycosylation	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-dyskeratosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-dyslexia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-dystonia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-ectodermal dysplasia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-ehlers-danlos	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-encephalopathy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-endometrial cancer	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	MSH6	HDAC2	AXIN2	IQGAP1
-epidermolysis bullosa	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-epiphyseal dysplasia, multiple	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-episodic ataxia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-fanconi anemia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-fetal hemoglobin quantitative trait locus	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-fibrosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-gastric cancer	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-glaucoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-glioblastoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-glycogen storage disease	OMIM_Expanded	PHKG2	PRKAG2	CAV1	CREBBP	IGF1R	GNAI2	GYS1	ARNT	GYS2	HDAC2	AXIN2	IQGAP1
-goiter	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hemochromatosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hepatocellular carcinoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hermansky-pudlak syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hirschsprung disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hiv	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-holoprosencephaly	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-homocystinuria	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hypercholesterolemia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	APOA2	AXIN2	IQGAP1
-hypertension	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hypoglycemia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hypogonadism	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hypothyroidism	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-hypotrichosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-ichthyosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-immunodeficiency	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	RAC2	AXIN2	IQGAP1
-infections	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-inflammatory bowel disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-joubert syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-kallmann syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-keratosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-lateral sclerosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-leber amaurosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-leigh syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-leukodystrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-leukoencephalopathy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-lipodystrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-lissencephaly	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1	YWHAE
-long qt syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-lung cancer	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-lymphedema	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-lymphoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-lymphoproliferative syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-macular degeneration	OMIM_Expanded	CAV1	TLR4	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	APOE	AXIN2	IQGAP1
-macular dystrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-major affective disorder	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-malaria	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-malignant hyperthermia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-meckel syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-melanoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-microcephaly	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-microphthalmia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-migraine	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-mitochondrial dna depletion syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-mucopolysaccharidosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-multiple sclerosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-muscular dystrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-myasthenic syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-myocardial infarction	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	APOE	AXIN2	IQGAP1
-myopathy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-myopia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-nephronophthisis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-nephropathy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-neuropathy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HSPB8	HDAC2	AXIN2	IQGAP1
-neutropenia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-nevus	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-night blindness	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-obesity	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-optic atrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-orofacial cleft	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	UBB	AXIN2	IQGAP1
-osteoarthritis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-osteopetrosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-osteoporosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-otosclerosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-ovarian cancer	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-ovarian failure	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-paget disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-pancreatic cancer	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-parkinson disease	OMIM_Expanded	SNCAIP	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-pheochromocytoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-polydactyly	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-porphyria	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-preeclampsia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-prostate cancer	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-pseudohypoaldosteronism	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-psoriasis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-refsum disease	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-renal cell carcinoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	TFE3	AXIN2	IQGAP1
-restless legs syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-rheumatoid arthritis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-rickets	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-sarcoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-schizophrenia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-seizures	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-skin/hair/eye pigmentation	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-spastic paraplegia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-spinal muscular atrophy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-spinocerebellar ataxia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-split-hand/foot malformation	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-squamous cell carcinoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	TNFRSF10B	HDAC2	AXIN2	IQGAP1
-stature	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-systemic lupus erythematosus	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-thalassemia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-thrombocytopenia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-thrombophilia	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-thyroid carcinoma	OMIM_Expanded	CAV1	CREBBP	IGF1R	HRAS	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-tuberculosis	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-usher syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-vitreoretinopathy	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-waardenburg syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-wilms tumor	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-xeroderma pigmentosum	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-zellweger syndrome	OMIM_Expanded	CAV1	CREBBP	IGF1R	GNAI2	ARNT	HDAC2	AXIN2	IQGAP1
-15q24 microdeletion syndrome ORPHA:94065	Orphanet_Augmented_2021	CREBBP	EIF4B	MSH6	TRRAP	SIN3A	CASP2
-1p36 deletion syndrome ORPHA:1606	Orphanet_Augmented_2021	KNDC1	CREBBP	PTPN23	VAMP2	TBKBP1
-Acromegaly ORPHA:963	Orphanet_Augmented_2021	TRAPPC1	PIN1	LAMTOR4	STUB1	VPS28
-Acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome ORPHA:466794	Orphanet_Augmented_2021	WDR24	TELO2	STUB1	CDC37	CHMP1A
-Adult hepatocellular carcinoma ORPHA:210159	Orphanet_Augmented_2021	AXIN1	CREBBP	EIF4B	IGF1R	ITPR3	EGF	TRRAP	ABL1
-Aggressive systemic mastocytosis ORPHA:98850	Orphanet_Augmented_2021	CREBBP	TRRAP	CDC14A	SIN3A	IQGAP1	CASP2
-Aicardi-Goutieres syndrome ORPHA:51	Orphanet_Augmented_2021	TRADD	MLKL	IKBKE	RAC2	PTPN7	NLRC5	IFIH1
-Alpha-N-acetylgalactosaminidase deficiency type 1 ORPHA:79279	Orphanet_Augmented_2021	TRADD	TALDO1	GRB2	GNAI2	IKBKE	CD300C	OS9
-Alpha-N-acetylgalactosaminidase deficiency type 2 ORPHA:79280	Orphanet_Augmented_2021	TRADD	TALDO1	GRB2	GNAI2	IKBKE	CD300C	OS9
-Alpha-N-acetylgalactosaminidase deficiency type 3 ORPHA:79281	Orphanet_Augmented_2021	TRADD	TALDO1	GRB2	GNAI2	IKBKE	CD300C	OS9
-Amyotrophic lateral sclerosis ORPHA:803	Orphanet_Augmented_2021	STIP1	PTGES3	HSPA9	HSP90AB1	ST13	PON1	YWHAE
-Aneurysm-osteoarthritis syndrome ORPHA:284984	Orphanet_Augmented_2021	CAV1	PPP1R13L	ITPR3	CAST	SMAD3
-Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088	Orphanet_Augmented_2021	TRADD	ARAF	STX4	CCND3	CHMP1A
-Ataxia-hypogonadism-choroidal dystrophy syndrome ORPHA:1180	Orphanet_Augmented_2021	PTPN23	VPS18	FKBP8	WDR24	TFE3
-Ataxia-pancytopenia syndrome ORPHA:2585	Orphanet_Augmented_2021	CASP1	RIPK3	LY96	NLRC5	IFIH1
-Atrial septal defect, sinus venosus type ORPHA:99105	Orphanet_Augmented_2021	AKT1S1	TNFRSF1A	STX5	JUN	NCSTN
-Atypical Gaucher disease due to saposin C deficiency ORPHA:309252	Orphanet_Augmented_2021	TNFRSF1A	GNAI2	VAMP3	NCSTN	TFE3	UBC	OS9
-Autoimmune enteropathy and endocrinopathy-susceptibility to chronic infections syndrome ORPHA:391487	Orphanet_Augmented_2021	CASP1	TANK	LY96	BCL2A1	NLRC5	IFIH1
-Autoimmune interstitial lung disease-arthritis syndrome ORPHA:444092	Orphanet_Augmented_2021	AP2M1	PDCD6IP	STIP1	CHD4	EIF4H	NCSTN
-Autosomal dominant Charcot-Marie-Tooth disease type 2B ORPHA:99936	Orphanet_Augmented_2021	TRAPPC1	STX4	UBAP1	RAB11B	NCSTN	FKBP1A
-Autosomal dominant Charcot-Marie-Tooth disease type 2I ORPHA:99942	Orphanet_Augmented_2021	PIK3R6	GNAI2	CD300C	PIK3CD	RAC2	LY96
-Autosomal dominant Charcot-Marie-Tooth disease type 2J ORPHA:99943	Orphanet_Augmented_2021	PIK3R6	GNAI2	CD300C	PIK3CD	RAC2	LY96
-Autosomal dominant Charcot-Marie-Tooth disease type 2O ORPHA:284232	Orphanet_Augmented_2021	CHD4	TP53BP1	ERC1	TRRAP	ABL1
-Autosomal dominant Kenny-Caffey syndrome ORPHA:93325	Orphanet_Augmented_2021	CASP1	TNFRSF10A	MLKL	IKBKE	RAC2	NLRC5	IQGAP1	IFIH1
-Autosomal dominant intermediate Charcot-Marie-Tooth disease type D ORPHA:100046	Orphanet_Augmented_2021	PIK3R6	GNAI2	CD300C	PIK3CD	RAC2	LY96
-Autosomal dominant intermediate Charcot-Marie-Tooth disease with neuropathic pain ORPHA:324585	Orphanet_Augmented_2021	PIK3R6	GNAI2	CD300C	PIK3CD	RAC2	LY96
-Autosomal dominant mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency ORPHA:319581	Orphanet_Augmented_2021	CASP1	RIPK3	TANK	CD300C	LY96	BCL2A1
-Autosomal dominant severe congenital neutropenia ORPHA:486	Orphanet_Augmented_2021	TRADD	IKBKE	CD300C	RAC2	PTPN7
-Autosomal dominant spastic paraplegia type 12 ORPHA:100993	Orphanet_Augmented_2021	AKT1S1	AP2M1	CALM3	VPS37C	FKBP8	TBKBP1
-Autosomal recessive axonal Charcot-Marie-Tooth disease due to copper metabolism defect ORPHA:521411	Orphanet_Augmented_2021	TRADD	LAMTOR2	LAMTOR4	CIB1	MVB12A	CHMP1A
-Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to TUD deficiency ORPHA:404493	Orphanet_Augmented_2021	TALDO1	VAMP7	CHMP5	SNAP23	TANK
-Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency ORPHA:319569	Orphanet_Augmented_2021	CASP1	RIPK3	TANK	CD300C	LY96	BCL2A1
-Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957	Orphanet_Augmented_2021	CASP1	RIPK3	TANK	RIPK1	NLRC5
-Autosomal recessive non-syndromic intellectual disability ORPHA:88616	Orphanet_Augmented_2021	STIP1	TP53BP1	HSP90AB1	EIF4H	ABL1
-Autosomal recessive spastic paraplegia type 39 ORPHA:139480	Orphanet_Augmented_2021	PTPN23	VPS18	FKBP8	WDR24	TFE3
-Autosomal recessive spastic paraplegia type 45 ORPHA:320396	Orphanet_Augmented_2021	CHMP1B	PDCD6IP	UBAP1	TANK	VPS8	SHOC2	IQGAP1
-Autosomal recessive spastic paraplegia type 61 ORPHA:401780	Orphanet_Augmented_2021	YWHAB	PTGES3	RBBP4	UBE2N	YWHAE
-B4GALT1-CDG ORPHA:79332	Orphanet_Augmented_2021	TRADD	TNFRSF1A	CASP7	CIB1	CAST	IQGAP1
-Bacterial susceptibility due to TLR signaling pathway deficiency ORPHA:183713	Orphanet_Augmented_2021	TRADD	CASP1	RIPK3	PYCARD	IKBKE	RAC2	BCL2A1
-Becker nevus syndrome ORPHA:64755	Orphanet_Augmented_2021	TRAPPC1	RHOA	GRB2	GNAI2	IKBKE	CCND3	FKBP1A	CHMP1A
-Behavioral variant of frontotemporal dementia ORPHA:275864	Orphanet_Augmented_2021	PDCD6IP	CHMP5	STX12	VAMP3	UBC	OS9
-Beta-propeller protein-associated neurodegeneration ORPHA:329284	Orphanet_Augmented_2021	TRADD	ARAF	STX4	LAMTOR4	CIB1	VPS28
-Bilateral parasagittal parieto-occipital polymicrogyria ORPHA:208441	Orphanet_Augmented_2021	STX7	VIPAS39	VPS41	STX12	VPS8	SHOC2
-Birdshot chorioretinopathy ORPHA:179	Orphanet_Augmented_2021	CASP1	RIPK3	RAC2	BCL2A1	NLRC5
-CCDC115-CDG ORPHA:468684	Orphanet_Augmented_2021	TRADD	GRB2	LAMTOR4	CIB1	VPS28
-CLN11 disease ORPHA:314629	Orphanet_Augmented_2021	TNFRSF1A	ARAF	STX4	NCSTN	OS9
-CLN2 disease ORPHA:228349	Orphanet_Augmented_2021	TRAPPC1	STX4	CASP1	GNAI2	VAMP2	CD300C	RAB11B	NCSTN
-Camurati-Engelmann disease ORPHA:1328	Orphanet_Augmented_2021	TRADD	STX4	GNAI2	CCND3	RAC2
-Carnitine palmitoyl transferase 1A deficiency ORPHA:156	Orphanet_Augmented_2021	TRADD	TNFRSF10A	MLKL	RIPK1	CASP7	IFIH1
-Cathepsin A-related arteriopathy-strokes-leukoencephalopathy ORPHA:575553	Orphanet_Augmented_2021	TRADD	TRAPPC1	TNFRSF1A	LGALS3	ARAF	STX4
-Charcot-Marie-Tooth disease type 1B ORPHA:101082	Orphanet_Augmented_2021	PIK3R6	GNAI2	CD300C	PIK3CD	RAC2	LY96
-Charcot-Marie-Tooth disease type 4G ORPHA:99953	Orphanet_Augmented_2021	AP2M1	PEA15	CALM3	GYS1	FKBP8	PYGB	TFE3	CDC37
-Charcot-Marie-Tooth disease type 4J ORPHA:139515	Orphanet_Augmented_2021	STX7	VIPAS39	VPS41	STX12	VPS8	SHOC2
-Childhood-onset autosomal recessive slowly progressive spinocerebellar ataxia ORPHA:284324	Orphanet_Augmented_2021	TRAPPC1	STX4	CASP1	GNAI2	VAMP2	CD300C	RAB11B	NCSTN
-Chronic mucocutaneous candidiasis ORPHA:1334	Orphanet_Augmented_2021	TRADD	CASP1	RIPK3	MLKL	NLRC5	IFIH1
-Cleidocranial dysplasia ORPHA:1452	Orphanet_Augmented_2021	CASP1	MLKL	IKBKE	RAC2	NLRC5
-Coffin-Siris syndrome ORPHA:1465	Orphanet_Augmented_2021	CHD4	TP53BP1	RBBP4	TRRAP	SIN3A
-Combined immunodeficiency due to Moesin deficiency ORPHA:504530	Orphanet_Augmented_2021	NLRP1	CASP1	GNAI2	PIK3CG	PIK3CD	RAC2	LY96	NLRC5
-Combined immunodeficiency due to ORAI1 deficiency ORPHA:317428	Orphanet_Augmented_2021	TRADD	ARAF	IKBKE	CCND3	CIB1	RAC2
-Complement hyperactivation-angiopathic thrombosis-protein-losing enteropathy syndrome ORPHA:566175	Orphanet_Augmented_2021	LGALS3	CASP1	MLKL	NLRC5	IFIH1
-Congenital isolated ACTH deficiency ORPHA:199296	Orphanet_Augmented_2021	TRADD	NOD1	IKBKE	PIK3CD	RAC2	NLRC5
-Congenital muscular dystrophy-respiratory failure-skin abnormalities-joint hyperlaxity syndrome ORPHA:486815	Orphanet_Augmented_2021	CASP6	SNAP23	TANK	RIPK1	BCL2A1
-Congenitally uncorrected transposition of the great arteries ORPHA:860	Orphanet_Augmented_2021	CREBBP	IGF1R	TP53BP1	ERC1	TRRAP	EIF4G3
-Cystic leukoencephalopathy without megalencephaly ORPHA:85136	Orphanet_Augmented_2021	TRADD	TALDO1	LAMTOR2	LAMTOR4	CIB1	VPS28	UBA52
-DNAJB6-related  limb-girdle muscular dystrophy D1 ORPHA:34516	Orphanet_Augmented_2021	PMAIP1	SKP1	RBX1	UBE2N	LAMTOR3	YWHAZ
-DYNC1H1-related autosomal dominant childhood-onset proximal spinal muscular atrophy ORPHA:209341	Orphanet_Augmented_2021	CHD4	TP53BP1	ERC1	TRRAP	ABL1
-Deficiency in anterior pituitary function-variable immunodeficiency syndrome ORPHA:293978	Orphanet_Augmented_2021	TRADD	ARAF	IRF3	STX4	IKBKE
-Dehydrated hereditary stomatocytosis ORPHA:3202	Orphanet_Augmented_2021	TRADD	MLKL	IKBKE	CCND3	RAC2	NLRC5
-Deletion 5q35 ORPHA:1627	Orphanet_Augmented_2021	HSPA4	CHD4	MSH6	INCENP	TRRAP
-Developmental delay with autism spectrum disorder and gait instability ORPHA:329195	Orphanet_Augmented_2021	CHD4	TP53BP1	ERC1	TRRAP	EIF4G3
-Developmental malformations-deafness-dystonia syndrome ORPHA:79107	Orphanet_Augmented_2021	TRAPPC1	RHOA	GRB2	GNAI2	IKBKE	CCND3	FKBP1A	CHMP1A
-Distal 17p13.3 microdeletion syndrome ORPHA:261257	Orphanet_Augmented_2021	STIP1	PTGES3	HSP90AB1	HDAC2	ST13	YWHAE
-Dysosteosclerosis ORPHA:1782	Orphanet_Augmented_2021	TRADD	STX4	PYCARD	IKBKE	CIB1
-EVEN-plus syndrome ORPHA:496751	Orphanet_Augmented_2021	NUDCD1	HSPA4	STIP1	HSPA9	HSP90AB1	XRCC6
-Encephalopathy due to prosaposin deficiency ORPHA:139406	Orphanet_Augmented_2021	TNFRSF1A	GNAI2	VAMP3	NCSTN	TFE3	UBC	OS9
-Ependymoma ORPHA:251636	Orphanet_Augmented_2021	TRADD	ARAF	STX4	STX5	CIB1
-Epidermodysplasia verruciformis ORPHA:302	Orphanet_Augmented_2021	TRADD	RIPK3	CIB1	RAC2	BCL2A1
-Essential thrombocythemia ORPHA:3318	Orphanet_Augmented_2021	PIK3R6	NOD1	PIK3CG	PIK3CD	RAC2	NLRC5
-Ethylmalonic encephalopathy ORPHA:51188	Orphanet_Augmented_2021	TRADD	LAMTOR2	IKBKE	CIB1	MVB12A
-Exfoliative ichthyosis ORPHA:289586	Orphanet_Augmented_2021	CASP1	RIPK3	MLKL	PYCARD	CD300C	RAC2	LY96	BCL2A1	IFIH1
-FTH1-related iron overload ORPHA:247790	Orphanet_Augmented_2021	TRAPPC1	TALDO1	LGALS3	STX4	RAB11B	CIB1	TFE3
-Fabry disease ORPHA:324	Orphanet_Augmented_2021	PMAIP1	TALDO1	VAMP7	EIF4A3	LAMTOR2
-Familial Chilblain lupus ORPHA:481662	Orphanet_Augmented_2021	TRADD	CASP1	RIPK3	MLKL	CD300C	RAC2	NLRC5
-Familial normophosphatemic tumoral calcinosis ORPHA:306658	Orphanet_Augmented_2021	CASP1	MLKL	TANK	RAC2	NLRC5	IFIH1
-Fibrolamellar hepatocellular carcinoma ORPHA:401920	Orphanet_Augmented_2021	AKT1S1	TRAPPC1	PTPN23	STX5	RAB11B	TFE3	CHMP1A
-Frontotemporal dementia with motor neuron disease ORPHA:275872	Orphanet_Augmented_2021	STIP1	PTGES3	HSPA9	HSP90AB1	EIF4H
-Galactosialidosis ORPHA:351	Orphanet_Augmented_2021	TRADD	TRAPPC1	TNFRSF1A	LGALS3	ARAF	STX4
-Generalized glucocorticoid resistance syndrome ORPHA:786	Orphanet_Augmented_2021	CASP1	TANK	LY96	BCL2A1	NLRC5
-Genetic hyperferritinemia without iron overload ORPHA:254704	Orphanet_Augmented_2021	TALDO1	STX4	GNAI2	CD300C	LAMTOR4	LY96
-Genetic recurrent myoglobinuria ORPHA:99845	Orphanet_Augmented_2021	CALM3	STX16	VAMP2	VPS4A	MAVS
-Giant cell arteritis ORPHA:397	Orphanet_Augmented_2021	CASP1	RIPK3	BCL2A1	NLRC5	IFIH1
-Glycogen storage disease due to muscle and heart glycogen synthase deficiency ORPHA:137625	Orphanet_Augmented_2021	AKT1S1	PTPN23	GYS1	WDR24	TELO2
-Glycogen storage disease due to phosphoglycerate kinase 1 deficiency ORPHA:713	Orphanet_Augmented_2021	EIF4A3	VPS25	STIP1	EIF4H	XRCC6
-Griscelli syndrome type 2 ORPHA:79477	Orphanet_Augmented_2021	CASP1	MLKL	RAC2	PTPN7	BCL2A1	NLRC5
-Growth retardation-mild developmental delay-chronic hepatitis syndrome ORPHA:391366	Orphanet_Augmented_2021	GNAI2	PIK3CG	MLKL	PIK3CD	RAC2	LY96	BCL2A1	NLRC5
-H syndrome ORPHA:168569	Orphanet_Augmented_2021	TRAPPC1	TALDO1	ARAF	LAMTOR2	NCSTN
-Haim-Munk syndrome ORPHA:2342	Orphanet_Augmented_2021	CASP1	PIK3CG	MLKL	IKBKE	RAC2	IQGAP1
-Heme oxygenase-1 deficiency ORPHA:562509	Orphanet_Augmented_2021	TNFRSF1A	LGALS3	STX4	CD300C	LY96	TFE3
-Hemolytic anemia due to pyrimidine 5' nucleotidase deficiency ORPHA:35120	Orphanet_Augmented_2021	VAMP7	CHMP5	SNAP23	TANK	SHOC2
-Hepatic veno-occlusive disease-immunodeficiency syndrome ORPHA:79124	Orphanet_Augmented_2021	CASP1	MLKL	RAC2	BCL2A1	NLRC5	IFIH1
-Hereditary hyperferritinemia-cataract syndrome ORPHA:163	Orphanet_Augmented_2021	TALDO1	STX4	GNAI2	CD300C	LAMTOR4	LY96
-Hereditary pediatric Behcet-like disease ORPHA:476102	Orphanet_Augmented_2021	CASP1	RIPK3	RAC2	BCL2A1	NLRC5	IFIH1
-Herpes simplex virus encephalitis ORPHA:1930	Orphanet_Augmented_2021	TRADD	CASP1	TNFRSF10A	MLKL	RIPK1	IKBKE	CASP7	TRAF3	NLRC5	IFIH1
-Histiocytoid cardiomyopathy ORPHA:137675	Orphanet_Augmented_2021	BRD4	CALM3	STX16	VAMP2	RAB11B
-Huntington disease ORPHA:399	Orphanet_Augmented_2021	CREBBP	NLRP1	ELMO1	KSR1	TRRAP
-Hydranencephaly ORPHA:2177	Orphanet_Augmented_2021	MLKL	IKBKE	PIK3CD	RAC2	IQGAP1	CASP2
-Hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome ORPHA:528091	Orphanet_Augmented_2021	STIP1	HSPA9	HSP90AB1	INCENP	TTI1
-Hyper-IgM syndrome type 3 ORPHA:101090	Orphanet_Augmented_2021	CASP1	RIPK3	RAC2	LY96	BCL2A1
-Hyperbiliverdinemia ORPHA:276405	Orphanet_Augmented_2021	TRAPPC1	PSMD4	LAMTOR2	LAMTOR5	PARK7
-Hypocalcemic vitamin D-resistant rickets ORPHA:93160	Orphanet_Augmented_2021	TRADD	LGALS3	MLKL	IKBKE	CASP7	IFIH1
-Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813	Orphanet_Augmented_2021	TRADD	ARAF	STX4	CIB1	BCL2A1	NLRC5
-Immune dysregulation-inflammatory bowel disease-arthritis-recurrent infections-lymphopenia syndrome ORPHA:529977	Orphanet_Augmented_2021	TRADD	CASP1	RIPK3	MLKL	RIPK1	IKBKE	NLRC5	IFIH1
-Immunodeficiency by defective expression of MHC class I ORPHA:34592	Orphanet_Augmented_2021	TRADD	CASP1	RIPK3	MLKL	IKBKE	RAC2	NLRC5	IFIH1
-Incontinentia pigmenti ORPHA:464	Orphanet_Augmented_2021	TRADD	ARAF	STX4	CCND3	CHMP1A
-Infantile inflammatory bowel disease with neurological involvement ORPHA:565788	Orphanet_Augmented_2021	TRADD	STX4	GNAI2	CCND3	RAC2
-Infantile nephropathic cystinosis ORPHA:411629	Orphanet_Augmented_2021	TRAPPC1	TALDO1	ARAF	STX4	VPS18
-Infantile osteopetrosis with neuroaxonal dysplasia ORPHA:85179	Orphanet_Augmented_2021	STX7	VPS37A	SNAP23	TANK	LY96	SHOC2
-Infantile systemic hyalinosis ORPHA:2176	Orphanet_Augmented_2021	TLR4	SNAP23	CASP1	TANK	RAC2	LY96
-Infantile-onset pulmonary alveolar proteinosis-hypogammaglobulinemia ORPHA:572428	Orphanet_Augmented_2021	CASP1	RIPK3	MLKL	BCL2A1	NLRC5	IFIH1
-Intellectual disability-craniofacial dysmorphism-cryptorchidism syndrome ORPHA:329224	Orphanet_Augmented_2021	PTPN23	GNAI2	VAMP2	RAB11B	TFE3	CHD3
-Intellectual disability-epilepsy-extrapyramidal syndrome ORPHA:468620	Orphanet_Augmented_2021	CALM3	HRAS	PIN1	WDR24	VPS4A	TELO2
-Isolated ATP synthase deficiency ORPHA:254913	Orphanet_Augmented_2021	TRAPPC1	CALM3	VAMP2	VPS4A	RAB11B
-Juvenile hyaline fibromatosis ORPHA:2028	Orphanet_Augmented_2021	TLR4	SNAP23	CASP1	TANK	RAC2	LY96
-Juvenile nephropathic cystinosis ORPHA:411634	Orphanet_Augmented_2021	TRAPPC1	TALDO1	ARAF	STX4	VPS18
-Juvenile-onset diabetes mellitus-central and peripheral neurodegeneration syndrome ORPHA:445062	Orphanet_Augmented_2021	TANK	CASP7	UFM1	SHOC2	IQGAP1	IFIH1
-L-ferritin deficiency ORPHA:440731	Orphanet_Augmented_2021	TALDO1	STX4	GNAI2	CD300C	LAMTOR4	LY96
-Laurence-Moon syndrome ORPHA:2377	Orphanet_Augmented_2021	PTPN23	VPS18	FKBP8	WDR24	TFE3
-Leber hereditary optic neuropathy ORPHA:104	Orphanet_Augmented_2021	CALM3	PTPN23	STX16	VAMP2	RAB11B
-Leber plus disease ORPHA:99718	Orphanet_Augmented_2021	BRD4	CALM3	PTPN23	STX16	VAMP2	RAB11B
-Leukocyte adhesion deficiency type III ORPHA:99844	Orphanet_Augmented_2021	PIK3R6	PIK3CG	RAC2	PTPN7	PIK3R5
-Linear nevus sebaceus syndrome ORPHA:2612	Orphanet_Augmented_2021	NUDCD1	PTGES3	HRAS	XRCC6	HDAC2	YWHAZ
-Loeys-Dietz syndrome ORPHA:60030	Orphanet_Augmented_2021	TNFRSF1A	TLR4	PRR5L	CASP1	RIPK1	LY96	IQGAP1
-MEDNIK syndrome ORPHA:171851	Orphanet_Augmented_2021	AP2M1	HRAS	TELO2	CDC37	CHMP1A
-MELAS ORPHA:550	Orphanet_Augmented_2021	BRD4	CALM3	PTPN23	STX16	VAMP2	RAB11B
-MERRF ORPHA:551	Orphanet_Augmented_2021	BRD4	PTPN23	STX16	VAMP2	RAB11B
-MIRAGE syndrome ORPHA:494433	Orphanet_Augmented_2021	CASP1	MLKL	TANK	RAC2	NLRC5	IFIH1
-MT-ATP6-related mitochondrial spastic paraplegia ORPHA:320360	Orphanet_Augmented_2021	BRD4	CALM3	PTPN23	STX16	VAMP2	RAB11B
-Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome ORPHA:457485	Orphanet_Augmented_2021	AMER1	CHD4	INCENP	TRRAP	ABL1
-Marfan syndrome type 2 ORPHA:284973	Orphanet_Augmented_2021	TNFRSF1A	TLR4	CASP1	MLKL	RIPK1	CAST	LY96	NLRC5
-Marinesco-Sjogren syndrome ORPHA:559	Orphanet_Augmented_2021	TRADD	STX4	STX5	CIB1	VPS28
-Martinique crinkled retinal pigment epitheliopathy ORPHA:466718	Orphanet_Augmented_2021	TALDO1	RHOA	ARAF	IKBKE	RAC2
-Mendelian susceptibility to mycobacterial diseases due to complete IFNgammaR1 deficiency ORPHA:99898	Orphanet_Augmented_2021	CASP1	RIPK3	TANK	CD300C	LY96	BCL2A1
-Mendelian susceptibility to mycobacterial diseases due to partial STAT1 deficiency ORPHA:319595	Orphanet_Augmented_2021	CASP1	TANK	LY96	BCL2A1	NLRC5	IFIH1
-Metachromatic leukodystrophy, adult form ORPHA:309271	Orphanet_Augmented_2021	STX4	GNAI2	VPS28	TFE3	OS9
-Metachromatic leukodystrophy, juvenile form ORPHA:309263	Orphanet_Augmented_2021	STX4	GNAI2	VPS28	TFE3	OS9
-Metachromatic leukodystrophy, late infantile form ORPHA:309256	Orphanet_Augmented_2021	STX4	GNAI2	VPS28	TFE3	OS9
-Metaphyseal dysplasia-maxillary hypoplasia-brachydacty syndrome ORPHA:2504	Orphanet_Augmented_2021	CASP1	MLKL	IKBKE	RAC2	NLRC5
-Methylmalonic acidemia with homocystinuria type cblF ORPHA:79284	Orphanet_Augmented_2021	STX7	TANK	LAMTOR3	STX12	SHOC2
-Mitochondrial DNA-associated Leigh syndrome ORPHA:255210	Orphanet_Augmented_2021	BRD4	CALM3	PTPN23	STX16	VAMP2	RAB11B
-Mitochondrial non-syndromic sensorineural deafness ORPHA:90641	Orphanet_Augmented_2021	CALM3	PTGES3	RBBP4	HSP90AB1	VPS4A
-Multiple benign circumferential skin creases on limbs ORPHA:2505	Orphanet_Augmented_2021	CALM3	RBBP4	HSP90AB1	MIEF1	UBE2N	HDAC2	YWHAE
-NARP syndrome ORPHA:644	Orphanet_Augmented_2021	BRD4	CALM3	PTPN23	STX16	VAMP2	RAB11B
-NDE1-related microhydranencephaly ORPHA:443162	Orphanet_Augmented_2021	MLKL	IKBKE	PIK3CD	RAC2	IQGAP1	CASP2
-NON RARE IN EUROPE: Ankylosing spondylitis ORPHA:825	Orphanet_Augmented_2021	CASP1	RIPK3	RAC2	PIK3R5	NLRC5	IFIH1
-NON RARE IN EUROPE: Hidradenitis suppurativa ORPHA:387	Orphanet_Augmented_2021	TALDO1	TNFRSF1A	STX5	CIB1	NCSTN	OS9
-Nasopharyngeal carcinoma ORPHA:150	Orphanet_Augmented_2021	CASP1	RIPK3	BCL2A1	NLRC5	IFIH1
-Navajo neurohepatopathy ORPHA:255229	Orphanet_Augmented_2021	TRAPPC1	UFC1	LAMTOR2	STX8	VPS28	LAMTOR5
-Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-skeletal anomalies syndrome due to 9q21.3 microdeletion ORPHA:352665	Orphanet_Augmented_2021	PTGES3	RBBP4	HSP90AB1	EIF4H	XRCC6
-Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-skeletal anomalies syndrome due to a point mutation ORPHA:453504	Orphanet_Augmented_2021	PTGES3	RBBP4	HSP90AB1	EIF4H	XRCC6
-Neuroferritinopathy ORPHA:157846	Orphanet_Augmented_2021	TALDO1	STX4	GNAI2	CD300C	LAMTOR4	LY96
-Neutral lipid storage disease with ichthyosis ORPHA:98907	Orphanet_Augmented_2021	TALDO1	VAMP7	SNAP23	UBAP1	TANK	VAMP3
-Neutrophil immunodeficiency syndrome ORPHA:183707	Orphanet_Augmented_2021	CASP1	RIPK3	PIK3CG	PIK3CD	RAC2	PTPN7	BCL2A1
-Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031	Orphanet_Augmented_2021	AP2M1	PEA15	CALM3	GYS1	FKBP8	PYGB	TFE3	CDC37
-Noonan syndrome-like disorder with juvenile myelomonocytic leukemia ORPHA:363972	Orphanet_Augmented_2021	CREBBP	PIK3CD	TRRAP	SIN3A	CASP2
-Ocular cystinosis ORPHA:411641	Orphanet_Augmented_2021	TRAPPC1	TALDO1	ARAF	STX4	VPS18
-Oculofaciocardiodental syndrome ORPHA:2712	Orphanet_Augmented_2021	AMER1	CREBBP	CHD4	CASP2	MSH6	INCENP	TRRAP	SIN3A
-Osteocraniostenosis ORPHA:2763	Orphanet_Augmented_2021	CASP1	TNFRSF10A	MLKL	IKBKE	RAC2	NLRC5	IQGAP1	IFIH1
-Osteopathia striata-cranial sclerosis syndrome ORPHA:2780	Orphanet_Augmented_2021	AMER1	EIF4B	CHD4	MSH6	INCENP	TRRAP
-Overgrowth-macrocephaly-facial dysmorphism syndrome ORPHA:137634	Orphanet_Augmented_2021	TRADD	CASP1	RIPK3	MLKL	PYCARD	CD300C	NLRC5
-Palmoplantar keratoderma-esophageal carcinoma syndrome ORPHA:2198	Orphanet_Augmented_2021	TRADD	STX4	MLKL	IKBKE	NLRC5
-Papillon-Lefevre ORPHA:678	Orphanet_Augmented_2021	CASP1	PIK3CG	MLKL	IKBKE	RAC2	IQGAP1
-Pediatric systemic lupus erythematosus ORPHA:93552	Orphanet_Augmented_2021	STX4	CASP1	CD300C	LY96	BCL2A1
-Peeling skin-leukonychia-acral punctate keratoses-cheilitis-knuckle pads syndrome ORPHA:444138	Orphanet_Augmented_2021	LGALS3	PDCD6IP	VAMP3	CAST	IQGAP1	IFIH1
-Polyglucosan body myopathy type 1 ORPHA:397937	Orphanet_Augmented_2021	TRADD	ARAF	STX4	CIB1	VPS28	MVB12A	CHMP1A
-Precursor B-cell acute lymphoblastic leukemia ORPHA:99860	Orphanet_Augmented_2021	CREBBP	PIK3CG	PIK3R5	NLRC5	ABL1
-Precursor T-cell acute lymphoblastic leukemia ORPHA:99861	Orphanet_Augmented_2021	CHD4	INCENP	TRRAP	SIN3A	ABL1
-Primary intraosseous venous malformation ORPHA:140436	Orphanet_Augmented_2021	NLRP1	GNAI2	VAMP2	TFE3	UBC
-Progressive non-fluent aphasia ORPHA:100070	Orphanet_Augmented_2021	PDCD6IP	CHMP5	STX12	VAMP3	OS9
-Proteasome-associated autoinflammatory syndrome ORPHA:324977	Orphanet_Augmented_2021	CASP1	RIPK3	MLKL	PYCARD	IKBKE	RAC2	LY96	BCL2A1	NLRC5	IFIH1
-Proximal myopathy with extrapyramidal signs ORPHA:401768	Orphanet_Augmented_2021	AP2M1	TALDO1	CHMP5	UBAP1	VAMP3
-Pseudohypoparathyroidism type 1B ORPHA:94089	Orphanet_Augmented_2021	BRD4	PTPN23	STX16	VAMP2	RAB11B
-Pulmonary arterial hypertension associated with connective tissue disease ORPHA:275798	Orphanet_Augmented_2021	CASP1	RIPK3	RAC2	PIK3R5	NLRC5	IFIH1
-RELA fusion-positive ependymoma ORPHA:530792	Orphanet_Augmented_2021	TRADD	ARAF	STX4	STX5	CIB1
-Ramon syndrome ORPHA:3019	Orphanet_Augmented_2021	NLRP1	GNAI2	VAMP2	TFE3	UBC
-Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691	Orphanet_Augmented_2021	TRADD	CASP1	IKBKE	CCND3	CIB1	RAC2	VPS28	NLRC5
-Revesz syndrome ORPHA:3088	Orphanet_Augmented_2021	TRADD	CASP1	RIPK3	LY96	BCL2A1
-SIN3A-related intellectual disability syndrome due to a point mutation ORPHA:500166	Orphanet_Augmented_2021	CREBBP	EIF4B	MSH6	TRRAP	SIN3A	CASP2
-SPECC1L-related hypertelorism syndrome ORPHA:1519	Orphanet_Augmented_2021	CHD4	TP53BP1	ERC1	TRRAP	ABL1
-STING-associated vasculopathy with onset in infancy ORPHA:425120	Orphanet_Augmented_2021	TRADD	CASP1	RIPK3	MLKL	IKBKE	RAC2	NLRC5
-Sanfilippo syndrome type D ORPHA:79272	Orphanet_Augmented_2021	TNFRSF1A	VAMP3	NCSTN	OS9	IQGAP1
-Severe dermatitis-multiple allergies-metabolic wasting syndrome ORPHA:369992	Orphanet_Augmented_2021	SFN	MYO5B	CALML5	CALML3	ERBB3
-Short stature due to isolated growth hormone deficiency with X-linked hypogammaglobulinemia ORPHA:632	Orphanet_Augmented_2021	PIK3R6	PIK3CG	CD300C	RAC2	PTPN7
-Singleton-Merten dysplasia ORPHA:85191	Orphanet_Augmented_2021	CASP1	RIPK3	MLKL	TANK	NLRC5	IFIH1
-Spinocerebellar ataxia type 10 ORPHA:98761	Orphanet_Augmented_2021	PTGES3	HSP90AB1	UBE2N	XRCC6	HDAC2	ST13	YWHAE
-Spinocerebellar ataxia type 26 ORPHA:101112	Orphanet_Augmented_2021	EIF4B	CHD4	EIF4H	INCENP	ABL1
-Spondylometaphyseal dysplasia-cone-rod dystrophy syndrome ORPHA:85167	Orphanet_Augmented_2021	TNFRSF1A	PDCD6IP	STX4	PPP1R3D	RIPK1	VAMP3	CAST	IQGAP1
-Stormorken-Sjaastad-Langslet syndrome ORPHA:3204	Orphanet_Augmented_2021	TRADD	ARAF	IKBKE	CCND3	RAC2	NLRC5
-Susceptibility to viral and mycobacterial infections due to STAT1 deficiency ORPHA:391311	Orphanet_Augmented_2021	CASP1	TANK	LY96	BCL2A1	NLRC5	IFIH1
-Systemic-onset juvenile idiopathic arthritis ORPHA:85414	Orphanet_Augmented_2021	LGALS3	STX4	CASP1	CIB1	LY96	BCL2A1
-Takayasu arteritis ORPHA:3287	Orphanet_Augmented_2021	TRADD	CASP1	MLKL	RAC2	BCL2A1	NLRC5
-Tessier number 4 facial cleft ORPHA:141258	Orphanet_Augmented_2021	CHD4	TP53BP1	ERC1	TRRAP	ABL1
-Trichomegaly-retina pigmentary degeneration-dwarfism syndrome ORPHA:3363	Orphanet_Augmented_2021	PTPN23	VPS18	FKBP8	WDR24	TFE3
-Variant ABeta2M amyloidosis ORPHA:314652	Orphanet_Augmented_2021	CASP1	LY96	BCL2A1	NLRC5	IFIH1
-Vogt-Koyanagi-Harada disease ORPHA:3437	Orphanet_Augmented_2021	CASP1	MLKL	TANK	RAC2	LY96	BCL2A1	NLRC5
-Waldenstrom macroglobulinemia ORPHA:33226	Orphanet_Augmented_2021	TRADD	CASP1	RIPK3	PYCARD	IKBKE	RAC2	BCL2A1
-X-linked centronuclear myopathy ORPHA:596	Orphanet_Augmented_2021	VAMP7	SNAP23	TANK	SHOC2	IFIH1
-X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612	Orphanet_Augmented_2021	TRADD	ARAF	STX4	CCND3	CHMP1A
-X-linked myotubular myopathy-abnormal genitalia syndrome ORPHA:456328	Orphanet_Augmented_2021	VPS37A	VAMP7	UBAP1	TANK	STX12	VAMP3
-Yunis-Varon syndrome ORPHA:3472	Orphanet_Augmented_2021	VIPAS39	GNAI2	VPS18	NCSTN	TFE3	OS9
+SIGNALING PATHWAYS REGULATING PLURIPOTENCY OF STEM CELLS		IGF1R	PIK3R3	GRB2	MAP2K1	PIK3CB	HRAS	AXIN1	AXIN2	SMAD3
+PD-L1 EXPRESSION AND PD-1 CHECKPOINT PATHWAY IN CANCER		TLR4	PIK3R3	MAP2K1	JUN	PIK3CB	HRAS	EGF
+AGE-RAGE SIGNALING PATHWAY IN DIABETIC COMPLICATIONS		PIK3R3	PLCG2	JUN	PIK3CB	HRAS	TGFB3	SMAD3
+PARATHYROID HORMONE SYNTHESIS, SECRETION AND ACTION		RHOA	MAP2K1	GNAI2	ARAF	ITPR3	GNAI1
+CHEMICAL CARCINOGENESIS - REACTIVE OXYGEN SPECIES		SLC25A4	PIK3R3	GRB2	ABL1	MAP2K1	JUN	PIK3CB	ARAF	SRC	HRAS	EGF
+PATHWAYS OF NEURODEGENERATION - MULTIPLE DISEASES		CALML6	AXIN1	RPS27A	CALML4	TNFRSF1A	CALML5	UBA52	SNCAIP	UBB	PARK7	AXIN2	FASLG	CALML3	CALM3	TANK	HRAS	CASP7	ATXN3	PSMD4	SLC25A4	UBC	BID	MAP2K1	GRIN2B	ARAF	ITPR3
+INFLAMMATORY MEDIATOR REGULATION OF TRP CHANNELS		CALML3	PIK3R3	CALML4	CALML6	CALML5	PLCG2	PIK3CB	SRC	CALM3	ITPR3
+KAPOSI SARCOMA-ASSOCIATED HERPESVIRUS INFECTION		PIK3R5	UBC	RPS27A	CALML3	TRADD	PIK3R3	BID	CALML4	TNFRSF1A	CALML6	CALML5	PIK3CG	PLCG2	UBA52	MAP2K1	IKBKE	JUN	IRF3	PIK3CB	TRAF3	SRC	CALM3	TANK	HRAS	PIK3R6	UBB	ITPR3	CREBBP
+LONGEVITY REGULATING PATHWAY - MULTIPLE SPECIES		PIK3R3	HRAS	IGF1R	PRKAG1	PIK3CB	HDAC2	PRKAG3	PRKAG2	AKT1S1
+GROWTH HORMONE SYNTHESIS, SECRETION AND ACTION		PIK3R3	GRB2	PLCG2	MAP2K1	GNAI2	PIK3CB	HRAS	ITPR3	GNAI1	CREBBP
+CHEMICAL CARCINOGENESIS - RECEPTOR ACTIVATION		CCND3	PIK3R3	GRB2	XIAP	MAP2K1	GNAI2	IKBKE	JUN	PTGES3	PIK3CB	HSP90AB1	SRC	EIF4EBP1	HRAS	EGF	GNAI1
+PROTEIN PROCESSING IN ENDOPLASMIC RETICULUM		RBX1	BAG2	SKP1	STUB1	UBE2D2	DNAJC10	HSP90AB1	TANK	OS9	ATXN3
+NATURAL KILLER CELL MEDIATED CYTOTOXICITY		TNFRSF10B	PIK3R3	BID	GRB2	PLCG2	MAP2K1	TNFRSF10A	PIK3CB	RAC2	ARAF	FASLG	HRAS
+SNARE INTERACTIONS IN VESICULAR TRANSPORT		VAMP7	STX8	STX5	VAMP3	STX6	VAMP2	SNAP23	STX16	STX4	STX7
+C-TYPE LECTIN RECEPTOR SIGNALING PATHWAY		CALML3	RHOA	PIK3R3	CALML4	CALML6	CALML5	PLCG2	IKBKE	JUN	PIK3CB	SRC	CALM3	HRAS	CASP1	PYCARD	KSR1	ITPR3
+HUMAN IMMUNODEFICIENCY VIRUS 1 INFECTION		RBX1	TLR4	RIPK1	CALML3	SKP1	TRADD	PIK3R3	CALML4	BID	TNFRSF1A	CALML6	CALML5	PLCG2	MAP2K1	GNAI2	JUN	CXCR4	IRF3	MAP3K7	PIK3CB	RAC2	FASLG	CALM3	TANK	HRAS	BTRC	ELOC	ITPR3	GNAI1
+HUMAN T-CELL LEUKEMIA VIRUS 1 INFECTION		SLC25A4	CCND3	PIK3R3	TNFRSF1A	CDK2	TRRAP	XIAP	MAP2K1	JUN	PIK3CB	HRAS	TGFB3	CREBBP	SMAD3
+NEUTROPHIL EXTRACELLULAR TRAP FORMATION		SLC25A4	HDAC2	TLR4	PIK3R3	PLCG2	MAP2K1	MAP3K7	PIK3CB	RAC2	SRC	CASP1
+PROGESTERONE-MEDIATED OOCYTE MATURATION		IGF1R	CDC25B	PIK3R3	CDK2	MAP2K1	GNAI2	PIK3CB	HSP90AB1	ARAF	PDE3B	GNAI1
+TRANSCRIPTIONAL MISREGULATION IN CANCER		SIN3A	IGF1R	HDAC2	ARNT2	TFE3	BCL2A1
+ADRENERGIC SIGNALING IN CARDIOMYOCYTES		PIK3R5	CALML3	CALML4	CALML6	CALML5	PIK3CG	GNAI2	CALM3	PIK3R6	GNAI1
+BACTERIAL INVASION OF EPITHELIAL CELLS		CAV1	RHOA	PIK3R3	DOCK1	PIK3CB	ELMO1	SRC
+CYTOKINE-CYTOKINE RECEPTOR INTERACTION		TNFRSF10B	TNFRSF1A	CXCR4	TNFRSF10A	FASLG	TNFRSF25	TGFB3
+FLUID SHEAR STRESS AND ATHEROSCLEROSIS		CAV1	CDH5	CALML3	RHOA	PIK3R3	CALML4	TNFRSF1A	CALML6	CALML5	JUN	MAP3K7	PIK3CB	RAC2	HSP90AB1	SRC	CALM3
+PATHOGENIC ESCHERICHIA COLI INFECTION		TLR4	RIPK1	RHOA	TRADD	TNFRSF10B	TNFRSF1A	ABL1	MYO5B	JUN	MAP3K7	TNFRSF10A	SRC	TANK	CASP1	PYCARD	CASP7	FASLG
+PHOSPHATIDYLINOSITOL SIGNALING SYSTEM		CALML3	PIK3R3	CALML4	CALML6	CALML5	PLCG2	PIK3CB	CALM3	PIK3C2G	ITPR3
+RIG-I-LIKE RECEPTOR SIGNALING PATHWAY		IKBKE	IRF3	MAP3K7	MAVS	RIPK1	TRAF3	IFIH1	TANK	TRADD	TBKBP1
+REGULATION OF LIPOLYSIS IN ADIPOCYTES		PIK3R3	PIK3CB	GNAI1	PDE3B	GNAI2
+LEUKOCYTE TRANSENDOTHELIAL MIGRATION		CDH5	RHOA	PIK3R3	PLCG2	GNAI2	CXCR4	PIK3CB	RAC2	GNAI1
+TOLL-LIKE RECEPTOR SIGNALING PATHWAY		TLR4	RIPK1	PIK3R3	MAP2K1	LY96	IKBKE	JUN	IRF3	MAP3K7	PIK3CB	TRAF3
+ALDOSTERONE SYNTHESIS AND SECRETION		CALML3	CALML4	CALML6	CALML5	CALM3	ITPR3
+NOD-LIKE RECEPTOR SIGNALING PATHWAY		YWHAE	TLR4	RIPK1	RHOA	RIPK3	NOD1	XIAP	NLRP6	IKBKE	JUN	IRF3	MAP3K7	HSP90AB1	TRAF3	TANK	NLRP1	TP53BP1	CASP1	PYCARD	MAVS	ITPR3
+ATP-DEPENDENT CHROMATIN REMODELING		HDAC2	CHD3	TRRAP	CHD4	RBBP4
+VASCULAR SMOOTH MUSCLE CONTRACTION		CALML3	RHOA	CALML4	CALML6	CALML5	MAP2K1	ARAF	CALM3	ITPR3
+B CELL RECEPTOR SIGNALING PATHWAY		PIK3R3	GRB2	PLCG2	MAP2K1	JUN	PIK3CB	RAC2	HRAS
+NON-ALCOHOLIC FATTY LIVER DISEASE		PIK3R3	BID	TNFRSF1A	JUN	PRKAG1	PIK3CB	FASLG	TANK	CASP7	PRKAG3	PRKAG2
+PHOSPHOLIPASE D SIGNALING PATHWAY		PIK3R5	RHOA	PIK3R3	GRB2	PIK3CG	PLCG2	MAP2K1	PIK3CB	HRAS	PIK3R6	EGF
+T CELL RECEPTOR SIGNALING PATHWAY		RHOA	PIK3R3	GRB2	MAP2K1	JUN	MAP3K7	PIK3CB	HRAS
+THYROID HORMONE SIGNALING PATHWAY		SIN3A	HDAC2	PIK3R3	PLCG2	MAP2K1	PIK3CB	SRC	HRAS	CREBBP
+FC GAMMA R-MEDIATED PHAGOCYTOSIS		PIK3R3	PLCG2	MAP2K1	DOCK1	PIK3CB	RAC2
+HERPES SIMPLEX VIRUS 1 INFECTION		TRADD	IFIH1	PIK3R3	BID	TNFRSF1A	IKBKE	IRF3	MAP3K7	PIK3CB	FASLG	TRAF3	SRC	TANK	EIF4EBP1	MAVS
+REGULATION OF ACTIN CYTOSKELETON		RHOA	PIK3R3	MAP2K1	DOCK1	CXCR4	PIK3CB	RAC2	ARAF	SRC	HRAS	IQGAP1	EGF
+ADIPOCYTOKINE SIGNALING PATHWAY		TNFRSF1A	PRKAG1	PRKAG3	PRKAG2	TRADD	TANK
+FC EPSILON RI SIGNALING PATHWAY		PIK3R3	HRAS	PIK3CB	RAC2	GRB2	PLCG2	MAP2K1
+HUMAN CYTOMEGALOVIRUS INFECTION		RIPK1	CALML3	RHOA	TRADD	PIK3R3	BID	CALML4	TNFRSF1A	CALML6	GRB2	CALML5	MAP2K1	GNAI2	CXCR4	IRF3	PIK3CB	RAC2	FASLG	SRC	CALM3	TANK	EIF4EBP1	HRAS	ITPR3	GNAI1
+CORONAVIRUS DISEASE - COVID-19		TLR4	RPS27A	IFIH1	PIK3R3	TNFRSF1A	PLCG2	UBA52	IKBKE	JUN	IRF3	MAP3K7	PIK3CB	TRAF3	CASP1	MAVS
+HUMAN PAPILLOMAVIRUS INFECTION		CCND3	TRADD	CDK2	IRF3	AXIN1	TNFRSF1A	IKBKE	PIK3CB	TRAF3	EIF4EBP1	AXIN2	FASLG	CHD4	HRAS	HDAC2	PIK3R3	GRB2	MAP2K1	EGF	CREBBP
+NEUROTROPHIN SIGNALING PATHWAY		YWHAE	CALML3	RHOA	PIK3R3	CALML4	CALML6	GRB2	CALML5	PLCG2	ABL1	MAP2K1	JUN	PIK3CB	CALM3	HRAS	FASLG
+SPHINGOLIPID SIGNALING PATHWAY		RHOA	TRADD	PIK3R3	BID	TNFRSF1A	MAP2K1	GNAI2	PIK3CB	RAC2	TANK	HRAS	GNAI1
+UBIQUITIN MEDIATED PROTEOLYSIS		RBX1	UBC	RPS27A	SKP1	STUB1	CUL3	UBE2D2	XIAP	UBA52	UBE2N	BTRC	ELOC	UBB
+AMYOTROPHIC LATERAL SCLEROSIS		TNFRSF1A	TANK	CASP1	PSMD4	BID	GRIN2B	ITPR3
+CYTOSOLIC DNA-SENSING PATHWAY		RIPK1	RIPK3	MLKL	IKBKE	IRF3	CASP1	PYCARD	CASP7	MAVS
+STARCH AND SUCROSE METABOLISM		PYGB	GYS2	GYS1	GYG1	GYG2
+APOPTOSIS - MULTIPLE SPECIES		BID	TNFRSF1A	CASP7	XIAP	PMAIP1
+CHOLINE METABOLISM IN CANCER		PIK3R3	GRB2	MAP2K1	JUN	PIK3CB	RAC2	EIF4EBP1	HRAS	EGF
+EPSTEIN-BARR VIRUS INFECTION		SIN3A	CCND3	HDAC2	RIPK1	TRADD	PIK3R3	BID	CDK2	PLCG2	IKBKE	JUN	MAP3K7	IRF3	PIK3CB	TRAF3	TANK	MAVS	PSMD4
+LONGEVITY REGULATING PATHWAY		IGF1R	AKT1S1	PIK3R3	SESN3	PRKAG1	PIK3CB	EIF4EBP1	HRAS	PRKAG3	PRKAG2
+NF-KAPPA B SIGNALING PATHWAY		TLR4	RIPK1	TRADD	TNFRSF1A	PPP1R13L	XIAP	PLCG2	CFLAR	LY96	MAP3K7	TRAF3	ERC1	TANK	BCL2A1
+CHEMOKINE SIGNALING PATHWAY		PIK3R5	RHOA	PIK3R3	GRB2	PIK3CG	PLCG2	MAP2K1	GNAI2	CXCR4	PIK3CB	RAC2	ELMO1	SRC	HRAS	PIK3R6	GNAI1
+POLYCOMB REPRESSIVE COMPLEX		HDAC2	SKP1	UBE2D2	RBBP4	RNF2	CREBBP
+PROLACTIN SIGNALING PATHWAY		PIK3R3	HRAS	PIK3CB	GRB2	SRC	MAP2K1
+ESTROGEN SIGNALING PATHWAY		CALML3	PIK3R3	CALML4	CALML6	GRB2	CALML5	MAP2K1	GNAI2	JUN	PIK3CB	HSP90AB1	SRC	CALM3	HRAS	ITPR3	GNAI1
+GLUCAGON SIGNALING PATHWAY		GYS2	CALML3	CALML4	CALML6	CALML5	PYGB	PRKAG1	PHKG2	GYS1	CALM3	PDE3B	PRKAG3	ITPR3	CREBBP	PRKAG2
+JAK-STAT SIGNALING PATHWAY		CCND3	PIK3R3	GRB2	PIK3CB	HRAS	EGF	CREBBP
+NON-SMALL CELL LUNG CANCER		PIK3R3	HRAS	PIK3CB	GRB2	ARAF	PLCG2	EGF	MAP2K1
+OSTEOCLAST DIFFERENTIATION		PIK3R3	TNFRSF1A	GRB2	PLCG2	MAP2K1	JUN	MAP3K7	PIK3CB	TANK	ITPR3
+OXYTOCIN SIGNALING PATHWAY		PIK3R5	CALML3	RHOA	CALML4	CALML6	CALML5	PIK3CG	MAP2K1	GNAI2	JUN	PRKAG1	SRC	CALM3	HRAS	PIK3R6	PRKAG3	ITPR3	GNAI1	PRKAG2
+PI3K-AKT SIGNALING PATHWAY		PIK3R5	YWHAE	CCND3	YWHAZ	CDK2	ERBB3	GYS1	YWHAB	PIK3R6	CDC37	IGF1R	PIK3CB	HSP90AB1	EIF4EBP1	FASLG	TLR4	PIK3CG	HRAS	EIF4B	GYS2	PIK3R3	GRB2	MAP2K1	EGF
+TGF-BETA SIGNALING PATHWAY		SIN3A	HDAC2	RBX1	RHOA	SKP1	TGFB3	CREBBP	SMAD3
+VIRION - HEPATITIS VIRUSES		CHMP1A	VPS4A	CHMP1B	CHMP7	PDCD6IP
+CGMP-PKG SIGNALING PATHWAY		PIK3R5	SLC25A4	CALML3	RHOA	CALML4	CALML6	CALML5	PIK3CG	MAP2K1	GNAI2	CALM3	PDE3B	PIK3R6	ITPR3	GNAI1
+CALCIUM SIGNALING PATHWAY		SLC25A4	CALML3	CALML4	CCKBR	CALML6	CALML5	ERBB3	PLCG2	CXCR4	PHKG2	GRIN2B	CALM3	STIM2	EGF	ITPR3
+INSULIN SIGNALING PATHWAY		GYS2	CALML3	PIK3R3	CALML4	CALML6	GRB2	CALML5	MAP2K1	PYGB	PRKAG1	PHKG2	PIK3CB	GYS1	ARAF	PPP1R3D	PPP1R3C	CALM3	EIF4EBP1	PDE3B	HRAS	PRKAG3	PRKAR2A	PRKAG2
+LIPID AND ATHEROSCLEROSIS		HSPA4	TLR4	CALML3	RHOA	TNFRSF10B	PIK3R3	BID	CALML4	TNFRSF1A	CALML6	CALML5	LY96	CASP6	IKBKE	JUN	IRF3	MAP3K7	TNFRSF10A	PIK3CB	HSP90AB1	FASLG	TRAF3	SRC	CALM3	TANK	APOA4	HRAS	CASP1	PYCARD	CASP7
+RELAXIN SIGNALING PATHWAY		PIK3R3	GRB2	MAP2K1	GNAI2	JUN	PIK3CB	SRC	HRAS	GNAI1
+APELIN SIGNALING PATHWAY		PIK3R5	CALML3	CALML4	CALML6	CALML5	PIK3CG	MAP2K1	GNAI2	PRKAG1	CALM3	PDE3B	HRAS	PIK3R6	PRKAG3	ITPR3	GNAI1	PRKAG2	SMAD3
+CHRONIC MYELOID LEUKEMIA		PIK3R3	HRAS	PIK3CB	HDAC2	GRB2	ARAF	ABL1	TGFB3	MAP2K1	SMAD3
+HEPATOCELLULAR CARCINOMA		IGF1R	PIK3R3	GRB2	PLCG2	MAP2K1	PIK3CB	ARAF	HRAS	AXIN1	TGFB3	AXIN2	SMAD3
+ALCOHOLIC LIVER DISEASE		TLR4	RIPK1	TRADD	TNFRSF1A	LY96	IKBKE	IRF3	MAP3K7	PRKAG1	FASLG	TRAF3	PRKAG3	PRKAG2
+DIABETIC CARDIOMYOPATHY		SLC25A4	GYS2	PIK3R3	PIK3CB	RAC2	GYS1	TGFB3	SMAD3
+HIF-1 SIGNALING PATHWAY		IGF1R	RBX1	TLR4	PIK3R3	PLCG2	MAP2K1	PIK3CB	EIF4EBP1	ELOC	EGF	CREBBP
+HIPPO SIGNALING PATHWAY		YWHAE	CCND3	YWHAZ	YWHAB	AXIN1	BTRC	TGFB3	AXIN2	SMAD3
+IL-17 SIGNALING PATHWAY		TRADD	IKBKE	JUN	MAP3K7	HSP90AB1	TRAF3	TANK
+PROTEOGLYCANS IN CANCER		CAV1	EIF4B	IGF1R	TLR4	RHOA	PIK3R3	GRB2	ERBB3	PLCG2	MAP2K1	PIK3CB	ARAF	SRC	HRAS	IQGAP1	ITPR3	FASLG
+AMPK SIGNALING PATHWAY		IGF1R	GYS2	AKT1S1	PIK3R3	MAP3K7	PRKAG1	PIK3CB	GYS1	EIF4EBP1	PRKAG3	PRKAG2
+ACUTE MYELOID LEUKEMIA		PIK3R3	HRAS	PIK3CB	GRB2	ARAF	BCL2A1	MAP2K1	EIF4EBP1
+ERBB SIGNALING PATHWAY		PIK3R3	GRB2	ERBB3	PLCG2	ABL1	MAP2K1	JUN	PIK3CB	ARAF	SRC	EIF4EBP1	HRAS	EGF
+FOXO SIGNALING PATHWAY		IGF1R	PIK3R3	CDK2	GRB2	MAP2K1	PRKAG1	PIK3CB	ARAF	HRAS	PRKAG3	EGF	TGFB3	CREBBP	PRKAG2	SMAD3	FASLG
+GASTRIC ACID SECRETION		CALML4	CCKBR	CALML6	CALML5	CALML3	ITPR3	GNAI1	CALM3	GNAI2
+GNRH SIGNALING PATHWAY		CALML3	CALML4	CALML6	GRB2	CALML5	MAP2K1	JUN	SRC	CALM3	HRAS	ITPR3
+LONG-TERM POTENTIATION		CALML4	HRAS	CALML6	GRIN2B	ARAF	CALML5	CALML3	ITPR3	MAP2K1	CREBBP	CALM3
+MAPK SIGNALING PATHWAY		IGF1R	TRADD	CDC25B	TNFRSF1A	GRB2	ERBB3	MAP2K1	JUN	MAP3K7	RAC2	ARAF	FASLG	TANK	HRAS	EGF	PTPN7	TGFB3	LAMTOR3
+OLFACTORY TRANSDUCTION		CALML6	CALML4	CALML5	CALML3	CALM3
+RAP1 SIGNALING PATHWAY		IGF1R	CALML3	RHOA	PIK3R3	CALML4	CALML6	CALML5	MAP2K1	GNAI2	PIK3CB	RAC2	GRIN2B	SRC	CALM3	HRAS	EGF	GNAI1
+SMALL CELL LUNG CANCER		PIK3R3	CDK2	XIAP	PIK3CB	TRAF3	TANK
+SPINOCEREBELLAR ATAXIA		SLC25A4	PIK3R3	PIK3CB	GRIN2B	TANK	ITPR3	ATXN3	PSMD4
+VEGF SIGNALING PATHWAY		PIK3R3	HRAS	PIK3CB	RAC2	PLCG2	SRC	MAP2K1
+CAMP SIGNALING PATHWAY		CALML3	RHOA	PIK3R3	CALML4	CALML6	CALML5	MAP2K1	GNAI2	JUN	PIK3CB	RAC2	GRIN2B	CALM3	PDE3B	GNAI1	CREBBP
+MTOR SIGNALING PATHWAY		EIF4B	IGF1R	RICTOR	RHOA	AKT1S1	LAMTOR5	RRAGD	PIK3R3	TNFRSF1A	TELO2	GRB2	PRR5L	RRAGB	WDR59	MAP2K1	PRR5	PIK3CB	EIF4EBP1	FNIP2	HRAS	MIOS	LAMTOR4	SLC38A9	TTI1	LAMTOR2	LAMTOR3	WDR24
+AMPHETAMINE ADDICTION		JUN	CALML4	HDAC2	CALML6	GRIN2B	CALML5	CALML3	CALM3
+CIRCADIAN ENTRAINMENT		CALML3	CALML4	CALML6	CALML5	GNAI2	GRIN2B	CALM3	ITPR3	GNAI1
+RAS SIGNALING PATHWAY		IGF1R	CALML3	RHOA	PIK3R3	CALML4	CALML6	GRB2	CALML5	PLCG2	ABL1	MAP2K1	SHOC2	PIK3CB	RAC2	GRIN2B	CALM3	HRAS	EGF	KSR1	FASLG
+TNF SIGNALING PATHWAY		RIPK1	TRADD	RIPK3	PIK3R3	TNFRSF1A	MLKL	XIAP	CFLAR	MAP2K1	JUN	MAP3K7	PIK3CB	TRAF3	TANK	CASP7
+WNT SIGNALING PATHWAY		CCND3	RBX1	RHOA	SKP1	JUN	MAP3K7	RAC2	AXIN1	BTRC	CREBBP	AXIN2	SMAD3
+P53 SIGNALING PATHWAY		BID	CCND3	TNFRSF10A	CDK2	PPP1R13L	SESN3	PMAIP1	TNFRSF10B
+DOPAMINERGIC SYNAPSE		CALML3	CALML4	CALML6	CALML5	GNAI2	GRIN2B	CALM3	ITPR3	GNAI1
+LONG-TERM DEPRESSION		IGF1R	HRAS	ARAF	ITPR3	MAP2K1	GNAI1	GNAI2
+RENAL CELL CARCINOMA		JUN	PIK3R3	HRAS	PIK3CB	RBX1	ELOC	GRB2	ARAF	TFE3	ARNT2	TGFB3	MAP2K1	CREBBP
+SALMONELLA INFECTION		VPS18	TLR4	RIPK1	RHOA	SKP1	TRADD	RIPK3	TNFRSF10B	TNFRSF1A	NOD1	MLKL	PIK3CG	MAP2K1	LY96	JUN	MAP3K7	TNFRSF10A	PIK3CB	HSP90AB1	ELMO1	RAB7B	TANK	HRAS	CASP1	PYCARD	CASP7	VPS41	PIK3C2G
+SEROTONERGIC SYNAPSE		MAP2K1	GNAI2	ARAF	HRAS	ITPR3	GNAI1
+VIRAL CARCINOGENESIS		YWHAE	CCND3	HDAC2	YWHAZ	RHOA	TRADD	PIK3R3	CDK2	GRB2	CHD4	JUN	IRF3	PIK3CB	TRAF3	SRC	TANK	PMAIP1	YWHAB	HRAS	CREBBP
+CELLULAR SENESCENCE		SLC25A4	CCND3	CALML3	PIK3R3	CALML4	CALML6	CDK2	CALML5	MAP2K1	PIK3CB	CALM3	EIF4EBP1	RBBP4	HRAS	BTRC	ITPR3	TGFB3	SMAD3
+CHOLINERGIC SYNAPSE		PIK3R5	PIK3R3	PIK3CG	MAP2K1	GNAI2	PIK3CB	HRAS	PIK3R6	ITPR3	GNAI1
+MICRORNAS IN CANCER		HDAC2	RHOA	CDC25B	PIK3R3	BCL2L2	GRB2	ERBB3	PLCG2	ABL1	MAP2K1	PIK3CB	HRAS	CREBBP
+PLATELET ACTIVATION		PIK3R5	RHOA	PIK3R3	PIK3CG	PLCG2	SNAP23	GNAI2	PIK3CB	SRC	PIK3R6	ITPR3	GNAI1
+AUTOPHAGY - ANIMAL		IGF1R	VPS18	UBC	RPS27A	AKT1S1	RRAGD	WDR45B	PIK3R3	RRAGB	UBA52	CFLAR	MAP2K1	MAP3K7	PIK3CB	RAB7B	STX7	TANK	HRAS	UBB	VPS41
+ENDOMETRIAL CANCER		PIK3R3	HRAS	AXIN1	PIK3CB	GRB2	ARAF	EGF	MAP2K1	AXIN2
+HUNTINGTON DISEASE		SIN3A	SLC25A4	HDAC2	GRIN2B	TANK	CREBBP	PSMD4	AP2M1
+IGSF CAM SIGNALING		RHOA	PIK3R3	GRB2	PLCG2	ABL1	MAP2K1	CDH2	PIK3CB	ERC1	SRC	UNC5B	IQGAP1
+INSULIN RESISTANCE		GYS2	PIK3R3	TNFRSF1A	PYGB	PRKAG1	PIK3CB	GYS1	PPP1R3D	PPP1R3C	PRKAG3	PRKAG2
+INTEGRIN SIGNALING		IGF1R	CCND3	PIK3R3	PIK3CB	RAC2	SRC	EGF
+MITOPHAGY - ANIMAL		UBC	RPS27A	FKBP8	TFE3	UBA52	JUN	RAB7B	SRC	TANK	HRAS	UBB
+PATHWAYS IN CANCER		CCND3	ARNT2	RHOA	CALML6	CDK2	AXIN1	TGFB3	IGF1R	RBX1	CALML4	CALML5	XIAP	PLCG2	ABL1	GNAI2	JUN	PIK3CB	HSP90AB1	TRAF3	ELOC	AXIN2	SMAD3	FASLG	CALML3	CXCR4	CALM3	TANK	PMAIP1	HRAS	CASP7	HDAC2	SKP1	PIK3R3	BID	GRB2	MAP2K1	RAC2	ARAF	MSH6	EGF	GNAI1	CREBBP
+SALIVARY SECRETION		CALML3	CALML4	CALML6	CALML5	CALM3	VAMP2	ITPR3
+YERSINIA INFECTION		TLR4	RHOA	PIK3R3	MAP2K1	DOCK1	JUN	IRF3	MAP3K7	PIK3CB	RAC2	ELMO1	SRC	TANK	CASP1	PYCARD
+ADHERENS JUNCTION		IGF1R	CDH5	RHOA	MAP3K7	RAC2	SRC	IQGAP1	CREBBP	SMAD3
+ALZHEIMER DISEASE		CALML6	AXIN1	CALML4	TNFRSF1A	CALML5	PIK3CB	NCSTN	AXIN2	CALML3	CALM3	TANK	HRAS	CASP7	PSMD4	SLC25A4	PIK3R3	BID	APOE	MAP2K1	GRIN2B	ARAF	ITPR3
+COLORECTAL CANCER		RHOA	PIK3R3	GRB2	MAP2K1	JUN	PIK3CB	RAC2	ARAF	PMAIP1	HRAS	AXIN1	MSH6	EGF	TGFB3	AXIN2	SMAD3
+HORMONE SIGNALING		IGF1R	RHOA	PIK3R3	CCKBR	GNAI2	PIK3CB	SRC	GNAI1
+PANCREATIC CANCER		PIK3R3	MAP2K1	PIK3CB	RAC2	ARAF	EGF	TGFB3	SMAD3
+PARKINSON DISEASE		SLC25A4	UBC	RPS27A	CALML3	CALML4	CALML6	CALML5	UBA52	SNCAIP	GNAI2	CALM3	UBB	PARK7	ITPR3	GNAI1	PSMD4
+PHOTOTRANSDUCTION		CALML4	CALML6	CALML5	CALML3	CALM3
+VIRAL MYOCARDITIS		CAV1	BID	RAC2	EIF4G3	ABL1
+CIRCADIAN RHYTHM		PRKAG1	BTRC	RBX1	PRKAG3	SKP1	PRKAG2
+CUSHING SYNDROME		CDK2	MAP2K1	GNAI2	AXIN1	ITPR3	GNAI1	AXIN2
+PROSTATE CANCER		IGF1R	PIK3R3	CDK2	GRB2	MAP2K1	PIK3CB	HSP90AB1	ARAF	HRAS	EGF	CREBBP
+RENIN SECRETION		CALML4	CALML6	CALML5	ITPR3	CALML3	GNAI1	CALM3	PDE3B	GNAI2
+BLADDER CANCER		HRAS	ARAF	EGF	SRC	MAP2K1
+CHAGAS DISEASE		TLR4	PIK3R3	TNFRSF1A	CFLAR	GNAI2	JUN	PIK3CB	TGFB3	GNAI1	FASLG
+FOCAL ADHESION		CAV1	IGF1R	CCND3	RHOA	PIK3R3	GRB2	XIAP	MAP2K1	DOCK1	JUN	PIK3CB	RAC2	SRC	HRAS	EGF
+GASTRIC CANCER		PIK3R3	CDK2	GRB2	MAP2K1	PIK3CB	ARAF	HRAS	AXIN1	EGF	TGFB3	AXIN2	SMAD3
+GNRH SECRETION		PIK3R3	HRAS	PIK3CB	ITPR3	MAP2K1
+OOCYTE MEIOSIS		IGF1R	YWHAE	RBX1	YWHAZ	CALML3	SKP1	CALML4	CALML6	CDK2	CALML5	MAP2K1	CALM3	YWHAB	BTRC	ITPR3
+TIGHT JUNCTION		HSPA4	RHOA	JUN	PRKAG1	SRC	PRKAG3	PRKAG2
+AXON GUIDANCE		RHOA	PIK3R3	PLCG2	ABL1	GNAI2	CXCR4	PIK3CB	RAC2	SRC	UNC5B	HRAS	GNAI1
+BREAST CANCER		IGF1R	PIK3R3	GRB2	MAP2K1	JUN	PIK3CB	ARAF	HRAS	AXIN1	EGF	AXIN2
+EFFEROCYTOSIS		VPS18	MAP2K1	DOCK1	TGFBRAP1	ELMO1	RAB7B	CASP1	CASP7	VPS8	VPS41
+MELANOGENESIS		CALML3	CALML4	CALML6	CALML5	MAP2K1	GNAI2	CALM3	HRAS	GNAI1	CREBBP
+PRION DISEASE		CAV1	SLC25A4	PIK3R3	PIK3CB	RAC2	GRIN2B	ITPR3	STIP1	PSMD4
+THERMOGENESIS		AKT1S1	GRB2	PRKAG1	HRAS	PRKAG3	PRKAG2
+TOXOPLASMOSIS		PIK3R5	TLR4	TNFRSF1A	PIK3CG	XIAP	LY96	GNAI2	MAP3K7	PIK3R6	TGFB3	GNAI1
+GAP JUNCTION		GRB2	MAP2K1	GNAI2	SRC	HRAS	EGF	ITPR3	GNAI1
+TUBERCULOSIS		CEBPG	TLR4	CALML3	RHOA	TRADD	BID	CALML4	TNFRSF1A	CALML6	CALML5	SRC	CALM3	HSPA9	KSR1	TGFB3	CREBBP
+ENDOCYTOSIS		CAV1	IGF1R	VPS28	VPS4A	VPS37C	CHMP1B	RHOA	MVB12A	CHMP5	CXCR4	CHMP1A	VPS37A	RNF103-CHMP3	CHMP7	SRC	PDCD6IP	VPS37B	HRAS	VPS25	VPS45	SMAD3	AP2M1
+HEPATITIS B		TLR4	YWHAZ	IFIH1	PIK3R3	BID	CDK2	GRB2	MAP2K1	IKBKE	JUN	IRF3	MAP3K7	PIK3CB	ARAF	FASLG	TRAF3	SRC	YWHAB	HRAS	MAVS	TGFB3	CREBBP	SMAD3
+HEPATITIS C		YWHAE	RIPK1	YWHAZ	TRADD	PIK3R3	BID	TNFRSF1A	CDK2	GRB2	CFLAR	MAP2K1	IKBKE	IRF3	PIK3CB	ARAF	FASLG	TRAF3	TANK	YWHAB	HRAS	MAVS	EGF
+INFLUENZA A		SLC25A4	CCND3	TLR4	TRADD	IFIH1	TNFRSF10B	PIK3R3	BID	TNFRSF1A	MAP2K1	IKBKE	IRF3	TNFRSF10A	PIK3CB	FASLG	TRAF3	CASP1	PYCARD	MAVS	CREBBP
+NECROPTOSIS		SLC25A4	VPS4A	TLR4	RIPK1	CHMP1B	TRADD	RIPK3	TNFRSF10B	BID	TNFRSF1A	MLKL	XIAP	CFLAR	CHMP5	PYGB	TNFRSF10A	CHMP1A	HSP90AB1	FASLG	RNF103-CHMP3	CHMP7	TANK	CASP1	PYCARD
+SHIGELLOSIS		RBX1	UBC	TLR4	RIPK1	RPS27A	RHOA	SKP1	AKT1S1	TRADD	RRAGD	PIK3R3	TNFRSF1A	NOD1	UBE2D2	RRAGB	PLCG2	UBA52	DOCK1	JUN	IRF3	MAP3K7	PIK3CB	UBE2N	ELMO1	SRC	TANK	CASP1	BTRC	PYCARD	UBB	ITPR3
+ALCOHOLISM		HDAC2	CALML3	CALML4	CALML6	GRB2	CALML5	MAP2K1	GNAI2	GRIN2B	ARAF	CALM3	HRAS	GNAI1
+AMOEBIASIS		TLR4	PIK3R3	PIK3CB	RAB7B	TGFB3
+CELL CYCLE		YWHAE	CCND3	CDC14A	HDAC2	RBX1	YWHAZ	SKP1	CDC25B	CDK2	ABL1	YWHAB	TGFB3	CREBBP	SMAD3
+APOPTOSIS		RIPK1	TRADD	TNFRSF10B	PIK3R3	BID	TNFRSF1A	XIAP	CFLAR	MAP2K1	CASP6	JUN	TNFRSF10A	PIK3CB	HRK	TANK	PMAIP1	HRAS	CASP7	CASP2	BCL2A1	ITPR3	FASLG
+PERTUSSIS		TLR4	CALML3	RHOA	CALML4	CALML6	NOD1	CALML5	LY96	GNAI2	JUN	IRF3	CALM3	CASP1	PYCARD	CASP7	GNAI1
+PHAGOSOME		TLR4	VAMP3	RAB7B	STX7	STX12
+MELANOMA		PIK3R3	HRAS	IGF1R	PIK3CB	ARAF	EGF	MAP2K1
+MEASLES		CCND3	TLR4	TRADD	IFIH1	PIK3R3	BID	CDK2	IKBKE	JUN	IRF3	MAP3K7	PIK3CB	FASLG	TRAF3	MAVS
+GLIOMA		PIK3R3	CALML4	IGF1R	PIK3CB	CALML6	GRB2	ARAF	CALML5	PLCG2	EGF	CALML3	MAP2K1	CALM3	HRAS
