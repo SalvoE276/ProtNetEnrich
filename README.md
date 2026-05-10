@@ -1,4 +1,5 @@
 # 🧬 ProtNetEnrich
+<center><img src="docs/ProtNetEnrich_logo.png" alt="My Image" width="50%"/></center>
  
 > **Transforming protein lists into biological insights through automated network topology and enrichment analysis.**
  
@@ -6,7 +7,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-22c55e?style=flat-square)](LICENSE)
 [![STRING DB](https://img.shields.io/badge/Database-STRING-f97316?style=flat-square)](https://string-db.org/)
 [![ToppGene](https://img.shields.io/badge/Enrichment-ToppGene-8b5cf6?style=flat-square)](https://toppgene.cchmc.org/)
-[![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)]()
  
 ---
  
