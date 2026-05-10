@@ -1,14 +1,12 @@
 <div align="center">
     <img src="docs/ProtNetEnrich_logo.png" width="50%"/>
-</div>
- 
+
 > **Transforming protein lists into biological insights through automated network topology and enrichment analysis.**
  
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-22c55e?style=flat-square)](LICENSE)
-[![STRING DB](https://img.shields.io/badge/Database-STRING-f97316?style=flat-square)](https://string-db.org/)
-[![ToppGene](https://img.shields.io/badge/Enrichment-ToppGene-8b5cf6?style=flat-square)](https://toppgene.cchmc.org/)
- 
+[![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![STRING DB](https://img.shields.io/badge/Database-STRING.org-f97316?style=flat-square)](https://string-db.org/)
+[![ToppGene](https://img.shields.io/badge/Enrichment-ToppGene.org-8b5cf6?style=flat-square)](https://toppgene.cchmc.org/)
+ </div>
 ---
  
 ## What is ProtNetEnrich?
