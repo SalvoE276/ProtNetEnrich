@@ -1,5 +1,6 @@
-# 🧬 ProtNetEnrich
-<center><img src="docs/ProtNetEnrich_logo.png" alt="My Image" width="50%"/></center>
+<div align="center">
+    <img src="docs/ProtNetEnrich_logo.png" width="50%"/>
+</div>
  
 > **Transforming protein lists into biological insights through automated network topology and enrichment analysis.**
  
