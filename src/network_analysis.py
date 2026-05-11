@@ -226,6 +226,10 @@ if __name__=='__main__':
         metrics_cands = hubs_per_topology_metrics
         used_topology_metrics.extend(list(hubs_per_topology_metrics.keys()))
 
+    # Handling not specified metric
+    if used_topology_metrics == []:
+        raise ValueError("Not specified the topology metrics to be used")
+
     # Get all candidate hubs
     cand_hubs = sorted(set([e for k,v in metrics_cands.items() for e in v]))
 
