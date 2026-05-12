@@ -51,7 +51,7 @@ Whether investigating complex biological phenomena or specific disease states, P
 
 Install all dependencies:
 
-```bash
+```shell
 pip install -r requirements.txt
 ```
 
@@ -61,7 +61,7 @@ Run the full pipeline using `run_pipeline.sh `, setting the working directory an
 
 Alternatively, run pipeline end-to-end with the following steps:
 
-```bash
+```shell
 # 1. Retrieve PPI data from STRING-DB
 python3 ppi_data_retrieval.py query_proteins.txt output
 
@@ -111,7 +111,7 @@ This script provides a programmatic interface to the [STRING-DB API](https://str
 
 **Syntax**
 
-```bash
+```shell
 python3 ppi_data_retrieval.py <query_proteins.txt> <output_directory> [flags]
 ```
 
@@ -143,7 +143,7 @@ Processes the PPI data and constructs a biological network graph using [NetworkX
 
 **Syntax**
 
-```bash
+```shell
 python3 network_generator.py <ppi_data.json> <output_folder> <query_proteins.txt>
 ```
 
@@ -200,7 +200,7 @@ The script automatically generates diagnostic plots to validate network properti
 
 **Syntax**
 
-```bash
+```shell
 python3 network_analysis.py <raw_network.gml> <output_directory> [options]
 ```
 
@@ -241,7 +241,7 @@ Runs an automated gene enrichment analysis pipeline. Ensembl identifiers are con
 
 **Syntax**
 
-```bash
+```shell
 python3 enrichment_analysis.py <hubs.cand.json> <output_directory>
 ```
 
@@ -277,7 +277,7 @@ Performs pre-ranked Gene Set Enrichment Analysis using the [gseapy](https://gsea
 
 **Syntax**
 
-```bash
+```shell
 python3 GSEA.py <borda_ranking.json> <output_directory> <gene_set> [options]
 ```
 
