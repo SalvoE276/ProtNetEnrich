@@ -1,12 +1,11 @@
 #!/bin/bash
 
 working_dir=tests/ATGHub
-
 queryfile=$working_dir/query_proteins.txt
-raw_interaction_data=$working_dir/ppi_data.json
+
 
 echo Starting PPI-Network Analyzer pipeline...
-# Step 1. Retrieval of Protein-to-protein interaction data from STRING-DB.org
+# Step 1. Retrieval of Protein-protein interaction data from STRING-DB.org
 echo Colleting data from STRING-DB.org...
 python3 src/ppi_data_retrieval.py $queryfile $working_dir -il 15
 # Step 2. Build PPI network using Networkx

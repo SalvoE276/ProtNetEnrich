@@ -1,7 +1,7 @@
 <div align="center">
     <img src="imgs/ProtNetEnrich_logo.png" width="50%"/>
 
-**Transforming protein lists into biological insights through automated network topology and enrichment analysis.**
+**From protein lists into biological interpretation through automated network topology and enrichment analysis.**
 
 [![Python](https://img.shields.io/badge/Python-3.13-f97316?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![STRING DB](https://img.shields.io/badge/Database-STRING.org-3776AB?style=flat-square)](https://string-db.org/)
@@ -22,7 +22,7 @@ Whether investigating complex biological phenomena or specific disease states, P
 
 | Feature | Description |
 |---|---|
-| 🔗 **PPI Network Generation** | Fetches phisical protein-to-protein interaction data directly from STRING DB |
+| 🔗 **PPI Network Generation** | Fetches phisical protein-protein interaction data directly from STRING-DB |
 | 🎯 **Hub Detection** | Identifies network hubs using topological metrics |
 | 📊 **Enrichment Analysis** | Hubs enrichment analysis using the toppgene.org API |
 | 🔎 **GSEA** | Gene Set Enrichment Analysis with ranked candidate hubs based on topological metrics |
@@ -47,7 +47,7 @@ Whether investigating complex biological phenomena or specific disease states, P
 
 ### Requirements
 
-Make sure you have Python 3 installed, then install all dependencies:
+Install all dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -55,23 +55,25 @@ pip install -r requirements.txt
 
 ### Quick Start
 
-Run the full pipeline end-to-end with the following steps:
+Run the full pipeline using `run_pipeline.sh `, setting the working directory and the parameter for each step.
+
+Alternatively, run pipeline end-to-end with the following steps:
 
 ```bash
 # 1. Retrieve PPI data from STRING-DB
-python3 ppi_data_retrieval.py query_proteins.txt output/
+python3 ppi_data_retrieval.py query_proteins.txt output
 
 # 2. Build the network graph
-python3 network_generator.py output/ppi_data.json output/ query_proteins.txt
+python3 network_generator.py output/ppi_data.json output query_proteins.txt
 
 # 3. Analyze network and identify hub proteins
-python3 network_analysis.py output/raw_network.gml output/ --all_metrics
+python3 network_analysis.py output/raw_network.gml output --all_metrics
 
 # 4. Run enrichment analysis on candidate hubs
-python3 enrichment_analysis.py output/hubs.cand.json output/
+python3 enrichment_analysis.py output/hubs.cand.json output
 
-# 5. Run GSEA using the Borda ranking
-python3 GSEA.py output/borda_ranking.json output/ GO_26
+# 5. Run GSEA using the Borda ranked hubs
+python3 GSEA.py output/borda_ranking.json output GO_26
 ```
 
 > **Note:** `query_proteins.txt` should contain one HGNC gene symbol per line.
@@ -103,7 +105,7 @@ network_analysis.py    ──►  hubs.cand.json / borda_ranking.json / interact
 
 ### 1. PPI Data Retrieval (`ppi_data_retrieval.py`)
 
-Queries the [STRING-DB API](https://string-db.org) to retrieve physical Protein-Protein Interaction data for a list of proteins. Results are saved as a structured JSON file.
+This script provides a programmatic interface to the [STRING-DB API](https://string-db.org) to retrieve physical Protein-Protein Interaction (PPI) data. It is designed to automate the process of querying interaction partners for a specific list of proteins (using HGNC symbols) and saving the resulting interaction network in a structured JSON format.
 
 **Syntax**
 
@@ -161,7 +163,7 @@ python3 network_generator.py <ppi_data.json> <output_folder> <query_proteins.txt
 
 ### 3. Network Analysis (`network_analysis.py`)
 
-Analyzes the network topology and identifies candidate hub proteins using statistical outlier detection across multiple topological metrics. Results are aggregated with the **Borda Count** ranking method. An interactive network visualization is also generated using [Pyvis](https://pyvis.readthedocs.io).
+Analyzes the network topology and identifies candidate hub proteins  within the PPI network. The prioritization is based on statistical outlier detection with variable thresholding across multiple topological metrics (clustering coefficient, degree centrality, closeness centrality and betweenness centrality). Results are aggregated with the **Borda Count ranking** method to produce a robust, consensus-based ranking of candidate proteins. An interactive network visualization is also generated using [Pyvis](https://pyvis.readthedocs.io).
 
 #### Statistical Prioritization of Hubs
 
@@ -170,7 +172,7 @@ For each selected topological metric, the script:
 1. Calculates the metric value for all nodes in the network.
 2. Identifies nodes exceeding a threshold defined as `mean + (n_stds × standard deviation)`, where `n_stds` is user-defined.
 
-This approach assumes that true hub proteins follow a statistically distinct distribution compared to non-hubs (based on Chebyshev's inequality).
+This approach assumes that true hub proteins follow a statistically different distribution compared to non-hubs (based on Chebyshev's inequality).
 
 **Available metrics:**
 - Clustering Coefficient (`-ccoef`)
@@ -269,7 +271,7 @@ Performs pre-ranked Gene Set Enrichment Analysis using the [gseapy](https://gsea
 |---|---|
 | `GO_26` | All gene sets in Gene Ontology 2026. |
 | `KEGG_26` | Gene sets from KEGG 2026. |
-| `Disease` | Expanded OMIM and Augmented Orphanet 2021 gene sets. ⚠️ Smaller set sizes may impact statistical significance. |
+| `Disease` | Expanded OMIM and Augmented Orphanet 2021 gene sets. |
 
 **Syntax**
 
@@ -283,13 +285,14 @@ python3 GSEA.py <borda_ranking.json> <output_directory> <gene_set> [options]
 |---|---|
 | `borda_ranking.json` | Path to the Borda ranking JSON file. |
 | `output_directory` | The folder where the results will be saved. |
-| `gene_set` | Gene set to use (e.g., `GO_26`, `KEGG_26`, `Disease`). |
+| `gene_set` | Predefined gene set to use (e.g., `GO_26`, `KEGG_26`, `Disease`) or custom gene set (using `--custom_set`). |
 
 **Options**
 
 | Flag | Description |
 |---|---|
 | `--save_plots` | Save GSEA running sum plots to the output directory. |
+| `--custom_set` | Use specific supported gseapy gene set |
 
 **Output**
 
@@ -297,6 +300,16 @@ Results are saved in a `GSEA/` folder:
 
 | File / Folder | Description |
 |---|---|
-| `GSEA_report.csv` | Filtered by statistical significance (FDR q-value), sorted by NES. |
+| `GSEA_report.csv` | Filtered by statistical significance (`FDR q-value`), sorted by `NES`. |
 | `plots/` | GSEA running sum plots (only if `--save_plots` is used). |
 | Raw gseapy output files | Full gseapy output for further inspection. |
+
+## References
+ 
+- **STRING-DB** — https://string-db.org
+- **NetworkX** — https://networkx.org
+- **Pyvis** — https://pyvis.readthedocs.io
+- **Cytoscape** — https://cytoscape.org
+- **gProfiler** — https://biit.cs.ut.ee/gprofiler
+- **ToppGene Suite** — https://toppgene.cchmc.org
+- **GSEApy** — https://gseapy.readthedocs.io
