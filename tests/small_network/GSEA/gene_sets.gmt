@@ -1,11 +1,3 @@
-Autophagosome Assembly (GO:0000045)	GO_Biological_Process_2026	ATG101	GABARAPL1	ATG5	GABARAPL2	ULK2
-Autophagosome Organization (GO:1905037)	GO_Biological_Process_2026	ATG101	GABARAPL1	ATG5	GABARAPL2	ULK2
-Cellular Response to Starvation (GO:0009267)	GO_Biological_Process_2026	GABARAPL2	RPTOR	GABARAPL1	MTOR	ATG5
-Macroautophagy (GO:0016236)	GO_Biological_Process_2026	GABARAPL2	ULK2	GABARAPL1	WDFY3	ATG5
-Mitophagy (GO:0000423)	GO_Biological_Process_2026	GABARAPL1	ATG5	GABARAPL2	OPTN	ULK2
-Organelle Assembly (GO:0070925)	GO_Biological_Process_2026	ATG101	ATG5	ULK2	GABARAPL2	GABARAPL1
-Regulation of Autophagy (GO:0010506)	GO_Biological_Process_2026	KEAP1	OPTN	ULK2	RPTOR	MTOR
-Autophagosome (GO:0005776)	GO_Cellular_Component_2026	GABARAPL2	ULK2	GABARAPL1	WDFY3	ATG5
-Bounding Membrane of Organelle (GO:0098588)	GO_Cellular_Component_2026	RPS27A	UBA52	UBC	GABARAPL2	OPTN
-Intracellular Membrane-Bounded Organelle (GO:0043231)	GO_Cellular_Component_2026	UBC	MTOR	RPS27A	UBA52	OPTN
-Nucleus (GO:0005634)	GO_Cellular_Component_2026	UBC	MTOR	RPS27A	UBA52	OPTN
+Canonical NF-kappaB Signal Transduction (GO:0007249)	GO_Biological_Process_2026	MYD88	CHUK	IKBKB	IRAK1	IKBKG
+Cytokine-mediated Signaling Pathway (GO:0019221)	GO_Biological_Process_2026	IRAK1	CHUK	MYD88	IKBKB	TNF
+Intracellular Signaling Cassette (GO:0141124)	GO_Biological_Process_2026	IRAK1	CHUK	MYD88	IKBKB	IKBKG

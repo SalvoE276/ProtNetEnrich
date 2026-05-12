@@ -1,1604 +1,1600 @@
 graph [
   node [
     id 0
-    label "ABCB9"
-    ENS_id "ENSP00000440288"
+    label "AHSG"
+    ENS_id "ENSP00000273784"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 1
-    label "ACER1"
-    ENS_id "ENSP00000301452"
+    label "AIM2"
+    ENS_id "ENSP00000357112"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 2
-    label "ACER2"
-    ENS_id "ENSP00000342609"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 3
-    label "ACER3"
-    ENS_id "ENSP00000434480"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 4
     label "AMBRA1"
     ENS_id "ENSP00000431926"
     query_protein 0
     color "#b4cffb"
   ]
   node [
+    id 3
+    label "BCL10"
+    ENS_id "ENSP00000498104"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 4
+    label "BCL3"
+    ENS_id "ENSP00000164227"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
     id 5
-    label "ANK2"
-    ENS_id "ENSP00000349588"
+    label "BGN"
+    ENS_id "ENSP00000327336"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 6
-    label "ANK3"
-    ENS_id "ENSP00000280772"
+    label "BTRC"
+    ENS_id "ENSP00000359206"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 7
-    label "ARL13B"
-    ENS_id "ENSP00000377769"
+    label "CARD16"
+    ENS_id "ENSP00000364858"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 8
-    label "ARNTL"
-    ENS_id "ENSP00000384517"
+    label "CARD17"
+    ENS_id "ENSP00000364859"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 9
-    label "ASAH1"
-    ENS_id "ENSP00000371152"
-    query_protein 1
-    color "green"
+    label "CARD18"
+    ENS_id "ENSP00000436691"
+    query_protein 0
+    color "#b4cffb"
   ]
   node [
     id 10
-    label "ASAH2"
-    ENS_id "ENSP00000378897"
+    label "CARD8"
+    ENS_id "ENSP00000499211"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 11
-    label "ATG10"
-    ENS_id "ENSP00000282185"
-    query_protein 0
-    color "#b4cffb"
+    label "CASP1"
+    ENS_id "ENSP00000433138"
+    query_protein 1
+    color "green"
   ]
   node [
     id 12
-    label "ATG101"
-    ENS_id "ENSP00000338990"
+    label "CASP4"
+    ENS_id "ENSP00000388566"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 13
-    label "ATG12"
-    ENS_id "ENSP00000425107"
+    label "CASP5"
+    ENS_id "ENSP00000376849"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 14
-    label "ATG13"
-    ENS_id "ENSP00000432412"
+    label "CASP6"
+    ENS_id "ENSP00000265164"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 15
-    label "ATG14"
-    ENS_id "ENSP00000247178"
+    label "CASP8"
+    ENS_id "ENSP00000351273"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 16
-    label "ATG16L1"
-    ENS_id "ENSP00000375873"
+    label "CD14"
+    ENS_id "ENSP00000385519"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 17
-    label "ATG3"
-    ENS_id "ENSP00000283290"
+    label "CD36"
+    ENS_id "ENSP00000415743"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 18
-    label "ATG4B"
-    ENS_id "ENSP00000384259"
+    label "CD40"
+    ENS_id "ENSP00000361359"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 19
-    label "ATG4D"
-    ENS_id "ENSP00000311318"
+    label "CFLAR"
+    ENS_id "ENSP00000312455"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 20
-    label "ATG5"
-    ENS_id "ENSP00000358072"
+    label "CHUK"
+    ENS_id "ENSP00000359424"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 21
-    label "ATG7"
-    ENS_id "ENSP00000346437"
-    query_protein 1
-    color "green"
+    label "CREBBP"
+    ENS_id "ENSP00000262367"
+    query_protein 0
+    color "#b4cffb"
   ]
   node [
     id 22
-    label "BCL2"
-    ENS_id "ENSP00000381185"
+    label "DCN"
+    ENS_id "ENSP00000052754"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 23
-    label "BCL2L1"
-    ENS_id "ENSP00000365230"
+    label "DEFB4A"
+    ENS_id "ENSP00000303532"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 24
-    label "BCL2L13"
-    ENS_id "ENSP00000480836"
+    label "DHX33"
+    ENS_id "ENSP00000225296"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 25
-    label "BECN1"
-    ENS_id "ENSP00000355231"
-    query_protein 1
-    color "green"
+    label "E2F1"
+    ENS_id "ENSP00000345571"
+    query_protein 0
+    color "#b4cffb"
   ]
   node [
     id 26
-    label "BNIP3"
-    ENS_id "ENSP00000357625"
+    label "ECSIT"
+    ENS_id "ENSP00000270517"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 27
-    label "BNIP3L"
-    ENS_id "ENSP00000370003"
+    label "EP300"
+    ENS_id "ENSP00000263253"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 28
-    label "C9orf72"
-    ENS_id "ENSP00000482753"
+    label "ESR1"
+    ENS_id "ENSP00000405330"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 29
-    label "CALCOCO2"
-    ENS_id "ENSP00000398523"
+    label "FADD"
+    ENS_id "ENSP00000301838"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 30
-    label "CAV1"
-    ENS_id "ENSP00000339191"
+    label "FN1"
+    ENS_id "ENSP00000346839"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 31
-    label "CCAR2"
-    ENS_id "ENSP00000310670"
+    label "GSDMD"
+    ENS_id "ENSP00000433209"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 32
-    label "CCPG1"
-    ENS_id "ENSP00000403400"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 33
-    label "CD300C"
-    ENS_id "ENSP00000329507"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 34
-    label "CD63"
-    ENS_id "ENSP00000447730"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 35
-    label "CDC14A"
-    ENS_id "ENSP00000354916"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 36
-    label "CERS2"
-    ENS_id "ENSP00000271688"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 37
-    label "CERS3"
-    ENS_id "ENSP00000284382"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 38
-    label "CERS4"
-    ENS_id "ENSP00000251363"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 39
-    label "CERS5"
-    ENS_id "ENSP00000325485"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 40
-    label "CERS6"
-    ENS_id "ENSP00000376453"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 41
-    label "CGAS"
-    ENS_id "ENSP00000359339"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 42
-    label "CLOCK"
-    ENS_id "ENSP00000426983"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 43
-    label "CYLD"
-    ENS_id "ENSP00000392025"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 44
-    label "FKBP8"
-    ENS_id "ENSP00000471700"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 45
-    label "FOXO1"
-    ENS_id "ENSP00000368880"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 46
-    label "FUNDC1"
-    ENS_id "ENSP00000367284"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 47
-    label "FYCO1"
-    ENS_id "ENSP00000296137"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 48
-    label "GABARAP"
-    ENS_id "ENSP00000306866"
-    query_protein 1
-    color "green"
-  ]
-  node [
-    id 49
-    label "GABARAPL1"
-    ENS_id "ENSP00000411256"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 50
-    label "GABARAPL2"
-    ENS_id "ENSP00000037243"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 51
     label "HDAC1"
     ENS_id "ENSP00000362649"
     query_protein 0
     color "#b4cffb"
   ]
   node [
-    id 52
+    id 33
     label "HMGB1"
     ENS_id "ENSP00000345347"
     query_protein 0
     color "#b4cffb"
   ]
   node [
-    id 53
+    id 34
     label "HSP90AA1"
     ENS_id "ENSP00000335153"
     query_protein 0
     color "#b4cffb"
   ]
   node [
-    id 54
+    id 35
     label "HSP90AB1"
     ENS_id "ENSP00000360609"
     query_protein 0
     color "#b4cffb"
   ]
   node [
-    id 55
+    id 36
+    label "HSP90B1"
+    ENS_id "ENSP00000299767"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 37
     label "HSPA4"
     ENS_id "ENSP00000302961"
     query_protein 0
     color "#b4cffb"
   ]
   node [
+    id 38
+    label "HSPD1"
+    ENS_id "ENSP00000340019"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 39
+    label "IFI16"
+    ENS_id "ENSP00000357113"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 40
+    label "IFNB1"
+    ENS_id "ENSP00000369581"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 41
+    label "IKBKB"
+    ENS_id "ENSP00000430684"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 42
+    label "IKBKG"
+    ENS_id "ENSP00000483825"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 43
+    label "IL1B"
+    ENS_id "ENSP00000263341"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 44
+    label "IL37"
+    ENS_id "ENSP00000263326"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 45
+    label "IRAK1"
+    ENS_id "ENSP00000358997"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 46
+    label "IRAK2"
+    ENS_id "ENSP00000256458"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 47
+    label "IRAK4"
+    ENS_id "ENSP00000479889"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 48
+    label "IRF5"
+    ENS_id "ENSP00000418037"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 49
+    label "IRF7"
+    ENS_id "ENSP00000380697"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 50
+    label "JUN"
+    ENS_id "ENSP00000360266"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 51
+    label "KLF2"
+    ENS_id "ENSP00000248071"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 52
+    label "KPNA4"
+    ENS_id "ENSP00000334373"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 53
+    label "LRRC3"
+    ENS_id "ENSP00000291592"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 54
+    label "LY96"
+    ENS_id "ENSP00000284818"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 55
+    label "MALT1"
+    ENS_id "ENSP00000497997"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
     id 56
-    label "HSPA8"
-    ENS_id "ENSP00000437125"
+    label "MAP3K7"
+    ENS_id "ENSP00000358335"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 57
-    label "KEAP1"
-    ENS_id "ENSP00000377245"
+    label "MAP3K8"
+    ENS_id "ENSP00000263056"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 58
-    label "LAMP1"
-    ENS_id "ENSP00000333298"
+    label "MAVS"
+    ENS_id "ENSP00000401980"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 59
-    label "LAMP2"
-    ENS_id "ENSP00000408411"
-    query_protein 1
-    color "green"
+    label "MEFV"
+    ENS_id "ENSP00000219596"
+    query_protein 0
+    color "#b4cffb"
   ]
   node [
     id 60
-    label "LAMTOR1"
-    ENS_id "ENSP00000278671"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 61
-    label "LAMTOR2"
-    ENS_id "ENSP00000357288"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 62
-    label "LAMTOR3"
-    ENS_id "ENSP00000424183"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 63
-    label "LAMTOR4"
-    ENS_id "ENSP00000343118"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 64
-    label "LAMTOR5"
-    ENS_id "ENSP00000256644"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 65
-    label "LCK"
-    ENS_id "ENSP00000477713"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 66
-    label "LGALS3"
-    ENS_id "ENSP00000254301"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 67
-    label "MAP1LC3A"
-    ENS_id "ENSP00000363970"
-    query_protein 1
-    color "green"
-  ]
-  node [
-    id 68
-    label "MAP1LC3B"
-    ENS_id "ENSP00000498476"
-    query_protein 1
-    color "green"
-  ]
-  node [
-    id 69
-    label "MAP1LC3C"
-    ENS_id "ENSP00000349785"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 70
-    label "MAP1S"
-    ENS_id "ENSP00000325313"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 71
-    label "MAP3K5"
-    ENS_id "ENSP00000351908"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 72
-    label "MCL1"
-    ENS_id "ENSP00000358022"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 73
-    label "MITF"
-    ENS_id "ENSP00000391803"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 74
-    label "MLST8"
-    ENS_id "ENSP00000457870"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 75
-    label "MTOR"
-    ENS_id "ENSP00000354558"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 76
     label "MYD88"
     ENS_id "ENSP00000498321"
     query_protein 0
     color "#b4cffb"
   ]
   node [
-    id 77
-    label "NBR1"
-    ENS_id "ENSP00000343479"
+    id 61
+    label "NAIP"
+    ENS_id "ENSP00000428657"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 62
+    label "NEK7"
+    ENS_id "ENSP00000356355"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 63
+    label "NFKB1"
+    ENS_id "ENSP00000226574"
     query_protein 1
     color "green"
   ]
   node [
+    id 64
+    label "NFKB2"
+    ENS_id "ENSP00000358983"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 65
+    label "NFKBIA"
+    ENS_id "ENSP00000216797"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 66
+    label "NFKBIB"
+    ENS_id "ENSP00000312988"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 67
+    label "NFKBIE"
+    ENS_id "ENSP00000275015"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 68
+    label "NFKBIZ"
+    ENS_id "ENSP00000325663"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 69
+    label "NLRC4"
+    ENS_id "ENSP00000385428"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 70
+    label "NLRP1"
+    ENS_id "ENSP00000460475"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 71
+    label "NLRP12"
+    ENS_id "ENSP00000375653"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 72
+    label "NLRP2"
+    ENS_id "ENSP00000445135"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 73
+    label "NLRP3"
+    ENS_id "ENSP00000337383"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 74
+    label "NLRP6"
+    ENS_id "ENSP00000309767"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 75
+    label "NLRP9"
+    ENS_id "ENSP00000331857"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 76
+    label "NOD1"
+    ENS_id "ENSP00000222823"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 77
+    label "NOTCH1"
+    ENS_id "ENSP00000498587"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
     id 78
-    label "NCOR1"
-    ENS_id "ENSP00000268712"
+    label "NOX4"
+    ENS_id "ENSP00000263317"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 79
-    label "NR5A1"
-    ENS_id "ENSP00000362690"
+    label "PYCARD"
+    ENS_id "ENSP00000247470"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 80
-    label "NRBF2"
-    ENS_id "ENSP00000277746"
+    label "REL"
+    ENS_id "ENSP00000295025"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 81
-    label "OPTN"
-    ENS_id "ENSP00000368022"
+    label "RELA"
+    ENS_id "ENSP00000384273"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 82
-    label "PCNT"
-    ENS_id "ENSP00000352572"
+    label "RELB"
+    ENS_id "ENSP00000221452"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 83
-    label "PEX5"
-    ENS_id "ENSP00000391601"
+    label "RETN"
+    ENS_id "ENSP00000221515"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 84
-    label "PIK3C3"
-    ENS_id "ENSP00000262039"
+    label "RETNLB"
+    ENS_id "ENSP00000295755"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 85
-    label "PIK3R4"
-    ENS_id "ENSP00000349205"
+    label "RIPK1"
+    ENS_id "ENSP00000259808"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 86
-    label "PLIN3"
-    ENS_id "ENSP00000221957"
+    label "RPS3"
+    ENS_id "ENSP00000278572"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 87
-    label "PPARG"
-    ENS_id "ENSP00000287820"
+    label "SCARB1"
+    ENS_id "ENSP00000261693"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 88
-    label "PPARGC1A"
-    ENS_id "ENSP00000264867"
+    label "SCARB2"
+    ENS_id "ENSP00000264896"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 89
-    label "PRKCZ"
-    ENS_id "ENSP00000367830"
+    label "SQSTM1"
+    ENS_id "ENSP00000374455"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 90
-    label "PTK2"
-    ENS_id "ENSP00000341189"
+    label "SRC"
+    ENS_id "ENSP00000362680"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 91
-    label "PTK2B"
-    ENS_id "ENSP00000380638"
+    label "STAT3"
+    ENS_id "ENSP00000264657"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 92
-    label "PXN"
-    ENS_id "ENSP00000267257"
+    label "TAB1"
+    ENS_id "ENSP00000216160"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 93
-    label "RAB1A"
-    ENS_id "ENSP00000387286"
+    label "TAB2"
+    ENS_id "ENSP00000356426"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 94
-    label "RB1CC1"
-    ENS_id "ENSP00000025008"
-    query_protein 1
-    color "green"
+    label "TAB3"
+    ENS_id "ENSP00000368215"
+    query_protein 0
+    color "#b4cffb"
   ]
   node [
     id 95
-    label "RETREG1"
-    ENS_id "ENSP00000304642"
+    label "TICAM1"
+    ENS_id "ENSP00000248244"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 96
-    label "RNASE1"
-    ENS_id "ENSP00000381057"
+    label "TICAM2"
+    ENS_id "ENSP00000415139"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 97
-    label "RPS27A"
-    ENS_id "ENSP00000272317"
+    label "TIFA"
+    ENS_id "ENSP00000354911"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 98
-    label "RPTOR"
-    ENS_id "ENSP00000307272"
+    label "TIRAP"
+    ENS_id "ENSP00000376445"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 99
-    label "RRAGA"
-    ENS_id "ENSP00000369899"
+    label "TLR1"
+    ENS_id "ENSP00000354932"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 100
-    label "RRAGC"
-    ENS_id "ENSP00000362092"
+    label "TLR2"
+    ENS_id "ENSP00000260010"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 101
-    label "RRP8"
-    ENS_id "ENSP00000254605"
-    query_protein 0
-    color "#b4cffb"
+    label "TLR4"
+    ENS_id "ENSP00000363089"
+    query_protein 1
+    color "green"
   ]
   node [
     id 102
-    label "RUBCN"
-    ENS_id "ENSP00000296343"
+    label "TLR5"
+    ENS_id "ENSP00000496355"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 103
-    label "SESN2"
-    ENS_id "ENSP00000253063"
+    label "TLR6"
+    ENS_id "ENSP00000389600"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 104
-    label "SH3GLB1"
-    ENS_id "ENSP00000479919"
+    label "TNF"
+    ENS_id "ENSP00000398698"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 105
-    label "SIRT1"
-    ENS_id "ENSP00000212015"
-    query_protein 1
-    color "green"
+    label "TNIP1"
+    ENS_id "ENSP00000317891"
+    query_protein 0
+    color "#b4cffb"
   ]
   node [
     id 106
-    label "SMCR8"
-    ENS_id "ENSP00000385025"
+    label "TNIP2"
+    ENS_id "ENSP00000321203"
     query_protein 0
     color "#b4cffb"
   ]
   node [
     id 107
-    label "SNCA"
-    ENS_id "ENSP00000500990"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 108
-    label "SPRED2"
-    ENS_id "ENSP00000348753"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 109
-    label "SQSTM1"
-    ENS_id "ENSP00000374455"
-    query_protein 1
-    color "green"
-  ]
-  node [
-    id 110
-    label "SUV39H1"
-    ENS_id "ENSP00000337976"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 111
-    label "TAX1BP1"
-    ENS_id "ENSP00000379612"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 112
-    label "TBC1D14"
-    ENS_id "ENSP00000386921"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 113
-    label "TBC1D25"
-    ENS_id "ENSP00000365962"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 114
-    label "TFE3"
-    ENS_id "ENSP00000314129"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 115
-    label "TFEB"
-    ENS_id "ENSP00000351742"
-    query_protein 1
-    color "green"
-  ]
-  node [
-    id 116
     label "TP53"
     ENS_id "ENSP00000269305"
     query_protein 0
     color "#b4cffb"
   ]
   node [
-    id 117
+    id 108
+    label "TRAF2"
+    ENS_id "ENSP00000247668"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 109
+    label "TRAF3"
+    ENS_id "ENSP00000376500"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 110
+    label "TRAF5"
+    ENS_id "ENSP00000261464"
+    query_protein 0
+    color "#b4cffb"
+  ]
+  node [
+    id 111
     label "TRAF6"
     ENS_id "ENSP00000433623"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 118
-    label "TTN"
-    ENS_id "ENSP00000467141"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 119
-    label "UBA52"
-    ENS_id "ENSP00000388107"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 120
-    label "UBB"
-    ENS_id "ENSP00000478771"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 121
-    label "UBC"
-    ENS_id "ENSP00000441543"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 122
-    label "UCHL1"
-    ENS_id "ENSP00000284440"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 123
-    label "ULK1"
-    ENS_id "ENSP00000324560"
     query_protein 1
     color "green"
   ]
   node [
-    id 124
-    label "ULK2"
-    ENS_id "ENSP00000378914"
+    id 112
+    label "TXN"
+    ENS_id "ENSP00000363641"
     query_protein 0
     color "#b4cffb"
   ]
   node [
-    id 125
-    label "UVRAG"
-    ENS_id "ENSP00000348455"
+    id 113
+    label "UBE2N"
+    ENS_id "ENSP00000316176"
     query_protein 0
     color "#b4cffb"
   ]
   node [
-    id 126
-    label "VDAC1"
-    ENS_id "ENSP00000378487"
+    id 114
+    label "UBE2V1"
+    ENS_id "ENSP00000340305"
     query_protein 0
     color "#b4cffb"
   ]
   node [
-    id 127
-    label "VMP1"
-    ENS_id "ENSP00000262291"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 128
-    label "WDFY3"
-    ENS_id "ENSP00000295888"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 129
-    label "YWHAE"
-    ENS_id "ENSP00000264335"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 130
-    label "YWHAG"
-    ENS_id "ENSP00000306330"
-    query_protein 0
-    color "#b4cffb"
-  ]
-  node [
-    id 131
-    label "YWHAQ"
-    ENS_id "ENSP00000371267"
+    id 115
+    label "XIAP"
+    ENS_id "ENSP00000360242"
     query_protein 0
     color "#b4cffb"
   ]
   edge [
     source 0
-    target 59
-    score 0.603
+    target 101
+    score 0.972
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.0
     dscore 0.0
-    tscore 0.603
+    tscore 0.972
   ]
   edge [
     source 1
-    target 9
-    score 0.9
+    target 11
+    score 0.999
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.0
+    escore 0.626
     dscore 0.9
-    tscore 0.0
+    tscore 0.982
   ]
   edge [
     source 2
-    target 9
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.0
-  ]
-  edge [
-    source 3
-    target 9
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.0
-  ]
-  edge [
-    source 4
-    target 25
-    score 0.996
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.483
-    dscore 0.5
-    tscore 0.987
-  ]
-  edge [
-    source 5
-    target 48
-    score 0.9470000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.9460000000000001
-    dscore 0.0
-    tscore 0.049
-  ]
-  edge [
-    source 6
-    target 48
-    score 0.973
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.926
-    dscore 0.0
-    tscore 0.653
-  ]
-  edge [
-    source 7
-    target 59
-    score 0.517
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.074
-    dscore 0.5
-    tscore 0.0
-  ]
-  edge [
-    source 8
-    target 105
-    score 0.963
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.9500000000000001
-  ]
-  edge [
-    source 9
-    target 10
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.0
-  ]
-  edge [
-    source 9
-    target 40
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.0
-  ]
-  edge [
-    source 9
-    target 37
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.0
-  ]
-  edge [
-    source 9
-    target 39
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.0
-  ]
-  edge [
-    source 9
-    target 38
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.0
-  ]
-  edge [
-    source 9
-    target 36
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.0
-  ]
-  edge [
-    source 9
-    target 79
-    score 0.483
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.30000000000000004
-  ]
-  edge [
-    source 11
-    target 21
-    score 0.995
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.395
-    dscore 0.5
-    tscore 0.984
-  ]
-  edge [
-    source 12
-    target 94
-    score 0.998
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.67
-    dscore 0.8
-    tscore 0.984
-  ]
-  edge [
-    source 12
-    target 123
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.684
-    dscore 0.9
-    tscore 0.987
-  ]
-  edge [
-    source 13
-    target 94
-    score 0.93
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.454
-    dscore 0.0
-    tscore 0.878
-  ]
-  edge [
-    source 13
-    target 21
-    score 0.997
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.601
-    dscore 0.7000000000000001
-    tscore 0.98
-  ]
-  edge [
-    source 13
-    target 67
-    score 0.663
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.133
-    dscore 0.5
-    tscore 0.28500000000000003
-  ]
-  edge [
-    source 14
-    target 94
-    score 0.998
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.528
-    dscore 0.8
-    tscore 0.984
-  ]
-  edge [
-    source 14
-    target 123
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.758
-    dscore 0.8
-    tscore 0.987
-  ]
-  edge [
-    source 14
-    target 67
-    score 0.8160000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.549
-    dscore 0.0
-    tscore 0.609
-  ]
-  edge [
-    source 15
-    target 25
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.734
-    dscore 0.9
-    tscore 0.987
-  ]
-  edge [
-    source 16
-    target 94
-    score 0.962
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.526
-    dscore 0.0
-    tscore 0.924
-  ]
-  edge [
-    source 16
-    target 21
-    score 0.8270000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.8270000000000001
-  ]
-  edge [
-    source 17
-    target 21
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.868
-    dscore 0.9
-    tscore 0.984
-  ]
-  edge [
-    source 17
-    target 67
-    score 0.796
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.614
-    dscore 0.0
-    tscore 0.492
-  ]
-  edge [
-    source 17
-    target 68
-    score 0.802
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.6950000000000001
-    dscore 0.0
-    tscore 0.378
-  ]
-  edge [
-    source 18
-    target 21
-    score 0.787
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.787
-  ]
-  edge [
-    source 18
-    target 67
-    score 0.6920000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.663
-    dscore 0.0
-    tscore 0.126
-  ]
-  edge [
-    source 18
-    target 68
-    score 0.969
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.964
-    dscore 0.0
-    tscore 0.154
-  ]
-  edge [
-    source 19
-    target 21
-    score 0.711
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.711
-  ]
-  edge [
-    source 20
-    target 105
-    score 0.982
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.975
-  ]
-  edge [
-    source 20
-    target 21
-    score 0.998
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.981
-  ]
-  edge [
-    source 21
-    target 105
-    score 0.981
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.0
-    tscore 0.968
-  ]
-  edge [
-    source 21
-    target 50
-    score 0.995
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.728
-    dscore 0.0
-    tscore 0.982
-  ]
-  edge [
-    source 21
-    target 49
-    score 0.993
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.634
-    dscore 0.0
-    tscore 0.982
-  ]
-  edge [
-    source 21
-    target 45
-    score 0.989
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.0
-    tscore 0.982
-  ]
-  edge [
-    source 21
-    target 48
-    score 0.879
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.728
-    dscore 0.0
-    tscore 0.5720000000000001
-  ]
-  edge [
-    source 21
-    target 67
-    score 0.8160000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.634
-    dscore 0.0
-    tscore 0.518
-  ]
-  edge [
-    source 21
-    target 68
-    score 0.771
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.71
-    dscore 0.0
-    tscore 0.241
-  ]
-  edge [
-    source 21
-    target 116
-    score 0.764
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.681
-  ]
-  edge [
-    source 22
-    target 25
-    score 0.996
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.6910000000000001
-    dscore 0.0
-    tscore 0.987
-  ]
-  edge [
-    source 23
-    target 25
-    score 0.996
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.733
-    dscore 0.0
-    tscore 0.985
-  ]
-  edge [
-    source 24
-    target 48
+    target 111
     score 0.986
     nscore 0
     fscore 0
     pscore 0
     ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.977
+  ]
+  edge [
+    source 3
+    target 111
+    score 0.992
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.5
+    tscore 0.981
+  ]
+  edge [
+    source 4
+    target 63
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.9
+    tscore 0.979
+  ]
+  edge [
+    source 5
+    target 101
+    score 0.984
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.28700000000000003
+    dscore 0.0
+    tscore 0.979
+  ]
+  edge [
+    source 6
+    target 63
+    score 0.788
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.5
+    tscore 0.28200000000000003
+  ]
+  edge [
+    source 7
+    target 11
+    score 0.918
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.72
+    tscore 0.507
+  ]
+  edge [
+    source 8
+    target 11
+    score 0.757
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.626
+    dscore 0.0
+    tscore 0.377
+  ]
+  edge [
+    source 9
+    target 11
+    score 0.812
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.626
+    dscore 0.0
+    tscore 0.519
+  ]
+  edge [
+    source 10
+    target 11
+    score 0.985
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
     escore 0.0
     dscore 0.9
-    tscore 0.874
+    tscore 0.857
   ]
   edge [
-    source 25
-    target 123
-    score 0.96
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.766
-    dscore 0.0
-    tscore 0.84
-  ]
-  edge [
-    source 25
-    target 85
+    source 11
+    target 79
     score 0.999
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.969
+    escore 0.967
     dscore 0.9
-    tscore 0.987
+    tscore 0.986
   ]
   edge [
-    source 25
-    target 125
+    source 11
+    target 70
     score 0.999
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.9410000000000001
-    dscore 0.8
-    tscore 0.987
+    escore 0.457
+    dscore 0.9
+    tscore 0.983
+  ]
+  edge [
+    source 11
+    target 13
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.983
+  ]
+  edge [
+    source 11
+    target 73
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.9
+    tscore 0.983
+  ]
+  edge [
+    source 11
+    target 69
+    score 0.997
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.72
+    tscore 0.984
+  ]
+  edge [
+    source 11
+    target 74
+    score 0.996
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.965
+  ]
+  edge [
+    source 11
+    target 15
+    score 0.994
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.544
+    dscore 0.54
+    tscore 0.977
+  ]
+  edge [
+    source 11
+    target 59
+    score 0.993
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.54
+    tscore 0.981
+  ]
+  edge [
+    source 11
+    target 31
+    score 0.978
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.926
+    dscore 0.72
+    tscore 0.056
+  ]
+  edge [
+    source 11
+    target 12
+    score 0.9590000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.54
+    tscore 0.916
+  ]
+  edge [
+    source 11
+    target 71
+    score 0.9460000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.9460000000000001
+  ]
+  edge [
+    source 11
+    target 75
+    score 0.935
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.382
+  ]
+  edge [
+    source 11
+    target 115
+    score 0.923
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.076
+    dscore 0.0
+    tscore 0.92
+  ]
+  edge [
+    source 11
+    target 24
+    score 0.9
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.0
+  ]
+  edge [
+    source 11
+    target 14
+    score 0.886
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.54
+    tscore 0.763
+  ]
+  edge [
+    source 11
+    target 61
+    score 0.878
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.076
+    dscore 0.54
+    tscore 0.736
+  ]
+  edge [
+    source 11
+    target 76
+    score 0.86
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.5
+    tscore 0.638
+  ]
+  edge [
+    source 11
+    target 72
+    score 0.856
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.856
+  ]
+  edge [
+    source 11
+    target 19
+    score 0.8140000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.8140000000000001
+  ]
+  edge [
+    source 11
+    target 62
+    score 0.801
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.801
+  ]
+  edge [
+    source 11
+    target 43
+    score 0.79
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.629
+  ]
+  edge [
+    source 11
+    target 44
+    score 0.778
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.7000000000000001
+    tscore 0.0
+  ]
+  edge [
+    source 11
+    target 29
+    score 0.752
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.752
+  ]
+  edge [
+    source 11
+    target 39
+    score 0.749
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.661
+  ]
+  edge [
+    source 11
+    target 53
+    score 0.732
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.732
+  ]
+  edge [
+    source 16
+    target 101
+    score 0.989
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.895
+  ]
+  edge [
+    source 17
+    target 101
+    score 0.994
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.5
+    tscore 0.986
+  ]
+  edge [
+    source 18
+    target 111
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.618
+    dscore 0.9
+    tscore 0.98
+  ]
+  edge [
+    source 20
+    target 63
+    score 0.873
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.631
+    dscore 0.0
+    tscore 0.67
+  ]
+  edge [
+    source 20
+    target 111
+    score 0.994
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.54
+    tscore 0.983
+  ]
+  edge [
+    source 21
+    target 63
+    score 0.785
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.5
+    tscore 0.588
+  ]
+  edge [
+    source 22
+    target 101
+    score 0.985
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.861
+  ]
+  edge [
+    source 23
+    target 101
+    score 0.967
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.967
   ]
   edge [
     source 25
-    target 80
+    target 63
+    score 0.795
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.422
+    dscore 0.0
+    tscore 0.66
+  ]
+  edge [
+    source 26
+    target 111
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.9
+    tscore 0.986
+  ]
+  edge [
+    source 27
+    target 63
+    score 0.982
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.5
+    tscore 0.9410000000000001
+  ]
+  edge [
+    source 28
+    target 63
+    score 0.883
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.794
+  ]
+  edge [
+    source 30
+    target 101
+    score 0.982
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.982
+  ]
+  edge [
+    source 32
+    target 63
+    score 0.975
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.5640000000000001
+    dscore 0.0
+    tscore 0.9470000000000001
+  ]
+  edge [
+    source 33
+    target 101
+    score 0.996
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.438
+    dscore 0.5
+    tscore 0.987
+  ]
+  edge [
+    source 34
+    target 101
+    score 0.973
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.973
+  ]
+  edge [
+    source 35
+    target 101
+    score 0.974
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.974
+  ]
+  edge [
+    source 36
+    target 101
+    score 0.971
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.971
+  ]
+  edge [
+    source 37
+    target 101
+    score 0.988
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.0
+    tscore 0.983
+  ]
+  edge [
+    source 38
+    target 101
+    score 0.996
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.72
+    tscore 0.982
+  ]
+  edge [
+    source 40
+    target 101
+    score 0.98
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.0
+    tscore 0.98
+  ]
+  edge [
+    source 41
+    target 63
+    score 0.919
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.657
+    dscore 0.0
+    tscore 0.774
+  ]
+  edge [
+    source 41
+    target 111
+    score 0.992
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.509
+    dscore 0.54
+    tscore 0.97
+  ]
+  edge [
+    source 42
+    target 63
+    score 0.885
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.675
+    dscore 0.0
+    tscore 0.662
+  ]
+  edge [
+    source 42
+    target 111
     score 0.999
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.734
-    dscore 0.8
-    tscore 0.986
+    dscore 0.9
+    tscore 0.979
   ]
   edge [
-    source 25
-    target 84
+    source 45
+    target 101
+    score 0.981
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.329
+    dscore 0.0
+    tscore 0.973
+  ]
+  edge [
+    source 45
+    target 111
     score 0.999
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.97
+    escore 0.457
     dscore 0.9
-    tscore 0.987
+    tscore 0.984
   ]
   edge [
-    source 25
-    target 102
-    score 0.993
+    source 46
+    target 111
+    score 0.999
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.622
-    dscore 0.0
-    tscore 0.983
+    escore 0.457
+    dscore 0.9
+    tscore 0.984
   ]
   edge [
-    source 25
-    target 72
-    score 0.992
+    source 47
+    target 111
+    score 0.999
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.5740000000000001
-    dscore 0.0
-    tscore 0.983
+    escore 0.457
+    dscore 0.9
+    tscore 0.984
   ]
   edge [
-    source 25
-    target 104
-    score 0.987
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.33
-    dscore 0.0
-    tscore 0.982
-  ]
-  edge [
-    source 25
-    target 52
-    score 0.984
+    source 48
+    target 111
+    score 0.985
     nscore 0
     fscore 0
     pscore 0
@@ -1608,1160 +1604,332 @@ graph [
     tscore 0.973
   ]
   edge [
-    source 25
-    target 127
-    score 0.984
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.979
-  ]
-  edge [
-    source 25
-    target 76
-    score 0.982
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.982
-  ]
-  edge [
-    source 25
-    target 41
-    score 0.98
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.98
-  ]
-  edge [
-    source 26
-    target 48
-    score 0.998
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.982
-  ]
-  edge [
-    source 26
-    target 67
-    score 0.6960000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.31
-    dscore 0.0
-    tscore 0.578
-  ]
-  edge [
-    source 26
-    target 68
-    score 0.812
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.323
-    dscore 0.0
-    tscore 0.734
-  ]
-  edge [
-    source 27
-    target 48
-    score 0.998
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.9
-    tscore 0.983
-  ]
-  edge [
-    source 27
-    target 68
-    score 0.8260000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.765
-  ]
-  edge [
-    source 28
-    target 94
-    score 0.964
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.9
-    tscore 0.40700000000000003
-  ]
-  edge [
-    source 28
-    target 123
-    score 0.964
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.9
-    tscore 0.394
-  ]
-  edge [
-    source 29
-    target 94
-    score 0.995
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.857
-    dscore 0.0
-    tscore 0.969
-  ]
-  edge [
-    source 29
-    target 48
-    score 0.977
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.333
-    dscore 0.0
-    tscore 0.968
-  ]
-  edge [
-    source 29
-    target 67
-    score 0.666
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.459
-    dscore 0.0
-    tscore 0.40800000000000003
-  ]
-  edge [
-    source 29
-    target 68
-    score 0.844
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.316
-    dscore 0.0
-    tscore 0.781
-  ]
-  edge [
-    source 30
-    target 68
-    score 0.902
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.868
-  ]
-  edge [
-    source 31
-    target 105
-    score 0.992
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.9
-    tscore 0.879
-  ]
-  edge [
-    source 32
-    target 94
-    score 0.997
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.91
-    dscore 0.0
-    tscore 0.974
-  ]
-  edge [
-    source 33
-    target 48
-    score 0.9420000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.9420000000000001
-  ]
-  edge [
-    source 33
-    target 67
-    score 0.734
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.734
-  ]
-  edge [
-    source 33
-    target 68
-    score 0.922
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.922
-  ]
-  edge [
-    source 34
-    target 59
-    score 0.874
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.874
-  ]
-  edge [
-    source 35
-    target 105
-    score 0.985
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.048
-    dscore 0.0
-    tscore 0.984
-  ]
-  edge [
-    source 42
-    target 105
-    score 0.986
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.981
-  ]
-  edge [
-    source 43
-    target 109
-    score 0.961
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.9
-    tscore 0.355
-  ]
-  edge [
-    source 44
-    target 67
-    score 0.98
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.98
-  ]
-  edge [
-    source 46
-    target 48
-    score 0.997
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.9
-    tscore 0.98
-  ]
-  edge [
-    source 46
-    target 67
-    score 0.926
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.17300000000000001
-    dscore 0.7000000000000001
-    tscore 0.728
-  ]
-  edge [
-    source 46
-    target 68
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.9430000000000001
-    dscore 0.7000000000000001
-    tscore 0.979
-  ]
-  edge [
-    source 47
-    target 67
-    score 0.8240000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.584
-    dscore 0.0
-    tscore 0.595
-  ]
-  edge [
-    source 47
-    target 68
-    score 0.992
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.9470000000000001
-    dscore 0.0
-    tscore 0.872
-  ]
-  edge [
-    source 48
-    target 94
-    score 0.8310000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.459
-    dscore 0.0
-    tscore 0.7000000000000001
-  ]
-  edge [
-    source 48
-    target 109
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.51
-    dscore 0.9
-    tscore 0.984
-  ]
-  edge [
-    source 48
-    target 77
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.6950000000000001
-    dscore 0.9
-    tscore 0.986
-  ]
-  edge [
-    source 48
-    target 81
-    score 0.997
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.9
-    tscore 0.966
-  ]
-  edge [
-    source 48
-    target 95
-    score 0.994
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.96
-    dscore 0.0
-    tscore 0.878
-  ]
-  edge [
-    source 48
-    target 49
-    score 0.982
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.166
-    dscore 0.9
-    tscore 0.804
-  ]
-  edge [
-    source 48
+    source 49
     target 111
-    score 0.972
+    score 0.989
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.295
-    dscore 0.9
-    tscore 0.645
+    escore 0.457
+    dscore 0.5
+    tscore 0.965
   ]
   edge [
-    source 48
-    target 128
-    score 0.968
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.9510000000000001
-    dscore 0.0
-    tscore 0.369
-  ]
-  edge [
-    source 48
-    target 123
-    score 0.834
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.589
-    dscore 0.0
-    tscore 0.614
-  ]
-  edge [
-    source 49
-    target 105
-    score 0.978
+    source 50
+    target 63
+    score 0.9560000000000001
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.292
     dscore 0.0
-    tscore 0.97
-  ]
-  edge [
-    source 49
-    target 123
-    score 0.778
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.577
-    dscore 0.0
-    tscore 0.496
-  ]
-  edge [
-    source 49
-    target 77
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.64
-    dscore 0.9
-    tscore 0.986
-  ]
-  edge [
-    source 49
-    target 109
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.51
-    dscore 0.9
-    tscore 0.984
-  ]
-  edge [
-    source 50
-    target 105
-    score 0.9500000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.9500000000000001
-  ]
-  edge [
-    source 50
-    target 123
-    score 0.864
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.577
-    dscore 0.0
-    tscore 0.6920000000000001
-  ]
-  edge [
-    source 50
-    target 77
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.675
-    dscore 0.9
-    tscore 0.986
-  ]
-  edge [
-    source 50
-    target 109
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.639
-    dscore 0.9
-    tscore 0.984
+    tscore 0.9410000000000001
   ]
   edge [
     source 51
-    target 105
-    score 0.9390000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.387
-    dscore 0.0
-    tscore 0.905
-  ]
-  edge [
-    source 53
-    target 59
-    score 0.763
+    target 63
+    score 0.9
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.0
-    dscore 0.7000000000000001
-    tscore 0.245
-  ]
-  edge [
-    source 54
-    target 59
-    score 0.763
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.7000000000000001
-    tscore 0.245
-  ]
-  edge [
-    source 55
-    target 59
-    score 0.685
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.685
-  ]
-  edge [
-    source 56
-    target 59
-    score 0.795
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.5
-    tscore 0.306
-  ]
-  edge [
-    source 57
-    target 109
-    score 0.997
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.724
-    dscore 0.5
-    tscore 0.982
-  ]
-  edge [
-    source 57
-    target 68
-    score 0.879
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.42
-    dscore 0.8
-    tscore 0.0
-  ]
-  edge [
-    source 58
-    target 59
-    score 0.968
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.734
-    dscore 0.0
-    tscore 0.888
-  ]
-  edge [
-    source 59
-    target 122
-    score 0.633
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.0
-    tscore 0.352
-  ]
-  edge [
-    source 59
-    target 66
-    score 0.545
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.384
-  ]
-  edge [
-    source 59
-    target 107
-    score 0.53
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.309
-    dscore 0.0
-    tscore 0.34800000000000003
-  ]
-  edge [
-    source 59
-    target 86
-    score 0.516
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.073
-    dscore 0.5
-    tscore 0.0
-  ]
-  edge [
-    source 59
-    target 82
-    score 0.499
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.5
-    tscore 0.0
-  ]
-  edge [
-    source 59
-    target 96
-    score 0.499
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.5
-    tscore 0.0
-  ]
-  edge [
-    source 59
-    target 119
-    score 0.499
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.5
-    tscore 0.0
-  ]
-  edge [
-    source 60
-    target 115
-    score 0.8
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.8
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 61
-    target 115
-    score 0.8
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.8
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 62
-    target 115
-    score 0.8
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.8
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 63
-    target 115
-    score 0.8
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.8
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 64
-    target 115
-    score 0.8
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.8
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 65
-    target 109
-    score 0.971
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.962
-  ]
-  edge [
-    source 67
-    target 77
-    score 0.782
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.6950000000000001
-    dscore 0.0
-    tscore 0.316
-  ]
-  edge [
-    source 67
-    target 109
-    score 0.9490000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.677
-    dscore 0.5
-    tscore 0.711
-  ]
-  edge [
-    source 67
-    target 70
-    score 0.673
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.421
-    dscore 0.0
-    tscore 0.458
-  ]
-  edge [
-    source 67
-    target 95
-    score 0.635
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.312
-    dscore 0.0
-    tscore 0.491
-  ]
-  edge [
-    source 68
-    target 77
-    score 0.992
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.6950000000000001
     dscore 0.9
-    tscore 0.764
-  ]
-  edge [
-    source 68
-    target 109
-    score 0.997
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.6960000000000001
-    dscore 0.5
-    tscore 0.983
-  ]
-  edge [
-    source 68
-    target 81
-    score 0.992
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.96
-    dscore 0.0
-    tscore 0.8170000000000001
-  ]
-  edge [
-    source 68
-    target 92
-    score 0.8320000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.0
-    dscore 0.0
-    tscore 0.8320000000000001
-  ]
-  edge [
-    source 68
-    target 113
-    score 0.803
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.5
-    tscore 0.49
-  ]
-  edge [
-    source 69
-    target 77
-    score 0.747
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.656
-    dscore 0.0
-    tscore 0.297
-  ]
-  edge [
-    source 71
-    target 94
-    score 0.893
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.855
-  ]
-  edge [
-    source 73
-    target 115
-    score 0.9430000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.671
-    dscore 0.8
-    tscore 0.21
-  ]
-  edge [
-    source 74
-    target 115
-    score 0.8
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.8
-    dscore 0.0
     tscore 0.0
   ]
   edge [
-    source 75
-    target 123
-    score 0.9450000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.459
-    dscore 0.5
-    tscore 0.8140000000000001
-  ]
-  edge [
-    source 75
-    target 115
-    score 0.919
+    source 52
+    target 63
+    score 0.9
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.9
     dscore 0.0
-    tscore 0.228
+    tscore 0.0
   ]
   edge [
-    source 77
-    target 109
-    score 0.992
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.5
-    tscore 0.974
-  ]
-  edge [
-    source 77
-    target 121
-    score 0.964
+    source 54
+    target 101
+    score 0.999
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.964
+    dscore 0.9
+    tscore 0.982
+  ]
+  edge [
+    source 55
+    target 111
+    score 0.994
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.5
+    tscore 0.981
+  ]
+  edge [
+    source 56
+    target 111
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.509
+    dscore 0.8
+    tscore 0.983
+  ]
+  edge [
+    source 57
+    target 63
+    score 0.9440000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.6930000000000001
+    dscore 0.8
+    tscore 0.171
+  ]
+  edge [
+    source 58
+    target 111
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.972
+    dscore 0.9
+    tscore 0.974
+  ]
+  edge [
+    source 60
+    target 101
+    score 0.992
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.508
+    dscore 0.0
+    tscore 0.985
+  ]
+  edge [
+    source 60
+    target 111
+    score 0.997
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.8
+    tscore 0.982
+  ]
+  edge [
+    source 63
+    target 64
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.651
+    dscore 0.9
+    tscore 0.982
+  ]
+  edge [
+    source 63
+    target 80
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.674
+    dscore 0.9
+    tscore 0.982
+  ]
+  edge [
+    source 63
+    target 65
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.96
+    dscore 0.9
+    tscore 0.982
+  ]
+  edge [
+    source 63
+    target 81
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9590000000000001
+    dscore 0.9
+    tscore 0.982
+  ]
+  edge [
+    source 63
+    target 82
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.784
+    dscore 0.54
+    tscore 0.982
+  ]
+  edge [
+    source 63
+    target 68
+    score 0.982
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.362
+    dscore 0.9
+    tscore 0.75
+  ]
+  edge [
+    source 63
+    target 66
+    score 0.966
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.653
+    dscore 0.5
+    tscore 0.8210000000000001
+  ]
+  edge [
+    source 63
+    target 106
+    score 0.964
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.5630000000000001
+    dscore 0.8
+    tscore 0.623
+  ]
+  edge [
+    source 63
+    target 112
+    score 0.9570000000000001
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.9570000000000001
     dscore 0.0
     tscore 0.0
   ]
   edge [
-    source 77
-    target 97
-    score 0.9490000000000001
+    source 63
+    target 67
+    score 0.929
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.9490000000000001
-    dscore 0.0
-    tscore 0.0
+    escore 0.542
+    dscore 0.5
+    tscore 0.717
   ]
   edge [
-    source 77
-    target 118
-    score 0.9460000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.313
-    dscore 0.0
-    tscore 0.926
-  ]
-  edge [
-    source 77
-    target 120
-    score 0.932
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.91
-    dscore 0.0
-    tscore 0.28
-  ]
-  edge [
-    source 77
-    target 119
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.9
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 77
-    target 83
-    score 0.856
+    source 63
+    target 107
+    score 0.921
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.0
-    dscore 0.5
-    tscore 0.725
+    dscore 0.0
+    tscore 0.921
   ]
   edge [
-    source 77
-    target 108
-    score 0.726
+    source 63
+    target 77
+    score 0.86
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.457
     dscore 0.0
-    tscore 0.517
+    tscore 0.753
   ]
   edge [
-    source 77
-    target 81
-    score 0.722
+    source 63
+    target 104
+    score 0.846
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.07
+    escore 0.0
     dscore 0.0
-    tscore 0.714
+    tscore 0.846
+  ]
+  edge [
+    source 63
+    target 86
+    score 0.839
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.464
+    dscore 0.54
+    tscore 0.402
+  ]
+  edge [
+    source 63
+    target 91
+    score 0.781
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.542
+    dscore 0.0
+    tscore 0.543
+  ]
+  edge [
+    source 63
+    target 105
+    score 0.738
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.5630000000000001
+    dscore 0.0
+    tscore 0.426
   ]
   edge [
     source 78
-    target 105
-    score 0.988
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.481
-    dscore 0.0
-    tscore 0.978
-  ]
-  edge [
-    source 81
-    target 94
-    score 0.926
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.926
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 81
-    target 109
-    score 0.962
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.438
-    dscore 0.0
-    tscore 0.936
-  ]
-  edge [
-    source 87
-    target 105
-    score 0.9400000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.92
-  ]
-  edge [
-    source 88
-    target 105
+    target 101
     score 0.988
     nscore 0
     fscore 0
@@ -2772,212 +1940,68 @@ graph [
     tscore 0.979
   ]
   edge [
-    source 89
-    target 109
-    score 0.968
+    source 83
+    target 101
+    score 0.98
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.615
+    escore 0.0
     dscore 0.0
-    tscore 0.92
+    tscore 0.98
   ]
   edge [
-    source 90
-    target 94
-    score 0.99
+    source 84
+    target 101
+    score 0.979
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.292
+    escore 0.0
+    dscore 0.0
+    tscore 0.979
+  ]
+  edge [
+    source 85
+    target 111
+    score 0.992
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.8
+    tscore 0.965
+  ]
+  edge [
+    source 87
+    target 101
+    score 0.986
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
     dscore 0.0
     tscore 0.986
   ]
   edge [
-    source 91
-    target 94
-    score 0.971
+    source 88
+    target 101
+    score 0.986
     nscore 0
     fscore 0
     pscore 0
     ascore 0
-    escore 0.292
+    escore 0.0
     dscore 0.0
-    tscore 0.961
+    tscore 0.986
   ]
   edge [
-    source 93
-    target 123
-    score 0.873
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.0
-    tscore 0.8280000000000001
-  ]
-  edge [
-    source 94
-    target 123
-    score 0.999
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.751
-    dscore 0.8
-    tscore 0.987
-  ]
-  edge [
-    source 94
-    target 124
-    score 0.997
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.22
-    dscore 0.8
-    tscore 0.987
-  ]
-  edge [
-    source 94
-    target 116
-    score 0.969
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.0
-    tscore 0.9460000000000001
-  ]
-  edge [
-    source 97
-    target 109
-    score 0.961
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.55
-    dscore 0.9
-    tscore 0.20800000000000002
-  ]
-  edge [
-    source 98
-    target 123
-    score 0.881
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.5
-    tscore 0.599
-  ]
-  edge [
-    source 98
-    target 115
-    score 0.9
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.9
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 99
-    target 115
-    score 0.903
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.9
-    dscore 0.0
-    tscore 0.07
-  ]
-  edge [
-    source 100
-    target 115
-    score 0.904
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.9
-    dscore 0.0
-    tscore 0.085
-  ]
-  edge [
-    source 101
-    target 105
-    score 0.995
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.292
-    dscore 0.9
-    tscore 0.9470000000000001
-  ]
-  edge [
-    source 103
-    target 123
-    score 0.931
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.72
-    tscore 0.587
-  ]
-  edge [
-    source 105
-    target 110
-    score 0.998
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.9
-    tscore 0.97
-  ]
-  edge [
-    source 105
-    target 116
-    score 0.9500000000000001
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.0
-    tscore 0.913
-  ]
-  edge [
-    source 106
-    target 123
-    score 0.841
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.72
-    tscore 0.0
-  ]
-  edge [
-    source 109
-    target 117
+    source 89
+    target 111
     score 0.998
     nscore 0
     fscore 0
@@ -2988,111 +2012,231 @@ graph [
     tscore 0.982
   ]
   edge [
-    source 109
-    target 126
-    score 0.977
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.457
-    dscore 0.8
-    tscore 0.8130000000000001
-  ]
-  edge [
-    source 109
-    target 121
-    score 0.967
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.619
-    dscore 0.9
-    tscore 0.209
-  ]
-  edge [
-    source 109
-    target 128
-    score 0.962
+    source 90
+    target 111
+    score 0.989
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.457
     dscore 0.0
-    tscore 0.933
+    tscore 0.981
   ]
   edge [
-    source 112
-    target 123
-    score 0.852
+    source 92
+    target 111
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.507
+    dscore 0.9
+    tscore 0.983
+  ]
+  edge [
+    source 93
+    target 111
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.509
+    dscore 0.9
+    tscore 0.987
+  ]
+  edge [
+    source 94
+    target 111
+    score 0.995
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.509
+    dscore 0.5
+    tscore 0.984
+  ]
+  edge [
+    source 95
+    target 101
+    score 0.987
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.458
+    dscore 0.5
+    tscore 0.9580000000000001
+  ]
+  edge [
+    source 96
+    target 101
+    score 0.991
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.458
+    dscore 0.5
+    tscore 0.97
+  ]
+  edge [
+    source 97
+    target 111
+    score 0.989
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.96
+    dscore 0.5
+    tscore 0.511
+  ]
+  edge [
+    source 98
+    target 101
+    score 0.99
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.0
+    tscore 0.984
+  ]
+  edge [
+    source 99
+    target 101
+    score 0.982
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.292
-    dscore 0.8
-    tscore 0.0
-  ]
-  edge [
-    source 114
-    target 115
-    score 0.934
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.671
-    dscore 0.8
-    tscore 0.078
-  ]
-  edge [
-    source 115
-    target 130
-    score 0.922
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.922
     dscore 0.0
-    tscore 0.0
+    tscore 0.976
   ]
   edge [
-    source 115
-    target 129
-    score 0.621
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.621
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 115
-    target 131
-    score 0.582
-    nscore 0
-    fscore 0
-    pscore 0
-    ascore 0
-    escore 0.582
-    dscore 0.0
-    tscore 0.0
-  ]
-  edge [
-    source 123
-    target 124
-    score 0.996
+    source 100
+    target 101
+    score 0.998
     nscore 0
     fscore 0
     pscore 0
     ascore 0
     escore 0.0
     dscore 0.9
+    tscore 0.983
+  ]
+  edge [
+    source 101
+    target 103
+    score 0.998
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.292
+    dscore 0.9
+    tscore 0.983
+  ]
+  edge [
+    source 101
+    target 111
+    score 0.989
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.508
+    dscore 0.5
     tscore 0.962
+  ]
+  edge [
+    source 101
+    target 102
+    score 0.983
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.9
+    tscore 0.844
+  ]
+  edge [
+    source 104
+    target 111
+    score 0.983
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.625
+    dscore 0.0
+    tscore 0.9560000000000001
+  ]
+  edge [
+    source 108
+    target 111
+    score 0.985
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.509
+    dscore 0.9
+    tscore 0.735
+  ]
+  edge [
+    source 109
+    target 111
+    score 0.997
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.0
+    dscore 0.8
+    tscore 0.986
+  ]
+  edge [
+    source 110
+    target 111
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.96
+    dscore 0.9
+    tscore 0.966
+  ]
+  edge [
+    source 111
+    target 113
+    score 0.999
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.973
+    dscore 0.4
+    tscore 0.982
+  ]
+  edge [
+    source 111
+    target 114
+    score 0.992
+    nscore 0
+    fscore 0
+    pscore 0
+    ascore 0
+    escore 0.457
+    dscore 0.4
+    tscore 0.979
   ]
 ]

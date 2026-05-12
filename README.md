@@ -5,7 +5,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13-f97316?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![STRING DB](https://img.shields.io/badge/Database-STRING.org-3776AB?style=flat-square)](https://string-db.org/)
-[![ToppGene](https://img.shields.io/badge/Enrichment-ToppGene.org-8b5cf6?style=flat-square)](https://toppgene.cchmc.org/)
+[![ToppGene](https://img.shields.io/badge/Enrichment-ToppGene.org_&_GSEApy-8b5cf6?style=flat-square)](https://toppgene.cchmc.org/)
  </div>
 
 ---
@@ -22,7 +22,7 @@ Whether investigating complex biological phenomena or specific disease states, P
 
 | Feature | Description |
 |---|---|
-| 🔗 **PPI Network Generation** | Fetches phisical protein-protein interaction data directly from STRING-DB |
+| 🔗 **PPI Network Generation** | Fetches phisical protein-protein interaction data directly from STRING-DB.org |
 | 🎯 **Hub Detection** | Identifies network hubs using topological metrics |
 | 📊 **Enrichment Analysis** | Hubs enrichment analysis using the toppgene.org API |
 | 🔎 **GSEA** | Gene Set Enrichment Analysis with ranked candidate hubs based on topological metrics |
@@ -40,6 +40,8 @@ Whether investigating complex biological phenomena or specific disease states, P
   - [3. Network Analysis](#3-network-analysis-network_analysispy)
   - [4. Enrichment Analysis](#4-enrichment-analysis-enrichment_analysispy)
   - [5. Gene Set Enrichment Analysis (GSEA)](#5-gene-set-enrichment-analysis-gseapy)
+- [Examples/Tests](#examplestests)
+- [References](#references)
 
 ---
 
@@ -303,6 +305,12 @@ Results are saved in a `GSEA/` folder:
 | `GSEA_report.csv` | Filtered by statistical significance (`FDR q-value`), sorted by `NES`. |
 | `plots/` | GSEA running sum plots (only if `--save_plots` is used). |
 | Raw gseapy output files | Full gseapy output for further inspection. |
+
+> **Note:** A `LookupError` during GSEA execution typically indicates that no statistically significant enrichment results were found for the provided gene set. Consider adjusting the input gene list, selecting a different gene set, or relaxing the significance threshold in `GSEA.py`.
+
+## Examples/Tests
+
+Two example use cases for ProtNetEnrich are provided in `tests/`. The `ATGHub/` folder contains full pipeline results from a study focused on the identification of novel candidate genes involved in the autophagic process. The `small_network/` folder contains pipeline results computed on a curated small set of immunological genes, and serves as a lightweight reference for testing and exploration.
 
 ## References
  
