@@ -1,4 +1,4 @@
-import sys, json
+import sys, json, os
 import requests as r
 
 
@@ -64,6 +64,12 @@ if __name__=='__main__':
         "-tx" : "taxon"
     }
     params_values = {params[p]:sys.argv[sys.argv.index(p)+1] for p in params.keys() if p in sys.argv}
+
+    ### Create output directory ###
+    try:
+        os.mkdir("output")
+    except:
+        print("output folder already exists")
 
     
     ### Retrieve and save physical protein interaction data ###
