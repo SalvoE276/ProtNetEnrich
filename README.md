@@ -80,6 +80,12 @@ python3 GSEA.py output/borda_ranking.json output GO_26
 
 > **Note:** `query_proteins.txt` should contain one HGNC gene symbol per line.
 
+#### Windows only
+
+To run this code on Windows machine use `run_pipeline_windows_only` as template.
+
+> ⚠️ DO NOT remove `-X utf8` in the network analysis (Step 3): it is essential to generate correctly the `interactive_network.html`
+
 ---
 
 ## Pipeline Overview
