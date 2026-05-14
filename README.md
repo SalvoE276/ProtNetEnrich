@@ -16,6 +16,8 @@
 
 Whether investigating complex biological phenomena or specific disease states, ProtNetEnrich provides a comprehensive perspective on the interactions of your target proteins.
 
+> **Note:** PPI networks are subject to biases arising from the uneven investigation of different proteins, which can lead to biased inferences.
+
 ---
 
 ## Features
