@@ -28,7 +28,7 @@ Whether investigating complex biological phenomena or specific disease states, P
 | 🎯 **Hub Detection** | Identifies network hubs using topological metrics |
 | 📊 **Enrichment Analysis** | Hubs enrichment analysis using the toppgene.org API |
 | 🔎 **GSEA** | Gene Set Enrichment Analysis with ranked candidate hubs based on topological metrics |
-| 📈 **Visualization** | Interactive network, diagnotic plots for hubs identification, GSEA running score curves |
+| 📈 **Visualization** | Interactive network, diagnostic plots for hubs identification, GSEA running score curves |
 
 ---
 
