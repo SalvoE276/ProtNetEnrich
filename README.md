@@ -302,7 +302,7 @@ python3 GSEA.py <borda_ranking.json> <output_directory> <gene_set> [options]
 | Flag | Description |
 |---|---|
 | `--save_plots` | Save GSEA running sum plots to the output directory. |
-| `--custom_set` | Use specific supported gseapy gene set |
+| `--custom_set` | Use specific supported gseapy gene set. |
 
 **Output**
 
